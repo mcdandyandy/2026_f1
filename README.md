@@ -4,7 +4,7 @@
 
 <P>
 Mod Summary
-Rosters & Personnel
+
 </P>
 121 drivers (main + junior series pool) with full attribute/trait profiles
 <BR>
