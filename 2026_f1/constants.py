@@ -17,6 +17,10 @@ WARN = (255, 210, 80)
 # Driver hiring rules
 MIN_DRIVER_SIGNING_AGE = 18
 
+
+# Fixed entry cost for participating in the season\'s official pre-season
+# testing programme. Charged once after the final pre-season test concludes.
+PRESEASON_TESTING_ENTRY_COST_M = 3.0
 # ---------------------------------------------------------------------------
 # Driver regen/rookie talent distribution
 # ---------------------------------------------------------------------------
@@ -255,6 +259,9 @@ CHASSIS_DEV_BUDGET_OPTIONS = {
 }
 CHASSIS_DEV_DEFAULT_BUDGET = "moderate"
 CHASSIS_DEV_CURRENT_PACKAGE_DEFAULT = "mechanical_platform"
+CHASSIS_DEV_SPEC_B_PACKAGE_KEY = "spec_b_chassis"
+CHASSIS_DEV_SPEC_B_CARRYOVER = 0.8
+CHASSIS_DEV_SPEC_B_BUDGET_MULTIPLIER = 2.0
 CHASSIS_DEV_CURRENT_PACKAGE_CONCEPT_SHARE = 0.20
 CHASSIS_DEV_CURRENT_PACKAGE_CATCHUP_THRESHOLD_PCT = 5.0
 CHASSIS_DEV_CURRENT_PACKAGE_CATCHUP_AHEAD_BASE_MULT = 0.95
@@ -641,6 +648,16 @@ AI_DEV_AERO_MAX_ACTIVE = 2
 # demand a larger improvement to balance their longer timelines.
 AI_DEV_AERO_SPEC_MIN_GAIN = 0.018
 AI_DEV_AERO_DEV_MIN_GAIN = 0.03
+
+# Spec B is an exceptional current-season overhaul. AI teams only consider it
+# when its deterministic expected gain is large enough to justify its cost and
+# is meaningfully better than a conventional chassis package.
+AI_DEV_SPEC_B_MIN_GAIN_SECONDS = 0.25
+AI_DEV_SPEC_B_MIN_NORMAL_GAIN_MULTIPLIER = 2.0
+AI_DEV_SPEC_B_MANUFACTURE_BUFFER_WEEKS = 2
+# AI-only progress speed for Spec B chassis projects. Does not affect players
+# or any conventional current/future chassis project.
+AI_DEV_SPEC_B_PROGRESS_MULTIPLIER = 1.5
 
 # Starting cash balance for teams in the inaugural season
 INITIAL_TEAM_BALANCE_M = 65.0
