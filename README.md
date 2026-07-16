@@ -3,7 +3,7 @@
 [Latest Release](https://github.com/mcdandyandy/2026_f1/releases)
 
 <P>
-Mod Summary
+<b>Mod Summary</b>
 
 </P>
 121 drivers (main + junior series pool) with full attribute/trait profiles
