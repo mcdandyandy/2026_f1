@@ -91,7 +91,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 60.0
   },
   {
     "name": "Ferrari F1",
@@ -185,7 +186,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 60.0
   },
   {
     "name": "McLaren",
@@ -281,7 +283,8 @@
       "type": "customer"
     },
     "engine_contract_type": "customer",
-    "first_active_season": 1
+    "first_active_season": 1,
+    "starting_balance_m": 53.8
   },
   {
     "name": "Mercedes",
@@ -377,7 +380,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 60.0
   },
   {
     "name": "Aston Martin",
@@ -473,7 +477,8 @@
       "start_season": 1,
       "expires_season": 2,
       "type": "customer"
-    }
+    },
+    "starting_balance_m": 56.9
   },
   {
     "name": "Alpine",
@@ -568,7 +573,8 @@
       "expires_season": 3,
       "type": "customer"
     },
-    "engine_contract_type": "customer"
+    "engine_contract_type": "customer",
+    "starting_balance_m": 35.0
   },
   {
     "name": "Racing Bulls",
@@ -663,7 +669,8 @@
       "expires_season": 3,
       "type": "customer"
     },
-    "engine_contract_type": "customer"
+    "engine_contract_type": "customer",
+    "starting_balance_m": 28.8
   },
   {
     "name": "Audi",
@@ -759,7 +766,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 44.4
   },
   {
     "name": "Haas F1",
@@ -854,7 +862,8 @@
       "expires_season": 3,
       "type": "customer"
     },
-    "engine_contract_type": "customer"
+    "engine_contract_type": "customer",
+    "starting_balance_m": 25.6
   },
   {
     "name": "Williams Racing",
@@ -949,7 +958,8 @@
       "expires_season": 3,
       "type": "customer"
     },
-    "engine_contract_type": "customer"
+    "engine_contract_type": "customer",
+    "starting_balance_m": 41.2
   },
   {
     "name": "Cadillac",
@@ -1044,7 +1054,8 @@
       "expires_season": 3,
       "type": "customer"
     },
-    "engine_contract_type": "customer"
+    "engine_contract_type": "customer",
+    "starting_balance_m": 31.9
   },
   {
     "name": "Porsche",
@@ -1140,7 +1151,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 60.0
   },
   {
     "name": "Toyota",
@@ -1236,7 +1248,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 56.0
   },
   {
     "name": "BYD",
@@ -1332,7 +1345,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 64.0
   },
   {
     "name": "BMW",
@@ -1428,7 +1442,8 @@
       "type": "works",
       "start_season": 1,
       "expires_season": 9999
-    }
+    },
+    "starting_balance_m": 57.6
   },
   {
     "name": "Brabham",
@@ -1517,7 +1532,8 @@
     "previous_constructor_position": null,
     "first_active_season": 2,
     "engine_contract_type": "customer",
-    "engine_supplier": "Cosworth"
+    "engine_supplier": "Cosworth",
+    "starting_balance_m": 37.5
   },
   {
     "name": "Lotus",
@@ -1606,7 +1622,8 @@
     "previous_constructor_position": null,
     "first_active_season": 3,
     "engine_contract_type": "customer",
-    "engine_supplier": "Cosworth"
+    "engine_supplier": "Cosworth",
+    "starting_balance_m": 36.0
   },
   {
     "name": "Jaguar Racing",
@@ -1695,6 +1712,7 @@
     "previous_constructor_position": null,
     "first_active_season": 4,
     "engine_contract_type": "customer",
-    "engine_supplier": "Cosworth"
+    "engine_supplier": "Cosworth",
+    "starting_balance_m": 45.0
   }
 ]
