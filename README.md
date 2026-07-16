@@ -1,4 +1,4 @@
-2026 Mod for Team Principal: A Racing Manager 
+2026 Mod for <i><b>Team Principal: A Racing Manager </b></i>
 
 [Latest Release](https://github.com/mcdandyandy/2026_f1/releases)
 
