@@ -1,0 +1,1781 @@
+[
+  {
+    "series_name": "Formula 2",
+    "series_abbreviation": "F2",
+    "description": "The premier feeder series to Formula 1, Formula 2 is the final proving ground for drivers aiming to reach the pinnacle of motorsport.",
+    "tier": 2,
+    "minimum_driver_age": 17,
+    "maximum_driver_age": 26,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 8,
+    "teams": [
+      {
+        "name": "Prema Racing",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "ART Grand Prix",
+        "primary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          215,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Hitech Grand Prix",
+        "primary_color_rgb": [
+          0,
+          0,
+          80
+        ],
+        "secondary_color_rgb": [
+          255,
+          50,
+          50
+        ],
+        "quality": 8
+      },
+      {
+        "name": "MP Motorsport",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "DAMS",
+        "primary_color_rgb": [
+          255,
+          215,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Rodin Motorsport",
+        "primary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "secondary_color_rgb": [
+          180,
+          0,
+          0
+        ],
+        "quality": 8
+      },
+      {
+        "name": "Invicta Racing",
+        "primary_color_rgb": [
+          0,
+          80,
+          160
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Van Amersfoort Racing",
+        "primary_color_rgb": [
+          255,
+          100,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Campos Racing",
+        "primary_color_rgb": [
+          0,
+          120,
+          60
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 5
+      },
+      {
+        "name": "AIX Racing",
+        "primary_color_rgb": [
+          40,
+          40,
+          40
+        ],
+        "secondary_color_rgb": [
+          200,
+          200,
+          200
+        ],
+        "quality": 5
+      },
+      {
+        "name": "PHM Racing",
+        "primary_color_rgb": [
+          180,
+          0,
+          180
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 4
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      "chi",
+      null,
+      null,
+      "jap",
+      null,
+      null,
+      "mon",
+      null,
+      null,
+      "mia",
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      "sin",
+      null,
+      null,
+      "sau",
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      "tha",
+      null,
+      null,
+      "bra",
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        25,
+        18,
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Formula 3",
+    "series_abbreviation": "F3",
+    "description": "A key stepping stone on the road to Formula 1, Formula 3 gives young drivers their first taste of high downforce single seater machinery.",
+    "tier": 3,
+    "minimum_driver_age": 16,
+    "maximum_driver_age": 22,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 9,
+    "teams": [
+      {
+        "name": "Prema Racing",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "ART Grand Prix",
+        "primary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          215,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Hitech Grand Prix",
+        "primary_color_rgb": [
+          0,
+          0,
+          80
+        ],
+        "secondary_color_rgb": [
+          255,
+          50,
+          50
+        ],
+        "quality": 8
+      },
+      {
+        "name": "Trident Motorsport",
+        "primary_color_rgb": [
+          0,
+          60,
+          120
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 7
+      },
+      {
+        "name": "MP Motorsport",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Jenzer Motorsport",
+        "primary_color_rgb": [
+          255,
+          255,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Van Amersfoort Racing",
+        "primary_color_rgb": [
+          255,
+          100,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 5
+      },
+      {
+        "name": "Campos Racing",
+        "primary_color_rgb": [
+          0,
+          120,
+          60
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 5
+      },
+      {
+        "name": "PHM Racing",
+        "primary_color_rgb": [
+          180,
+          0,
+          180
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 4
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      "jap",
+      null,
+      null,
+      "mon",
+      null,
+      null,
+      "mia",
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      "sin",
+      null,
+      null,
+      "sau",
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      "hoc",
+      null,
+      null,
+      "tha",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        25,
+        18,
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Formula Regional Europe",
+    "series_abbreviation": "FRE",
+    "description": "The Formula Regional European Championship gives young drivers their first taste of single seater racing across Europe's most iconic venues.",
+    "tier": 4,
+    "minimum_driver_age": 15,
+    "maximum_driver_age": 20,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 10,
+    "teams": [
+      {
+        "name": "Prema Racing",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "ART Grand Prix",
+        "primary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          215,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Iron Lynx",
+        "primary_color_rgb": [
+          50,
+          50,
+          50
+        ],
+        "secondary_color_rgb": [
+          200,
+          0,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "R-ace GP",
+        "primary_color_rgb": [
+          0,
+          0,
+          150
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Bhaitech",
+        "primary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Campos Racing",
+        "primary_color_rgb": [
+          0,
+          120,
+          60
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 5
+      },
+      {
+        "name": "Jenzer Motorsport",
+        "primary_color_rgb": [
+          255,
+          255,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 4
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      null,
+      "hoc",
+      null,
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      "mon",
+      null,
+      null,
+      null,
+      "bra",
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      "sin",
+      null,
+      null,
+      null,
+      "sau",
+      null,
+      null,
+      null,
+      "afr",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        20,
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Formula Regional Asia-Pacific",
+    "series_abbreviation": "FRAP",
+    "description": "The Formula Regional Asia-Pacific Championship develops young talent across the fastest growing motorsport market in the world.",
+    "tier": 4,
+    "minimum_driver_age": 15,
+    "maximum_driver_age": 20,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 10,
+    "teams": [
+      {
+        "name": "Prema Racing",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "ART Grand Prix",
+        "primary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          215,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "TOM'S Racing",
+        "primary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          200
+        ],
+        "quality": 8
+      },
+      {
+        "name": "Giles Motorsport",
+        "primary_color_rgb": [
+          0,
+          150,
+          200
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Bhaitech",
+        "primary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Zenith Asia",
+        "primary_color_rgb": [
+          180,
+          0,
+          180
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 5
+      },
+      {
+        "name": "Carlin Motorsport",
+        "primary_color_rgb": [
+          255,
+          165,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 7
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      null,
+      "chi",
+      null,
+      null,
+      null,
+      "jap",
+      null,
+      null,
+      null,
+      "sin",
+      null,
+      null,
+      null,
+      "tha",
+      null,
+      null,
+      null,
+      "mia",
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      "bra",
+      null,
+      null,
+      null,
+      "rio",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        20,
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Formula 4",
+    "series_abbreviation": "F4",
+    "description": "The entry point into single seater car racing. Formula 4 is designed to be affordable, safe and accessible for the next generation of racing talent.",
+    "tier": 5,
+    "minimum_driver_age": 13,
+    "maximum_driver_age": 17,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 11,
+    "teams": [
+      {
+        "name": "Prema Racing",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "Van Amersfoort Racing",
+        "primary_color_rgb": [
+          255,
+          100,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 8
+      },
+      {
+        "name": "US Racing",
+        "primary_color_rgb": [
+          0,
+          0,
+          150
+        ],
+        "secondary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Jenzer Motorsport",
+        "primary_color_rgb": [
+          255,
+          255,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Bhaitech",
+        "primary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Sauber Junior Team",
+        "primary_color_rgb": [
+          0,
+          200,
+          100
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Campos Racing",
+        "primary_color_rgb": [
+          0,
+          120,
+          60
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 5
+      },
+      {
+        "name": "Apex Academy",
+        "primary_color_rgb": [
+          200,
+          32,
+          32
+        ],
+        "secondary_color_rgb": [
+          245,
+          245,
+          245
+        ],
+        "quality": 4
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      null,
+      "chi",
+      null,
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      "hoc",
+      null,
+      null,
+      null,
+      "mia",
+      null,
+      null,
+      null,
+      "usa",
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "GT3 Series",
+    "series_abbreviation": "GT3",
+    "description": "The premier GT racing category, fielding manufacturer backed teams in high performance GT3 specification machinery across the world's greatest circuits.",
+    "tier": 4,
+    "minimum_driver_age": 18,
+    "maximum_driver_age": 40,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 7,
+    "teams": [
+      {
+        "name": "Ferrari GT",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "McLaren GT",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Porsche Motorsport",
+        "primary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Aston Martin GT",
+        "primary_color_rgb": [
+          0,
+          100,
+          80
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 8
+      },
+      {
+        "name": "Mercedes AMG GT",
+        "primary_color_rgb": [
+          0,
+          190,
+          190
+        ],
+        "secondary_color_rgb": [
+          10,
+          10,
+          10
+        ],
+        "quality": 8
+      },
+      {
+        "name": "BMW M Motorsport",
+        "primary_color_rgb": [
+          0,
+          80,
+          160
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Lamborghini GT",
+        "primary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Audi Sport GT",
+        "primary_color_rgb": [
+          180,
+          0,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 6
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "mon",
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      "usa",
+      null,
+      null,
+      null,
+      "mia",
+      null,
+      null,
+      null,
+      "sin",
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      "sau",
+      null,
+      null,
+      null,
+      "tha",
+      null,
+      null,
+      null,
+      "hoc",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        25,
+        18,
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "GT4 Series",
+    "series_abbreviation": "GT4",
+    "description": "Entry level GT racing in affordable GT4 specification cars. A popular stepping stone for drivers transitioning from single seaters or looking to build GT experience.",
+    "tier": 5,
+    "minimum_driver_age": 16,
+    "maximum_driver_age": 35,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 8,
+    "teams": [
+      {
+        "name": "Apex GT4",
+        "primary_color_rgb": [
+          200,
+          32,
+          32
+        ],
+        "secondary_color_rgb": [
+          245,
+          245,
+          245
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Silverline GT",
+        "primary_color_rgb": [
+          64,
+          110,
+          180
+        ],
+        "secondary_color_rgb": [
+          230,
+          235,
+          250
+        ],
+        "quality": 8
+      },
+      {
+        "name": "Cascade GT",
+        "primary_color_rgb": [
+          30,
+          150,
+          140
+        ],
+        "secondary_color_rgb": [
+          220,
+          245,
+          245
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Vertex Racing",
+        "primary_color_rgb": [
+          45,
+          45,
+          45
+        ],
+        "secondary_color_rgb": [
+          240,
+          240,
+          240
+        ],
+        "quality": 6
+      },
+      {
+        "name": "HDL GT",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          40,
+          40,
+          40
+        ],
+        "quality": 5
+      },
+      {
+        "name": "Stratospeed GT",
+        "primary_color_rgb": [
+          15,
+          95,
+          170
+        ],
+        "secondary_color_rgb": [
+          250,
+          250,
+          250
+        ],
+        "quality": 4
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      null,
+      null,
+      "hoc",
+      null,
+      null,
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      null,
+      "usa",
+      null,
+      null,
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      null,
+      "bra",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Senior Karting",
+    "series_abbreviation": "KART",
+    "description": "Senior karting is where racing careers take shape. The fastest drivers here are just one step away from car racing.",
+    "tier": 6,
+    "minimum_driver_age": 14,
+    "maximum_driver_age": 18,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 6,
+    "teams": [
+      {
+        "name": "Zanardi Kart",
+        "primary_color_rgb": [
+          220,
+          30,
+          30
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 10
+      },
+      {
+        "name": "Tony Kart Racing",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 9
+      },
+      {
+        "name": "Birel ART",
+        "primary_color_rgb": [
+          0,
+          0,
+          150
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 8
+      },
+      {
+        "name": "CRG Racing",
+        "primary_color_rgb": [
+          0,
+          100,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Exprit Kart",
+        "primary_color_rgb": [
+          180,
+          0,
+          180
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Kosmic Racing",
+        "primary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 5
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      null,
+      null,
+      "mia",
+      null,
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      null,
+      "sin",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        15,
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Junior Karting",
+    "series_abbreviation": "JKART",
+    "description": "Junior karting is the first competitive motorsport experience for many future stars. Champions here are destined for great things.",
+    "tier": 7,
+    "minimum_driver_age": 11,
+    "maximum_driver_age": 14,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 7,
+    "teams": [
+      {
+        "name": "Tony Kart Racing",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 10
+      },
+      {
+        "name": "Birel ART",
+        "primary_color_rgb": [
+          0,
+          0,
+          150
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 9
+      },
+      {
+        "name": "CRG Racing",
+        "primary_color_rgb": [
+          0,
+          100,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Exprit Kart",
+        "primary_color_rgb": [
+          180,
+          0,
+          180
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 6
+      },
+      {
+        "name": "Kosmic Racing",
+        "primary_color_rgb": [
+          255,
+          200,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 5
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "series_name": "Mini Karting",
+    "series_abbreviation": "MKART",
+    "description": "The starting point for future champions. Mini karting gives children their very first taste of competitive motorsport.",
+    "tier": 8,
+    "minimum_driver_age": 8,
+    "maximum_driver_age": 12,
+    "drivers_per_team": 2,
+    "dnf_rate_percent": 5,
+    "teams": [
+      {
+        "name": "Tony Kart Racing",
+        "primary_color_rgb": [
+          255,
+          140,
+          0
+        ],
+        "secondary_color_rgb": [
+          0,
+          0,
+          0
+        ],
+        "quality": 10
+      },
+      {
+        "name": "Birel ART",
+        "primary_color_rgb": [
+          0,
+          0,
+          150
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 9
+      },
+      {
+        "name": "CRG Racing",
+        "primary_color_rgb": [
+          0,
+          100,
+          0
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 7
+      },
+      {
+        "name": "Exprit Kart",
+        "primary_color_rgb": [
+          180,
+          0,
+          180
+        ],
+        "secondary_color_rgb": [
+          255,
+          255,
+          255
+        ],
+        "quality": 5
+      }
+    ],
+    "schedule": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "ita",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "fra",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "ova",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "hun",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aus",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "abu",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "points_format": {
+      "points": [
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    }
+  }
+]

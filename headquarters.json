@@ -1,0 +1,238 @@
+{
+  "hospitality_pr_center": [
+    {
+      "cost_m": 5,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 20,
+      "upkeep_m": 2
+    },
+    {
+      "cost_m": 35,
+      "upkeep_m": 3
+    },
+    {
+      "cost_m": 50,
+      "upkeep_m": 4
+    },
+    {
+      "cost_m": 75,
+      "upkeep_m": 5
+    }
+  ],
+  "driver_centre": [
+    {
+      "cost_m": 10,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 20,
+      "upkeep_m": 2
+    },
+    {
+      "cost_m": 30,
+      "upkeep_m": 3
+    },
+    {
+      "cost_m": 40,
+      "upkeep_m": 4
+    },
+    {
+      "cost_m": 50,
+      "upkeep_m": 5
+    }
+  ],
+  "wind_tunnel": [
+    {
+      "cost_m": 30,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 50,
+      "upkeep_m": 3
+    },
+    {
+      "cost_m": 70,
+      "upkeep_m": 5
+    },
+    {
+      "cost_m": 90,
+      "upkeep_m": 7
+    },
+    {
+      "cost_m": 120,
+      "upkeep_m": 10
+    },
+    {
+      "cost_m": 150,
+      "upkeep_m": 13
+    },
+    {
+      "cost_m": 180,
+      "upkeep_m": 16
+    },
+    {
+      "cost_m": 210,
+      "upkeep_m": 19
+    },
+    {
+      "cost_m": 250,
+      "upkeep_m": 23
+    },
+    {
+      "cost_m": 300,
+      "upkeep_m": 28
+    }
+  ],
+  "cfd_center": [
+    {
+      "cost_m": 25,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 40,
+      "upkeep_m": 2
+    },
+    {
+      "cost_m": 55,
+      "upkeep_m": 3
+    },
+    {
+      "cost_m": 70,
+      "upkeep_m": 4
+    },
+    {
+      "cost_m": 85,
+      "upkeep_m": 5
+    },
+    {
+      "cost_m": 100,
+      "upkeep_m": 7
+    },
+    {
+      "cost_m": 120,
+      "upkeep_m": 9
+    },
+    {
+      "cost_m": 140,
+      "upkeep_m": 11
+    },
+    {
+      "cost_m": 160,
+      "upkeep_m": 14
+    },
+    {
+      "cost_m": 200,
+      "upkeep_m": 18
+    }
+  ],
+  "engine_plant": [
+    {
+      "cost_m": 150,
+      "upkeep_m": 5
+    },
+    {
+      "cost_m": 50,
+      "upkeep_m": 7
+    },
+    {
+      "cost_m": 75,
+      "upkeep_m": 10
+    },
+    {
+      "cost_m": 100,
+      "upkeep_m": 12.5
+    },
+    {
+      "cost_m": 120,
+      "upkeep_m": 15
+    },
+    {
+      "cost_m": 150,
+      "upkeep_m": 17.5
+    },
+    {
+      "cost_m": 180,
+      "upkeep_m": 20
+    },
+    {
+      "cost_m": 200,
+      "upkeep_m": 22.5
+    },
+    {
+      "cost_m": 225,
+      "upkeep_m": 25
+    },
+    {
+      "cost_m": 250,
+      "upkeep_m": 30
+    }
+  ],
+  "test_track": [
+    {
+      "cost_m": 20,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 40,
+      "upkeep_m": 2
+    },
+    {
+      "cost_m": 60,
+      "upkeep_m": 3
+    },
+    {
+      "cost_m": 80,
+      "upkeep_m": 4
+    },
+    {
+      "cost_m": 100,
+      "upkeep_m": 5
+    }
+  ],
+  "factory": [
+    {
+      "cost_m": 10,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 20,
+      "upkeep_m": 1.5
+    },
+    {
+      "cost_m": 30,
+      "upkeep_m": 2
+    },
+    {
+      "cost_m": 40,
+      "upkeep_m": 2.5
+    },
+    {
+      "cost_m": 50,
+      "upkeep_m": 3
+    }
+  ],
+  "recon_centre": [
+    {
+      "cost_m": 12,
+      "upkeep_m": 1
+    },
+    {
+      "cost_m": 24,
+      "upkeep_m": 2
+    },
+    {
+      "cost_m": 40,
+      "upkeep_m": 3
+    },
+    {
+      "cost_m": 60,
+      "upkeep_m": 4
+    },
+    {
+      "cost_m": 85,
+      "upkeep_m": 5
+    }
+  ]
+}

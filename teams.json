@@ -1,0 +1,1700 @@
+[
+  {
+    "name": "Red Bull",
+    "active": true,
+    "color_rgb": [
+      0,
+      102,
+      204
+    ],
+    "budget_m": 345,
+    "team_pace": 50.0,
+    "braking": 50.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 45.0,
+      "med": 42.0,
+      "high": 45.0,
+      "straight": 46.0
+    },
+    "tyre_management": 51.0,
+    "chassis_reliability": 40.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 60,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "engine": "Ford",
+    "headquarters": {
+      "hospitality_pr_center": 4,
+      "wind_tunnel": 4,
+      "engine_plant": 2,
+      "test_track": 1,
+      "factory": 4,
+      "cfd_center": 3,
+      "recon_centre": 3,
+      "driver_centre": 4
+    },
+    "negotiation_points": 0,
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "works"
+    },
+    "secondary_color_rgb": [
+      247,
+      245,
+      60
+    ],
+    "aero_efficiency": 0.9,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 78,
+    "form_prestige": 80.0,
+    "difficulty": "easy",
+    "car_mass_kg": 656.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 54.0,
+      "slow": 57.0,
+      "med": 50.0,
+      "high": 51.0,
+      "straight": 51.0,
+      "tyre_management": 55.0,
+      "chassis_reliability": 44.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 53.0,
+      "braking": 57.0
+    },
+    "nationality": "austrian",
+    "previous_constructor_position": 3,
+    "engine_supplier": "Red Bull",
+    "engine_contract_type": "works",
+    "engine_contract": {
+      "supplier": "Red Bull",
+      "engine": "Ford",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "Ferrari F1",
+    "active": true,
+    "color_rgb": [
+      200,
+      16,
+      46
+    ],
+    "budget_m": 400,
+    "team_pace": 52.0,
+    "braking": 50.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 64.0,
+      "med": 58.0,
+      "high": 55.0,
+      "straight": 45.0
+    },
+    "tyre_management": 54.0,
+    "chassis_reliability": 65.0,
+    "dirty_air_sensitivity": 58.333,
+    "prestige_base": 58,
+    "engine": "Ferrari",
+    "headquarters": {
+      "hospitality_pr_center": 4,
+      "wind_tunnel": 3,
+      "engine_plant": 4,
+      "test_track": 2,
+      "factory": 5,
+      "cfd_center": 3,
+      "recon_centre": 3,
+      "driver_centre": 5
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "partner"
+    },
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "aero_efficiency": 0.917,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 95,
+    "form_prestige": 71,
+    "difficulty": "easy",
+    "car_mass_kg": 648.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 59.0,
+      "slow": 59.0,
+      "med": 58.0,
+      "high": 60.0,
+      "straight": 54.0,
+      "tyre_management": 53.0,
+      "chassis_reliability": 69.0,
+      "dirty_air_sensitivity": 62.333,
+      "acceleration": 58.0,
+      "braking": 55.0
+    },
+    "nationality": "italian",
+    "previous_constructor_position": 4,
+    "engine_supplier": "Ferrari F1",
+    "engine_contract_type": "works",
+    "engine_contract": {
+      "supplier": "Ferrari F1",
+      "engine": "Ferrari",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "McLaren",
+    "active": true,
+    "color_rgb": [
+      255,
+      128,
+      0
+    ],
+    "budget_m": 320,
+    "team_pace": 51.0,
+    "braking": 51.0,
+    "acceleration": 51.0,
+    "attr": {
+      "slow": 52.0,
+      "med": 53.0,
+      "high": 49.0,
+      "straight": 49.0
+    },
+    "tyre_management": 51.0,
+    "chassis_reliability": 58.0,
+    "dirty_air_sensitivity": 41.667,
+    "prestige_base": 54,
+    "engine": "Mercedes",
+    "engine_contract_seasons": 3,
+    "headquarters": {
+      "hospitality_pr_center": 3,
+      "wind_tunnel": 3,
+      "engine_plant": 0,
+      "test_track": 1,
+      "factory": 4,
+      "cfd_center": 3,
+      "recon_centre": 2,
+      "driver_centre": 4
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "works"
+    },
+    "secondary_color_rgb": [
+      0,
+      0,
+      0
+    ],
+    "aero_efficiency": 0.909,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 88.0,
+    "form_prestige": 75.0,
+    "difficulty": "easy",
+    "car_mass_kg": 649.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 55.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 53.0,
+      "straight": 53.0,
+      "tyre_management": 58.0,
+      "chassis_reliability": 62.0,
+      "dirty_air_sensitivity": 45.667,
+      "acceleration": 55.0,
+      "braking": 55.0
+    },
+    "nationality": "british",
+    "previous_constructor_position": 1,
+    "engine_supplier": "Mercedes",
+    "engine_contract": {
+      "supplier": "Mercedes",
+      "engine": "Mercedes",
+      "start_season": 1,
+      "expires_season": 3,
+      "type": "customer"
+    },
+    "engine_contract_type": "customer",
+    "first_active_season": 1
+  },
+  {
+    "name": "Mercedes",
+    "active": true,
+    "color_rgb": [
+      0,
+      190,
+      200
+    ],
+    "budget_m": 385,
+    "team_pace": 58.0,
+    "braking": 52.0,
+    "acceleration": 57.0,
+    "attr": {
+      "slow": 58.0,
+      "med": 54.0,
+      "high": 60.0,
+      "straight": 56.0
+    },
+    "tyre_management": 55.0,
+    "chassis_reliability": 62.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 56,
+    "engine": "Mercedes",
+    "headquarters": {
+      "hospitality_pr_center": 4,
+      "wind_tunnel": 3,
+      "engine_plant": 4,
+      "test_track": 1,
+      "factory": 5,
+      "cfd_center": 3,
+      "recon_centre": 2,
+      "driver_centre": 5
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "partner",
+      "start_season": 1,
+      "expires_season": 1
+    },
+    "secondary_color_rgb": [
+      10,
+      10,
+      10
+    ],
+    "aero_efficiency": 0.935,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 78,
+    "form_prestige": 85,
+    "difficulty": "medium",
+    "car_mass_kg": 647.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 64.0,
+      "slow": 64.0,
+      "med": 59.0,
+      "high": 64.0,
+      "straight": 60.0,
+      "tyre_management": 59.0,
+      "chassis_reliability": 66.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 62.0,
+      "braking": 58.0
+    },
+    "nationality": "german",
+    "previous_constructor_position": 2,
+    "engine_supplier": "Mercedes",
+    "engine_contract_type": "works",
+    "engine_contract": {
+      "supplier": "Mercedes",
+      "engine": "Mercedes",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "Aston Martin",
+    "active": true,
+    "color_rgb": [
+      30,
+      120,
+      70
+    ],
+    "budget_m": 340,
+    "team_pace": 35.0,
+    "braking": 45.0,
+    "acceleration": 43.0,
+    "attr": {
+      "slow": 41.0,
+      "med": 43.0,
+      "high": 35.0,
+      "straight": 28.0
+    },
+    "tyre_management": 52.0,
+    "chassis_reliability": 3.0,
+    "dirty_air_sensitivity": 45.833,
+    "prestige_base": 52,
+    "engine": "Honda",
+    "engine_supplier": "Honda",
+    "engine_contract_type": "customer",
+    "engine_contract_bonus": "bonus2",
+    "engine_contract_seasons": 2,
+    "headquarters": {
+      "hospitality_pr_center": 4,
+      "wind_tunnel": 10,
+      "engine_plant": 0,
+      "factory": 5,
+      "cfd_center": 5,
+      "recon_centre": 2,
+      "driver_centre": 4,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "aero_efficiency": 1.004,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 72.0,
+    "form_prestige": 62.0,
+    "difficulty": "easy",
+    "car_mass_kg": 661.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 48.0,
+      "slow": 49.0,
+      "med": 51.0,
+      "high": 44.0,
+      "straight": 36.0,
+      "tyre_management": 56.0,
+      "chassis_reliability": 24.0,
+      "dirty_air_sensitivity": 49.833,
+      "acceleration": 47.0,
+      "braking": 52.0
+    },
+    "nationality": "british",
+    "previous_constructor_position": 7,
+    "engine_contract": {
+      "supplier": "Honda",
+      "engine": "Honda",
+      "start_season": 1,
+      "expires_season": 2,
+      "type": "customer"
+    }
+  },
+  {
+    "name": "Alpine",
+    "active": true,
+    "color_rgb": [
+      0,
+      150,
+      255
+    ],
+    "budget_m": 260,
+    "team_pace": 38.0,
+    "braking": 45.0,
+    "acceleration": 46.0,
+    "attr": {
+      "slow": 37.0,
+      "med": 43.0,
+      "high": 42.0,
+      "straight": 44.0
+    },
+    "tyre_management": 47.0,
+    "chassis_reliability": 45.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 47,
+    "engine": "Mercedes",
+    "engine_contract_seasons": 3,
+    "headquarters": {
+      "hospitality_pr_center": 3,
+      "wind_tunnel": 2,
+      "engine_plant": 0,
+      "factory": 3,
+      "cfd_center": 2,
+      "recon_centre": 2,
+      "driver_centre": 3,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "secondary_color_rgb": [
+      255,
+      0,
+      250
+    ],
+    "aero_efficiency": 1.065,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 70,
+    "form_prestige": 52,
+    "difficulty": "hard",
+    "car_mass_kg": 645.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 42.0,
+      "slow": 41.0,
+      "med": 47.0,
+      "high": 46.0,
+      "straight": 48.0,
+      "tyre_management": 51.0,
+      "chassis_reliability": 49.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 50.0,
+      "braking": 49.0
+    },
+    "nationality": "french",
+    "previous_constructor_position": 10,
+    "engine_supplier": "Mercedes",
+    "engine_contract": {
+      "supplier": "Mercedes",
+      "engine": "Mercedes",
+      "start_season": 1,
+      "expires_season": 3,
+      "type": "customer"
+    },
+    "engine_contract_type": "customer"
+  },
+  {
+    "name": "Racing Bulls",
+    "active": true,
+    "color_rgb": [
+      40,
+      40,
+      120
+    ],
+    "budget_m": 205,
+    "team_pace": 43.0,
+    "braking": 48.0,
+    "acceleration": 46.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 41.0,
+      "high": 42.0,
+      "straight": 43.0
+    },
+    "tyre_management": 45.0,
+    "chassis_reliability": 38.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 44,
+    "engine": "Ford",
+    "engine_contract_seasons": 3,
+    "headquarters": {
+      "hospitality_pr_center": 3,
+      "wind_tunnel": 2,
+      "engine_plant": 0,
+      "factory": 2,
+      "cfd_center": 1,
+      "recon_centre": 1,
+      "driver_centre": 4,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "aero_efficiency": 1.1,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 53,
+    "form_prestige": 46,
+    "difficulty": "medium",
+    "car_mass_kg": 652.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 49.0,
+      "slow": 52.0,
+      "med": 45.0,
+      "high": 46.0,
+      "straight": 47.0,
+      "tyre_management": 49.0,
+      "chassis_reliability": 42.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 50.0,
+      "braking": 52.0
+    },
+    "nationality": "italian",
+    "previous_constructor_position": 6,
+    "engine_supplier": "Red Bull",
+    "engine_contract": {
+      "supplier": "Red Bull",
+      "engine": "Ford",
+      "start_season": 1,
+      "expires_season": 3,
+      "type": "customer"
+    },
+    "engine_contract_type": "customer"
+  },
+  {
+    "name": "Audi",
+    "active": true,
+    "color_rgb": [
+      115,
+      0,
+      0
+    ],
+    "budget_m": 275,
+    "team_pace": 46.0,
+    "braking": 47.0,
+    "acceleration": 46.0,
+    "attr": {
+      "slow": 44.0,
+      "med": 45.0,
+      "high": 44.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 35.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 45,
+    "engine": "Audi",
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 3,
+      "engine_plant": 4,
+      "factory": 3,
+      "cfd_center": 3,
+      "recon_centre": 2,
+      "driver_centre": 3,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer",
+      "start_season": 1,
+      "expires_season": 1
+    },
+    "secondary_color_rgb": [
+      240,
+      240,
+      240
+    ],
+    "aero_efficiency": 1.083,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 60,
+    "form_prestige": 33.0,
+    "difficulty": "hard",
+    "car_mass_kg": 654.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 50.0,
+      "slow": 48.0,
+      "med": 49.0,
+      "high": 48.0,
+      "straight": 52.0,
+      "tyre_management": 52.0,
+      "chassis_reliability": 39.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 50.0,
+      "braking": 51.0
+    },
+    "nationality": "german",
+    "previous_constructor_position": 9,
+    "engine_supplier": "Audi",
+    "engine_contract_type": "works",
+    "engine_contract": {
+      "supplier": "Audi",
+      "engine": "Audi",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "Haas F1",
+    "active": true,
+    "color_rgb": [
+      200,
+      200,
+      200
+    ],
+    "budget_m": 190,
+    "team_pace": 44.0,
+    "braking": 45.0,
+    "acceleration": 47.0,
+    "attr": {
+      "slow": 49.0,
+      "med": 42.0,
+      "high": 44.0,
+      "straight": 46.0
+    },
+    "tyre_management": 46.0,
+    "chassis_reliability": 59.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 42,
+    "engine": "Ferrari F1",
+    "engine_contract_seasons": 3,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 1,
+      "engine_plant": 0,
+      "factory": 2,
+      "cfd_center": 1,
+      "recon_centre": 1,
+      "driver_centre": 2,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "secondary_color_rgb": [
+      0,
+      0,
+      0
+    ],
+    "aero_efficiency": 1.065,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 45,
+    "form_prestige": 38.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 48.0,
+      "slow": 53.0,
+      "med": 46.0,
+      "high": 48.0,
+      "straight": 50.0,
+      "tyre_management": 50.0,
+      "chassis_reliability": 63.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 51.0,
+      "braking": 49.0
+    },
+    "nationality": "american",
+    "previous_constructor_position": 8,
+    "engine_supplier": "Ferrari",
+    "engine_contract": {
+      "supplier": "Ferrari",
+      "engine": "Ferrari F1",
+      "start_season": 1,
+      "expires_season": 3,
+      "type": "customer"
+    },
+    "engine_contract_type": "customer"
+  },
+  {
+    "name": "Williams Racing",
+    "active": true,
+    "color_rgb": [
+      0,
+      90,
+      200
+    ],
+    "budget_m": 215,
+    "team_pace": 38.0,
+    "braking": 42.0,
+    "acceleration": 47.0,
+    "attr": {
+      "slow": 35.0,
+      "med": 38.0,
+      "high": 38.0,
+      "straight": 48.0
+    },
+    "tyre_management": 44.0,
+    "chassis_reliability": 45.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 43,
+    "engine": "Mercedes",
+    "engine_contract_seasons": 3,
+    "headquarters": {
+      "hospitality_pr_center": 3,
+      "wind_tunnel": 2,
+      "engine_plant": 0,
+      "factory": 2,
+      "cfd_center": 2,
+      "recon_centre": 1,
+      "driver_centre": 3,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "aero_efficiency": 1.057,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 76,
+    "form_prestige": 38.0,
+    "difficulty": "medium",
+    "car_mass_kg": 665.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 42.0,
+      "slow": 39.0,
+      "med": 42.0,
+      "high": 42.0,
+      "straight": 52.0,
+      "tyre_management": 48.0,
+      "chassis_reliability": 49.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 51.0,
+      "braking": 46.0
+    },
+    "nationality": "british",
+    "previous_constructor_position": 5,
+    "engine_supplier": "Mercedes",
+    "engine_contract": {
+      "supplier": "Mercedes",
+      "engine": "Mercedes",
+      "start_season": 1,
+      "expires_season": 3,
+      "type": "customer"
+    },
+    "engine_contract_type": "customer"
+  },
+  {
+    "name": "Cadillac",
+    "active": true,
+    "color_rgb": [
+      0,
+      0,
+      0
+    ],
+    "budget_m": 295,
+    "team_pace": 30.0,
+    "braking": 40.0,
+    "acceleration": 42.0,
+    "attr": {
+      "slow": 30.0,
+      "med": 31.0,
+      "high": 31.0,
+      "straight": 40.0
+    },
+    "tyre_management": 42.0,
+    "chassis_reliability": 35.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 45,
+    "engine": "Ferrari F1",
+    "engine_contract_seasons": 3,
+    "headquarters": {
+      "hospitality_pr_center": 4,
+      "wind_tunnel": 2,
+      "engine_plant": 0,
+      "factory": 3,
+      "cfd_center": 2,
+      "recon_centre": 1,
+      "driver_centre": 3,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "secondary_color_rgb": [
+      246,
+      246,
+      246
+    ],
+    "aero_efficiency": 1.083,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 50,
+    "form_prestige": 36.0,
+    "difficulty": "medium",
+    "car_mass_kg": 670.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 34.0,
+      "slow": 34.0,
+      "med": 35.0,
+      "high": 35.0,
+      "straight": 44.0,
+      "tyre_management": 46.0,
+      "chassis_reliability": 39.0,
+      "dirty_air_sensitivity": 54.0,
+      "acceleration": 46.0,
+      "braking": 44.0
+    },
+    "nationality": "american",
+    "previous_constructor_position": 11,
+    "engine_supplier": "Ferrari",
+    "engine_contract": {
+      "supplier": "Ferrari",
+      "engine": "Ferrari F1",
+      "start_season": 1,
+      "expires_season": 3,
+      "type": "customer"
+    },
+    "engine_contract_type": "customer"
+  },
+  {
+    "name": "Porsche",
+    "active": false,
+    "color_rgb": [
+      180,
+      60,
+      20
+    ],
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "budget_m": 380,
+    "team_pace": 44.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 65,
+    "engine": "Porsche",
+    "engine_contract_seasons": 9999,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 5,
+      "engine_plant": 1,
+      "factory": 5,
+      "cfd_center": 5,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 75,
+    "form_prestige": 55.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 52.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "german",
+    "previous_constructor_position": null,
+    "first_active_season": 2,
+    "engine_contract_type": "works",
+    "engine_supplier": "Porsche",
+    "engine_contract": {
+      "supplier": "Porsche",
+      "engine": "Porsche",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "Toyota",
+    "active": false,
+    "color_rgb": [
+      180,
+      0,
+      0
+    ],
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "budget_m": 350,
+    "team_pace": 42.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 55,
+    "engine": "Toyota",
+    "engine_contract_seasons": 9999,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 5,
+      "engine_plant": 1,
+      "factory": 5,
+      "cfd_center": 4,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 65,
+    "form_prestige": 45.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 50.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "japanese",
+    "previous_constructor_position": null,
+    "first_active_season": 3,
+    "engine_contract_type": "works",
+    "engine_supplier": "Toyota",
+    "engine_contract": {
+      "supplier": "Toyota",
+      "engine": "Toyota",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "BYD",
+    "active": false,
+    "color_rgb": [
+      30,
+      30,
+      180
+    ],
+    "secondary_color_rgb": [
+      100,
+      200,
+      255
+    ],
+    "budget_m": 400,
+    "team_pace": 40.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 45,
+    "engine": "BYD",
+    "engine_contract_seasons": 9999,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 3,
+      "engine_plant": 1,
+      "factory": 4,
+      "cfd_center": 3,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 30,
+    "form_prestige": 35.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 48.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "chinese",
+    "previous_constructor_position": null,
+    "first_active_season": 5,
+    "engine_contract_type": "works",
+    "engine_supplier": "BYD",
+    "engine_contract": {
+      "supplier": "BYD",
+      "engine": "BYD",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "BMW",
+    "active": false,
+    "color_rgb": [
+      0,
+      60,
+      160
+    ],
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "budget_m": 360,
+    "team_pace": 43.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 60,
+    "engine": "BMW",
+    "engine_contract_seasons": 9999,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 5,
+      "engine_plant": 1,
+      "factory": 5,
+      "cfd_center": 4,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 70,
+    "form_prestige": 50.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 51.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "german",
+    "previous_constructor_position": null,
+    "first_active_season": 3,
+    "engine_contract_type": "works",
+    "engine_supplier": "BMW",
+    "engine_contract": {
+      "supplier": "BMW",
+      "engine": "BMW",
+      "type": "works",
+      "start_season": 1,
+      "expires_season": 9999
+    }
+  },
+  {
+    "name": "Brabham",
+    "active": false,
+    "color_rgb": [
+      0,
+      0,
+      0
+    ],
+    "secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "budget_m": 250,
+    "team_pace": 38.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 50,
+    "engine": "Cosworth V6",
+    "engine_contract_seasons": 2,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 2,
+      "engine_plant": 0,
+      "factory": 3,
+      "cfd_center": 2,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 85,
+    "form_prestige": 40.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 46.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "british",
+    "previous_constructor_position": null,
+    "first_active_season": 2,
+    "engine_contract_type": "customer",
+    "engine_supplier": "Cosworth"
+  },
+  {
+    "name": "Lotus",
+    "active": false,
+    "color_rgb": [
+      0,
+      130,
+      0
+    ],
+    "secondary_color_rgb": [
+      255,
+      255,
+      0
+    ],
+    "budget_m": 240,
+    "team_pace": 37.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 48,
+    "engine": "Cosworth V6",
+    "engine_contract_seasons": 2,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 2,
+      "engine_plant": 0,
+      "factory": 3,
+      "cfd_center": 2,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 90,
+    "form_prestige": 38.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 45.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "british",
+    "previous_constructor_position": null,
+    "first_active_season": 3,
+    "engine_contract_type": "customer",
+    "engine_supplier": "Cosworth"
+  },
+  {
+    "name": "Jaguar Racing",
+    "active": false,
+    "color_rgb": [
+      0,
+      100,
+      0
+    ],
+    "secondary_color_rgb": [
+      200,
+      200,
+      200
+    ],
+    "budget_m": 300,
+    "team_pace": 40.0,
+    "braking": 48.0,
+    "acceleration": 48.0,
+    "attr": {
+      "slow": 48.0,
+      "med": 48.0,
+      "high": 48.0,
+      "straight": 48.0
+    },
+    "tyre_management": 48.0,
+    "chassis_reliability": 50.0,
+    "dirty_air_sensitivity": 50.0,
+    "prestige_base": 52,
+    "engine": "Cosworth V6",
+    "engine_contract_seasons": 2,
+    "headquarters": {
+      "hospitality_pr_center": 2,
+      "wind_tunnel": 3,
+      "engine_plant": 0,
+      "factory": 4,
+      "cfd_center": 3,
+      "recon_centre": 0,
+      "driver_centre": 1,
+      "test_track": 0
+    },
+    "negotiation_points": 0,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "tyre_contract": {
+      "supplier": "Pirelli",
+      "type": "customer"
+    },
+    "aero_efficiency": 1.0,
+    "driver_aids": {
+      "active_suspension": 0,
+      "active_aero": 0,
+      "traction_control": 0,
+      "abs": 0,
+      "advanced_tpms": 0
+    },
+    "driver_focus": {
+      "cornering": 20,
+      "braking": 20,
+      "consistency": 20,
+      "smoothness": 20,
+      "control": 20
+    },
+    "heritage_prestige": 65,
+    "form_prestige": 42.0,
+    "difficulty": "hard",
+    "car_mass_kg": 650.0,
+    "performance_scale": "rating_100",
+    "chassis_starting_potential": {
+      "team_pace": 48.0,
+      "slow": 56.0,
+      "med": 57.0,
+      "high": 55.0,
+      "straight": 56.0,
+      "tyre_management": 57.0,
+      "chassis_reliability": 65.0,
+      "dirty_air_sensitivity": 57.0,
+      "acceleration": 56.0,
+      "braking": 56.0
+    },
+    "nationality": "british",
+    "previous_constructor_position": null,
+    "first_active_season": 4,
+    "engine_contract_type": "customer",
+    "engine_supplier": "Cosworth"
+  }
+]

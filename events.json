@@ -1,0 +1,244 @@
+[
+  {
+    "type": "team_join",
+    "team": "Porsche",
+    "chance": 0.12
+  },
+  {
+    "type": "team_join",
+    "team": "Toyota",
+    "chance": 0.08
+  },
+  {
+    "type": "team_join",
+    "team": "BYD",
+    "chance": 0.06
+  },
+  {
+    "type": "team_join",
+    "team": "BMW",
+    "chance": 0.08
+  },
+  {
+    "type": "team_join",
+    "team": "Brabham",
+    "chance": 0.06
+  },
+  {
+    "type": "team_join",
+    "team": "Lotus",
+    "chance": 0.05
+  },
+  {
+    "type": "reg_change_engine",
+    "chance": 0.99,
+    "severity_roll": [
+      {
+        "result": "stable",
+        "max": 90
+      },
+      {
+        "result": "minor",
+        "max": 94
+      },
+      {
+        "result": "major",
+        "max": 98
+      },
+      {
+        "result": "drastic",
+        "max": 100
+      }
+    ]
+  },
+  {
+    "type": "team_package_aced",
+    "chance": 0.1,
+    "delta": 5.0,
+    "affected_keys": [
+      "team_pace",
+      "slow",
+      "med",
+      "high",
+      "straight"
+    ],
+    "pick_count": 3
+  },
+  {
+    "type": "team_package_struggle",
+    "chance": 0.05,
+    "delta": -5.0,
+    "affected_keys": [
+      "team_pace",
+      "slow",
+      "med",
+      "high",
+      "straight"
+    ],
+    "pick_count": 3
+  },
+  {
+    "type": "engine_supplier_join",
+    "supplier": "Aurora Power",
+    "chance": 0.05
+  },
+  {
+    "type": "engine_supplier_join",
+    "supplier": "Titan Dynamics",
+    "chance": 0.05
+  },
+  {
+    "type": "engine_supplier_join",
+    "supplier": "Zenith Engineering",
+    "chance": 0.05
+  },
+  {
+    "type": "calendar_swap",
+    "chance": 0.05
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Nicotine Products",
+    "state": "recession",
+    "season": 2,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Crypto",
+    "state": "boom",
+    "season": 3,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Technology",
+    "state": "boom",
+    "season": 4,
+    "duration_seasons": 3
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Alcohol",
+    "state": "boom",
+    "season": 5,
+    "duration_seasons": 3
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Media",
+    "state": "boom",
+    "season": 6,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Crypto",
+    "state": "recession",
+    "season": 7,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Energy",
+    "state": "boom",
+    "season": 8,
+    "duration_seasons": 3
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Finance",
+    "state": "recession",
+    "season": 9,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Gaming",
+    "state": "boom",
+    "season": 10,
+    "duration_seasons": 3
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Hospitality",
+    "state": "recession",
+    "season": 11,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Logistics",
+    "state": "boom",
+    "season": 12,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Industrial",
+    "state": "boom",
+    "season": 13,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Clothing",
+    "state": "recession",
+    "season": 14,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Chemicals/Materials",
+    "state": "boom",
+    "season": 15,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Consumer Goods",
+    "state": "recession",
+    "season": 16,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Luxury",
+    "state": "boom",
+    "season": 17,
+    "duration_seasons": 3
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Finance",
+    "state": "boom",
+    "season": 18,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Telecom",
+    "state": "recession",
+    "season": 19,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Technology",
+    "state": "recession",
+    "season": 20,
+    "duration_seasons": 2
+  },
+  {
+    "type": "sponsor_industry_cycle",
+    "industry": "Crypto",
+    "state": "boom",
+    "season": 21,
+    "duration_seasons": 2
+  },
+  {
+    "type": "team_join",
+    "team": "Jaguar Racing",
+    "chance": 0.05
+  }
+]

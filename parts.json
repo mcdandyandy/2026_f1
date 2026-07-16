@@ -1,0 +1,914 @@
+{
+  "categories": {
+    "fuel": {
+      "label": "Fuel",
+      "abbr": "F",
+      "base_wear_per_lap": 0.0,
+      "fail_prob_per_lap_over_50_wear": 0.0,
+      "suppliers": {
+        "ExxonMobil": {
+          "pace_rating": 85,
+          "reliability_rating": 88,
+          "budget_m": 28,
+          "dev_weights": {
+            "pace": 0.55,
+            "reliability": 0.45
+          },
+          "allocation_per_season": 4,
+          "max_customers": 4,
+          "preferred_engine": "Ford",
+          "nationality": "american"
+        },
+        "Shell": {
+          "pace_rating": 82,
+          "reliability_rating": 90,
+          "budget_m": 26,
+          "dev_weights": {
+            "pace": 0.55,
+            "reliability": 0.45
+          },
+          "allocation_per_season": 4,
+          "max_customers": 4,
+          "preferred_engine": "Ferrari",
+          "nationality": "dutch"
+        },
+        "Petronas": {
+          "pace_rating": 88,
+          "reliability_rating": 92,
+          "budget_m": 32,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 4,
+          "preferred_engine": "Mercedes",
+          "nationality": "malaysian"
+        },
+        "BP": {
+          "pace_rating": 78,
+          "reliability_rating": 86,
+          "budget_m": 22,
+          "dev_weights": {
+            "pace": 0.4,
+            "reliability": 0.6
+          },
+          "allocation_per_season": 4,
+          "max_customers": 4,
+          "preferred_engine": "Audi",
+          "nationality": "british"
+        },
+        "TotalEnergies": {
+          "pace_rating": 75,
+          "reliability_rating": 84,
+          "budget_m": 18,
+          "dev_weights": {
+            "pace": 0.55,
+            "reliability": 0.45
+          },
+          "allocation_per_season": 4,
+          "max_customers": 4,
+          "nationality": "french"
+        }
+      }
+    },
+    "gearbox": {
+      "label": "Gearbox",
+      "abbr": "GB",
+      "base_wear_per_lap": 0.105,
+      "fail_prob_per_lap_over_50_wear": 0.001,
+      "suppliers": {
+        "Mercedes": {
+          "pace_rating": 85,
+          "reliability_rating": 90,
+          "budget_m": 24,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 5,
+          "nationality": "german"
+        },
+        "Ferrari": {
+          "pace_rating": 82,
+          "reliability_rating": 88,
+          "budget_m": 20,
+          "dev_weights": {
+            "pace": 0.4,
+            "reliability": 0.6
+          },
+          "allocation_per_season": 4,
+          "max_customers": 5,
+          "nationality": "italian"
+        },
+        "Red Bull": {
+          "pace_rating": 80,
+          "reliability_rating": 84,
+          "budget_m": 18,
+          "dev_weights": {
+            "pace": 0.65,
+            "reliability": 0.35
+          },
+          "allocation_per_season": 4,
+          "max_customers": 5,
+          "nationality": "austrian"
+        },
+        "Honda": {
+          "pace_rating": 76,
+          "reliability_rating": 80,
+          "budget_m": 18,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 5,
+          "nationality": "japanese"
+        },
+        "Audi": {
+          "pace_rating": 75,
+          "reliability_rating": 78,
+          "budget_m": 16,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 5,
+          "nationality": "german"
+        },
+        "Xtrac": {
+          "pace_rating": 72,
+          "reliability_rating": 80,
+          "budget_m": 14,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 5,
+          "nationality": "british"
+        },
+        "Porsche": {
+          "pace_rating": 82,
+          "reliability_rating": 86,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "german"
+        },
+        "Toyota": {
+          "pace_rating": 80,
+          "reliability_rating": 85,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.5,
+            "reliability": 0.5
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "japanese"
+        },
+        "BMW": {
+          "pace_rating": 81,
+          "reliability_rating": 83,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "german"
+        },
+        "BYD": {
+          "pace_rating": 76,
+          "reliability_rating": 78,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "chinese"
+        }
+      }
+    },
+    "suspension": {
+      "label": "Suspension",
+      "abbr": "SU",
+      "base_wear_per_lap": 0.1,
+      "fail_prob_per_lap_over_50_wear": 0.0015,
+      "suppliers": {
+        "Aurora Ride": {
+          "pace_rating": 82,
+          "reliability_rating": 86,
+          "budget_m": 22,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "austrian"
+        },
+        "Skyline Dynamics": {
+          "pace_rating": 78,
+          "reliability_rating": 88,
+          "budget_m": 18,
+          "dev_weights": {
+            "pace": 0.5,
+            "reliability": 0.5
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "italian"
+        },
+        "Stratus Systems": {
+          "pace_rating": 70,
+          "reliability_rating": 84,
+          "budget_m": 14,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "british"
+        },
+        "Vertex Suspension": {
+          "pace_rating": 74,
+          "reliability_rating": 90,
+          "budget_m": 16,
+          "dev_weights": {
+            "pace": 0.4,
+            "reliability": 0.6
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "german"
+        }
+      }
+    },
+    "brakes": {
+      "label": "Brakes",
+      "abbr": "BR",
+      "base_wear_per_lap": 0.125,
+      "fail_prob_per_lap_over_50_wear": 0.0015,
+      "suppliers": {
+        "Brembo": {
+          "pace_rating": 88,
+          "reliability_rating": 90,
+          "budget_m": 24,
+          "dev_weights": {
+            "pace": 0.55,
+            "reliability": 0.45
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "italian"
+        },
+        "AP Racing": {
+          "pace_rating": 82,
+          "reliability_rating": 88,
+          "budget_m": 20,
+          "dev_weights": {
+            "pace": 0.45,
+            "reliability": 0.55
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "british"
+        },
+        "Carbon Industrie": {
+          "pace_rating": 76,
+          "reliability_rating": 86,
+          "budget_m": 16,
+          "dev_weights": {
+            "pace": 0.6,
+            "reliability": 0.4
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "french"
+        },
+        "Akebono": {
+          "pace_rating": 72,
+          "reliability_rating": 84,
+          "budget_m": 14,
+          "dev_weights": {
+            "pace": 0.55,
+            "reliability": 0.45
+          },
+          "allocation_per_season": 6,
+          "max_customers": 5,
+          "nationality": "japanese"
+        }
+      }
+    },
+    "ecu": {
+      "label": "ECU",
+      "abbr": "ECU",
+      "base_wear_per_lap": 0.08,
+      "fail_prob_per_lap_over_50_wear": 0.0015,
+      "suppliers": {
+        "Motion Applied": {
+          "pace_rating": 75,
+          "reliability_rating": 99,
+          "budget_m": 20,
+          "dev_weights": {
+            "pace": 0.5,
+            "reliability": 0.5
+          },
+          "allocation_per_season": 6,
+          "max_customers": 20,
+          "nationality": "british"
+        }
+      }
+    }
+  },
+  "default_contracts": {
+    "Red Bull": {
+      "fuel": {
+        "supplier": "ExxonMobil",
+        "years": 3,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Red Bull",
+        "years": 6,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Ferrari F1": {
+      "fuel": {
+        "supplier": "Shell",
+        "years": 3,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Ferrari",
+        "years": 6,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "McLaren": {
+      "fuel": {
+        "supplier": "Petronas",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Mercedes",
+        "years": 3,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Mercedes": {
+      "fuel": {
+        "supplier": "Petronas",
+        "years": 3,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Mercedes",
+        "years": 6,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Vertex Suspension",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Aston Martin": {
+      "fuel": {
+        "supplier": "BP",
+        "years": 3,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Honda",
+        "years": 6,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "AP Racing",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Alpine": {
+      "fuel": {
+        "supplier": "Petronas",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Mercedes",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Vertex Suspension",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Carbon Industrie",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Racing Bulls": {
+      "fuel": {
+        "supplier": "ExxonMobil",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Red Bull",
+        "years": 3,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Audi": {
+      "fuel": {
+        "supplier": "BP",
+        "years": 3,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Audi",
+        "years": 6,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "AP Racing",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Haas F1": {
+      "fuel": {
+        "supplier": "Shell",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Ferrari",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Williams Racing": {
+      "fuel": {
+        "supplier": "Petronas",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Mercedes",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "AP Racing",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Cadillac": {
+      "fuel": {
+        "supplier": "Shell",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Ferrari",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Vertex Suspension",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Akebono",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Porsche": {
+      "fuel": {
+        "supplier": "BP",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Porsche",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Vertex Suspension",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Toyota": {
+      "fuel": {
+        "supplier": "TotalEnergies",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Toyota",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "BMW": {
+      "fuel": {
+        "supplier": "BP",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "BMW",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Brembo",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "BYD": {
+      "fuel": {
+        "supplier": "TotalEnergies",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "BYD",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Vertex Suspension",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "AP Racing",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Brabham": {
+      "fuel": {
+        "supplier": "TotalEnergies",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Xtrac",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "AP Racing",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Lotus": {
+      "fuel": {
+        "supplier": "TotalEnergies",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Xtrac",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Carbon Industrie",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Jaguar Racing": {
+      "fuel": {
+        "supplier": "BP",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Xtrac",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "AP Racing",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    }
+  }
+}

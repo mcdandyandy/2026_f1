@@ -1,0 +1,23 @@
+{
+  "laps": 50,
+  "variability_level": 4,
+  "player_pit_mode": "manual",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "last_save": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Principal A Racing Manager\\saves\\MercedesSeason1Week1_Auto.json",
+  "fog_of_war": true,
+  "show_development_emails": true,
+  "ai_aero_dev_difficulty": "extreme",
+  "show_ai_parts_debug": false,
+  "show_ai_engine_debug": false,
+  "chassis_bar_mode": "overall",
+  "show_ai_contracts_debug": false,
+  "event_debug": false,
+  "neutral_results_rows": true,
+  "ai_factory_production_speed": "extreme",
+  "ai_aero_design_speed": "extreme",
+  "animated_dashboard_backgrounds": true,
+  "guided_tutorial": false
+}

@@ -1,0 +1,661 @@
+{
+  "categories": [
+    {
+      "key": "reliability_profile",
+      "label": "Reliability Profile",
+      "change_chance": 0.15,
+      "default": "high_reliability",
+      "options": [
+        {
+          "key": "bulletproof",
+          "name": "Bulletproof Machinery",
+          "mechanical_dnf_prob_per_lap": 0.0006,
+          "weight": 0.4,
+          "summary": "Mechanical DNFs are almost unheard of with a 0.06% per-lap failure chance.",
+          "description": "Suppliers and teams focus on bulletproof components, dramatically cutting unexpected DNFs."
+        },
+        {
+          "key": "high_reliability",
+          "name": "High Reliability",
+          "mechanical_dnf_prob_per_lap": 0.001,
+          "weight": 0.6,
+          "summary": "Baseline 0.10% per-lap mechanical failure chance remains in force.",
+          "description": "The governing body keeps reliability expectations steady, matching the series' modern attrition rates."
+        },
+        {
+          "key": "good_reliability",
+          "name": "Good Reliability",
+          "mechanical_dnf_prob_per_lap": 0.002,
+          "weight": 0.5,
+          "summary": "Teams face a 0.20% per-lap mechanical failure chance.",
+          "description": "Cost saving measures loosen component quality targets slightly, nudging the grid toward modest attrition."
+        },
+        {
+          "key": "meddling_reliability",
+          "name": "Meddling Reliability",
+          "mechanical_dnf_prob_per_lap": 0.003,
+          "weight": 0.4,
+          "summary": "Mechanical trouble creeps up to a 0.30% per-lap failure chance.",
+          "description": "Rule tweaks disrupt team supply chains, increasing the odds of a mechanical drama on Sundays."
+        },
+        {
+          "key": "bad_reliability",
+          "name": "Bad Reliability",
+          "mechanical_dnf_prob_per_lap": 0.0045,
+          "weight": 0.25,
+          "summary": "Reliability nosedives to a 0.45% per-lap mechanical failure chance.",
+          "description": "Harsh component limits and budget clamps spark an attrition-heavy era packed with breakdowns."
+        }
+      ]
+    },
+    {
+      "key": "technical_regulation_era",
+      "label": "Technical Regulation Era",
+      "base_chance": 0.25,
+      "announcement_week": 40,
+      "default": "balanced",
+      "default_severity": "minor",
+      "severity_weights": {
+        "minor": 0.55,
+        "major": 0.3,
+        "drastic": 0.15
+      },
+      "severities": {
+        "minor": {
+          "name": "Minor",
+          "retention": 0.92,
+          "concept_strength": 0.5,
+          "summary": "A mild technical refresh trims carryover only slightly."
+        },
+        "major": {
+          "name": "Major",
+          "retention": 0.82,
+          "concept_strength": 1.0,
+          "summary": "A meaningful regulation shift compresses the field and rewards the right concept call."
+        },
+        "drastic": {
+          "name": "Drastic",
+          "retention": 0.68,
+          "concept_strength": 1.4,
+          "summary": "A major reset heavily compresses carryover and magnifies concept fit."
+        }
+      },
+      "options": [
+        {
+          "key": "balanced",
+          "name": "Balanced Era",
+          "weight": 0.4,
+          "summary": "Neutral technical rules leave concept strengths largely untouched.",
+          "description": "The rulebook remains balanced enough that no chassis concept receives an external bonus or penalty.",
+          "concept_attribute_multipliers": {}
+        },
+        {
+          "key": "high_downforce_era",
+          "name": "High Downforce Era",
+          "weight": 0.2,
+          "summary": "High-downforce concepts gain extra value while slippery, conservative ideas lose some edge.",
+          "description": "The rules reward cars that generate strong medium-speed load and robust wake control, punishing flatter or conservative solutions.",
+          "concept_attribute_multipliers": {
+            "high_rake": {
+              "slow": 1.25,
+              "med": 1.25
+            },
+            "extreme_outwash": {
+              "straight": 1.25,
+              "high": 1.25
+            },
+            "low_rake": {
+              "straight": 0.75,
+              "high": 0.75
+            },
+            "conservative": {
+              "chassis_reliability": 0.75,
+              "dirty_air_sensitivity": 0.75,
+              "tyre_management": 0.75
+            }
+          }
+        },
+        {
+          "key": "low_drag_era",
+          "name": "Low-Drag Era",
+          "weight": 0.2,
+          "summary": "Low-drag concepts gain extra value while higher-downforce solutions become less rewarding.",
+          "description": "Simplified aero surfaces and drag trims reward efficient top-end concepts, while high-downforce and wake-heavy solutions lose ground.",
+          "concept_attribute_multipliers": {
+            "low_rake": {
+              "straight": 1.25,
+              "high": 1.25
+            },
+            "size_zero": {
+              "acceleration": 1.25,
+              "straight": 1.25
+            },
+            "high_rake": {
+              "slow": 0.75,
+              "med": 0.75
+            },
+            "extreme_outwash": {
+              "med": 0.75,
+              "high": 0.75
+            }
+          }
+        },
+        {
+          "key": "conservative_packaging_era",
+          "name": "Conservative Packaging Era",
+          "weight": 0.2,
+          "summary": "Stable, robust packaging concepts gain value while aggressive brake-duct ideas lose some edge.",
+          "description": "The rules favor reliable, clean-flow packaging and penalize concepts that rely heavily on aggressive brake-duct and low-speed aero shaping.",
+          "concept_attribute_multipliers": {
+            "conservative": {
+              "tyre_management": 1.25,
+              "chassis_reliability": 1.25,
+              "dirty_air_sensitivity": 1.25
+            },
+            "aggressive_brake_duct": {
+              "braking": 0.75,
+              "slow": 0.75
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "handling_complexity_era",
+      "label": "Handling Complexity Era",
+      "change_chance": 0.12,
+      "default": "precision_assisted",
+      "options": [
+        {
+          "key": "stability_assisted",
+          "name": "Stability-Assisted Era",
+          "skill_delta_multiplier": 1.0,
+          "realistic_cornering_kmh_per_point": 0.15,
+          "realistic_braking_ms2_per_point": 0.12,
+          "weight": 0.2,
+          "summary": "Cornering and braking skill translate to the usual 0.05s per point.",
+          "description": "Electronics and chassis setup aid the drivers just enough to mirror the modern baseline pace spread."
+        },
+        {
+          "key": "driver_dominant",
+          "name": "Driver Dominant Era",
+          "skill_delta_multiplier": 1.5,
+          "realistic_cornering_kmh_per_point": 0.2,
+          "realistic_braking_ms2_per_point": 0.16,
+          "weight": 0.1,
+          "summary": "Driver technique shines with a 50% larger cornering/braking impact.",
+          "description": "Grip limits are unpredictable and the cars are a handful, magnifying driver bravery into big lap time swings."
+        },
+        {
+          "key": "precision_assisted",
+          "name": "Precision Assisted Era",
+          "skill_delta_multiplier": 0.5,
+          "realistic_cornering_kmh_per_point": 0.12,
+          "realistic_braking_ms2_per_point": 0.08,
+          "weight": 0.7,
+          "summary": "Advanced stability tools halve the per-point lap time gain to 0.025s.",
+          "description": "Refined chassis feedback and driver aids blunt individual flair, shifting the spotlight onto car development."
+        }
+      ]
+    },
+    {
+      "key": "chassis_minimum_weight",
+      "label": "Minimum Chassis Weight",
+      "change_chance": 0.1,
+      "default": "min_640kg",
+      "options": [
+        {
+          "key": "min_620kg",
+          "name": "620 kg Minimum",
+          "min_car_mass_kg": 620.0,
+          "weight": 0.2,
+          "summary": "Teams may develop chassis mass down to 620.0 kg, but no lower.",
+          "description": "The rules trim the minimum legal chassis weight to 620.0 kg, opening the door to more aggressive weight reduction."
+        },
+        {
+          "key": "min_640kg",
+          "name": "640 kg Minimum",
+          "min_car_mass_kg": 640.0,
+          "weight": 0.6,
+          "summary": "The baseline 640.0 kg minimum chassis weight remains in force.",
+          "description": "The governing body keeps the minimum legal chassis weight at 640.0 kg."
+        },
+        {
+          "key": "min_660kg",
+          "name": "660 kg Minimum",
+          "min_car_mass_kg": 660.0,
+          "weight": 0.2,
+          "summary": "Cars must weigh at least 660.0 kg, forcing heavier chassis into the next season.",
+          "description": "A heavier regulation target raises the minimum legal chassis weight to 660.0 kg."
+        }
+      ]
+    },
+    {
+      "key": "driver_aid_restrictions",
+      "label": "Driver Aids Restrictions",
+      "change_chance": 0.15,
+      "default": "legacy_ban",
+      "options": [
+        {
+          "key": "legacy_ban",
+          "name": "Legacy Electronics Ban",
+          "banned_aids": [
+            "active_suspension",
+            "traction_control",
+            "abs"
+          ],
+          "weight": 0.4,
+          "summary": "Traditional bans keep suspension trickery and launch aids illegal.",
+          "description": "The governing body upholds long-standing restrictions on active suspension, traction control, and ABS to preserve driver skill showcases."
+        },
+        {
+          "key": "full_prohibition",
+          "name": "Total Driver Aid Prohibition",
+          "banned_aids": [
+            "active_suspension",
+            "traction_control",
+            "abs",
+            "active_aero",
+            "advanced_tpms"
+          ],
+          "weight": 0.1,
+          "summary": "All electronic driver assists are outlawed across the grid.",
+          "description": "Regulators crack down on every driver assistance system, forcing teams to rely solely on mechanical grip and driver talent."
+        },
+        {
+          "key": "modern_relaxation",
+          "name": "Modern Relaxation",
+          "banned_aids": [],
+          "weight": 0.08,
+          "summary": "Electronics arms race allowed; no driver aids are banned.",
+          "description": "The FIA opens the rulebook to innovation, permitting all driver assistance technologies to remain on the cars."
+        },
+        {
+          "key": "suspension_only_ban",
+          "name": "Active Suspension Clampdown",
+          "banned_aids": [
+            "active_suspension"
+          ],
+          "weight": 0.12,
+          "summary": "Active suspension remains outlawed while other aids slip through.",
+          "description": "Chassis control systems are singled out as the main threat to spectacle, leaving other electronics untouched."
+        },
+        {
+          "key": "aero_only_ban",
+          "name": "Active Aero Restriction",
+          "banned_aids": [
+            "active_aero"
+          ],
+          "weight": 0.08,
+          "summary": "Movable aero surfaces are deemed illegal driver assists.",
+          "description": "Variable aero elements are curbed to keep overtaking predictable, though other assistance systems stay in play."
+        },
+        {
+          "key": "traction_focus_ban",
+          "name": "Traction Control Crackdown",
+          "banned_aids": [
+            "traction_control"
+          ],
+          "weight": 0.1,
+          "summary": "Electronics that tame wheelspin are once again outlawed.",
+          "description": "Officials reintroduce a ban on traction control to reward precise throttle modulation from the drivers."
+        },
+        {
+          "key": "abs_focus_ban",
+          "name": "ABS Clampdown",
+          "banned_aids": [
+            "abs"
+          ],
+          "weight": 0.1,
+          "summary": "Brake modulation systems are prohibited to keep braking skill central.",
+          "description": "The series pivots back to pure brake feel, eliminating anti-lock software from the cars."
+        },
+        {
+          "key": "thermal_limits",
+          "name": "Thermal Management Limits",
+          "banned_aids": [
+            "advanced_tpms"
+          ],
+          "weight": 0.1,
+          "summary": "Advanced TPMS packages are outlawed to spice up tyre wear.",
+          "description": "Stewards curtail tyre telemetry suites, making temperature swings and wear harder to tame."
+        },
+        {
+          "key": "electronics_clampdown",
+          "name": "Electronics Clampdown",
+          "banned_aids": [
+            "traction_control",
+            "abs",
+            "advanced_tpms"
+          ],
+          "weight": 0.1,
+          "summary": "Launch and braking aids are removed alongside tyre telemetry.",
+          "description": "A sweeping electronics policy bans the most intrusive driver assists while allowing aero gimmicks to continue."
+        },
+        {
+          "key": "aero_suspension_split",
+          "name": "Aero & Suspension Split",
+          "banned_aids": [
+            "active_suspension",
+            "active_aero"
+          ],
+          "weight": 0.12,
+          "summary": "Movable aero and platform tricks are both outlawed this era.",
+          "description": "Regulators focus on mechanical purity, suppressing both active suspension packages and active aero experiments."
+        }
+      ]
+    },
+    {
+      "key": "drs_policy",
+      "label": "DRS Policy",
+      "change_chance": 0.08,
+      "default": "enabled",
+      "options": [
+        {
+          "key": "enabled",
+          "name": "DRS Enabled",
+          "drs_enabled": true,
+          "weight": 0.8,
+          "summary": "DRS is available in designated zones from lap 3 onward.",
+          "description": "Overtaking aid remains legal in regulated zones for cars within the activation gap."
+        },
+        {
+          "key": "disabled",
+          "name": "DRS Disabled",
+          "drs_enabled": false,
+          "weight": 0.2,
+          "summary": "DRS is banned for all race sessions.",
+          "description": "The governing body removes movable rear-wing assistance, leaving overtakes to slipstream and braking."
+        }
+      ]
+    },
+    {
+      "key": "ers_policy",
+      "label": "ERS Deployment",
+      "change_chance": 0.06,
+      "default": "enabled",
+      "options": [
+        {
+          "key": "enabled",
+          "name": "ERS Enabled",
+          "ers_enabled": true,
+          "weight": 0.85,
+          "summary": "Standardized battery deployment and harvest systems are legal.",
+          "description": "Cars may use a regulated electrical deployment system that harvests under braking and assists acceleration out of slower zones."
+        },
+        {
+          "key": "disabled",
+          "name": "ERS Disabled",
+          "ers_enabled": false,
+          "weight": 0.15,
+          "summary": "No battery deployment is allowed in race sessions.",
+          "description": "The governing body bans electrical deployment, leaving cars to rely on combustion power alone."
+        }
+      ]
+    },
+    {
+      "key": "points_system",
+      "label": "Points System",
+      "change_chance": 0.15,
+      "default": "modern_top10",
+      "options": [
+        {
+          "key": "modern_top10",
+          "name": "Modern System",
+          "points": [
+            25,
+            18,
+            15,
+            12,
+            10,
+            8,
+            6,
+            4,
+            2,
+            1
+          ],
+          "weight": 0.4,
+          "summary": "Top 10 scoring (25-18-15-12-10-8-6-4-2-1).",
+          "description": "The familiar ten-place scoring table remains in use, rewarding consistency through the field."
+        },
+        {
+          "key": "top12",
+          "name": "Top 12 Points",
+          "points": [
+            25,
+            18,
+            15,
+            12,
+            10,
+            8,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "weight": 0.5,
+          "summary": "Extended scoring to 12th place (25 down to 1).",
+          "description": "An expanded table keeps midfield battles meaningful deep into the order."
+        },
+        {
+          "key": "top8",
+          "name": "Classic Top 8",
+          "points": [
+            15,
+            12,
+            10,
+            8,
+            6,
+            4,
+            2,
+            1
+          ],
+          "weight": 0.1,
+          "summary": "Old-school top 8 scoring (15-12-10-8-6-4-2-1).",
+          "description": "Historic scoring returns, piling pressure on teams to break into the top eight for points."
+        }
+      ]
+    },
+    {
+      "key": "qualifying_format",
+      "label": "Qualifying Format",
+      "change_chance": 0.2,
+      "default": "knockout",
+      "options": [
+        {
+          "key": "session_60",
+          "name": "60 Minute Qualifying",
+          "weight": 0.5,
+          "summary": "Single 60-minute session sets the grid.",
+          "description": "All drivers run in one continuous hour, with best laps determining the starting order."
+        },
+        {
+          "key": "knockout",
+          "name": "Knockout Qualifying",
+          "weight": 0.5,
+          "summary": "Three-stage Q1/Q2/Q3 knockout format.",
+          "description": "Drivers are eliminated across Q1 and Q2, with Q3 deciding the top 10 positions."
+        }
+      ]
+    },
+    {
+      "key": "prize_money_distribution",
+      "label": "Prize Money Distribution",
+      "change_chance": 0.12,
+      "default": "balanced",
+      "options": [
+        {
+          "key": "balanced",
+          "name": "Balanced Payout",
+          "payouts": [
+            225,
+            200,
+            180,
+            160,
+            140,
+            120,
+            100,
+            80,
+            60,
+            50
+          ],
+          "weight": 0.6,
+          "summary": "Current balanced payout curve used as the baseline.",
+          "description": "Prize money remains evenly tiered, rewarding both champions and solid midfield outfits."
+        },
+        {
+          "key": "top_heavy",
+          "name": "Top-Heavy Purse",
+          "payouts": [
+            300,
+            250,
+            200,
+            160,
+            130,
+            100,
+            70,
+            50,
+            35,
+            20,
+            15,
+            10
+          ],
+          "weight": 0.22,
+          "summary": "Championship leaders claim the lion's share of the prize pot.",
+          "description": "Broadcasters chase headlines, diverting more revenue to the sharp end of the grid."
+        },
+        {
+          "key": "even_spread",
+          "name": "Even Spread",
+          "payouts": [
+            165,
+            145,
+            135,
+            120,
+            110,
+            100,
+            90,
+            80,
+            70,
+            60,
+            50,
+            40
+          ],
+          "weight": 0.24,
+          "summary": "Smaller gap between first and last, supporting the whole field.",
+          "description": "Commercial deals insist on stability, smoothing payouts to help backmarkers invest."
+        }
+      ]
+    },
+    {
+      "key": "private_testing_limits",
+      "label": "Private Testing Limits",
+      "change_chance": 0.1,
+      "default": "generous",
+      "options": [
+        {
+          "key": "none",
+          "name": "No Testing Limits",
+          "lap_limit": null,
+          "weight": 0.25,
+          "summary": "Teams may run unlimited private test laps, constrained only by budget.",
+          "description": "No restrictions apply to private testing programmes."
+        },
+        {
+          "key": "generous",
+          "name": "Generous Testing Limits",
+          "lap_limit": 1000,
+          "weight": 0.55,
+          "summary": "Teams may run up to 1,000 private test laps per season.",
+          "description": "A permissive lap cap keeps costs in check while still allowing meaningful development work."
+        },
+        {
+          "key": "strict",
+          "name": "Strict Testing Limits",
+          "lap_limit": 250,
+          "weight": 0.35,
+          "summary": "Teams may run up to 250 private test laps per season.",
+          "description": "A tight lap cap forces teams to be strategic about private testing."
+        }
+      ]
+    },
+    {
+      "key": "seasonal_component_allocation_rule",
+      "label": "Seasonal Component Allocation Rule",
+      "change_chance": 0.15,
+      "default": "moderate_cap",
+      "options": [
+        {
+          "key": "extreme_cap",
+          "name": "Extreme Cap",
+          "engine_units_cap": 6,
+          "gearbox_units_cap": 6,
+          "weight": 0.18,
+          "summary": "Hard cap of 6 engines and 6 gearboxes per season.",
+          "description": "A strict seasonal allocation rule that forces teams to manage component life very carefully."
+        },
+        {
+          "key": "moderate_cap",
+          "name": "Moderate Cap",
+          "engine_units_cap": 8,
+          "gearbox_units_cap": 8,
+          "weight": 0.55,
+          "summary": "Cap of 8 engines and 8 gearboxes per season.",
+          "description": "The standard seasonal allocation rule: limited but manageable component pools."
+        },
+        {
+          "key": "generous_cap",
+          "name": "Generous Cap",
+          "engine_units_cap": 10,
+          "gearbox_units_cap": 10,
+          "weight": 0.22,
+          "summary": "Cap of 10 engines and 10 gearboxes per season.",
+          "description": "A generous allocation cap that allows more fresh components through the season."
+        },
+        {
+          "key": "no_cap",
+          "name": "No Cap",
+          "engine_units_cap": null,
+          "gearbox_units_cap": null,
+          "weight": 0.12,
+          "summary": "No seasonal allocation cap; teams may negotiate any supply.",
+          "description": "Component allocations are not capped by regulations; supply is limited only by budget and supplier constraints."
+        }
+      ]
+    },
+    {
+      "key": "tyre_profile",
+      "label": "Tyre Profile",
+      "change_chance": 0.1,
+      "default": "balanced",
+      "options": [
+        {
+          "key": "balanced",
+          "name": "Balanced Compounds",
+          "durability_rating_delta": 0,
+          "weight": 0.65,
+          "summary": "Tyre suppliers retain their baseline durability mix.",
+          "description": "The FIA leaves compound construction untouched, keeping tyre wear trends stable."
+        },
+        {
+          "key": "aggressive",
+          "name": "Aggressive Compounds",
+          "durability_rating_delta": -30,
+          "weight": 0.18,
+          "summary": "All tyre suppliers lose 30 durability rating points across every compound.",
+          "description": "Spicier compounds deliver peak grip at the cost of a heavy, regulation-wide durability hit on every tyre in the range."
+        },
+        {
+          "key": "endurance",
+          "name": "Endurance Focus",
+          "durability_rating_delta": 30,
+          "weight": 0.18,
+          "summary": "All tyre suppliers gain 30 durability rating points across every compound.",
+          "description": "Tyre makers prioritise marathon stints, releasing tougher rubber that dramatically improves durability throughout the range."
+        }
+      ]
+    }
+  ]
+}

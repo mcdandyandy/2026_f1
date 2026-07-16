@@ -1,0 +1,400 @@
+{
+  "dirty_air": {
+    "enabled": true,
+    "quantum_kmh": 0.5,
+    "use_exact_gap": false,
+    "brake_quantum_ms2": 0.01,
+    "brake_deadband_ms2": 0.005,
+    "brake_update_interval_s": 0.12,
+    "curve": [
+      {
+        "gap": 0.0,
+        "kmh": 3.5,
+        "brake_ms2": 0.15
+      },
+      {
+        "gap": 0.2,
+        "kmh": 2.8,
+        "brake_ms2": 0.1
+      },
+      {
+        "gap": 0.4,
+        "kmh": 2.0,
+        "brake_ms2": 0.05
+      },
+      {
+        "gap": 0.6,
+        "kmh": 1.2,
+        "brake_ms2": 0.01
+      },
+      {
+        "gap": 0.8,
+        "kmh": 0.5,
+        "brake_ms2": 0.002
+      },
+      {
+        "gap": 1.0,
+        "kmh": 0.1,
+        "brake_ms2": 0.001
+      },
+      {
+        "gap": 2.0,
+        "kmh": 0.0,
+        "brake_ms2": 0.0
+      }
+    ],
+    "stacking": {
+      "enabled": true,
+      "base_max_gap_s": 1.0,
+      "layers": [
+        {
+          "position_offset": 2,
+          "max_gap_s": 1.8,
+          "mult": 0.35
+        },
+        {
+          "position_offset": 3,
+          "max_gap_s": 2.5,
+          "mult": 0.15
+        }
+      ]
+    }
+  },
+  "slipstream": {
+    "enabled": true,
+    "quantum_kmh": 0.5,
+    "use_exact_gap": false,
+    "curve": [
+      {
+        "gap": 0.0,
+        "kmh": 6.0
+      },
+      {
+        "gap": 0.4,
+        "kmh": 4.5
+      },
+      {
+        "gap": 0.6,
+        "kmh": 3.5
+      },
+      {
+        "gap": 0.8,
+        "kmh": 2.5
+      },
+      {
+        "gap": 1.0,
+        "kmh": 1.5
+      },
+      {
+        "gap": 1.2,
+        "kmh": 0.25
+      }
+    ]
+  },
+  "drs": {
+    "enabled": true,
+    "activation_lap": 3,
+    "gap_threshold_s": 1.0,
+    "boost_kmh": 8.0,
+    "accel_mult_base": 1.0,
+    "accel_mult_per_kmh": 0.003,
+    "accel_mult_cap": 1.2
+  },
+  "car_setup": {
+    "wing_levels": {
+      "min_level": 1,
+      "max_level": 20,
+      "neutral_level": 10,
+      "front_per_click_kmh": {
+        "slow": 0.2,
+        "med": 0.08,
+        "high": 0.02,
+        "straight": -0.5
+      },
+      "rear_per_click_kmh": {
+        "slow": 0.05,
+        "med": 0.12,
+        "high": 0.3,
+        "straight": -0.65
+      },
+      "diminishing_returns": {
+        "enabled": true,
+        "coefficient": 0.03,
+        "exponent": 1.35,
+        "min_efficiency": 0.5,
+        "max_efficiency": 1.0
+      }
+    },
+    "tyre_pressures": {
+      "front": {
+        "min_psi": 20.0,
+        "max_psi": 28.0,
+        "neutral_psi": 24.0,
+        "step_psi": 0.1,
+        "min_effects": {
+          "slow": 1.0,
+          "med": 1.0,
+          "high": 0.0,
+          "straight": 0.0,
+          "accel_ms2": 0.0,
+          "warmup_rate_delta": 0.2,
+          "target_temp_delta_c": 5.0,
+          "wear_rate_add": 0.001
+        },
+        "max_effects": {
+          "slow": 0.0,
+          "med": -1.0,
+          "high": -1.0,
+          "straight": 1.0,
+          "accel_ms2": 0.0,
+          "warmup_rate_delta": -0.2,
+          "target_temp_delta_c": -5.0,
+          "wear_rate_add": -0.001
+        }
+      },
+      "rear": {
+        "min_psi": 20.0,
+        "max_psi": 25.0,
+        "neutral_psi": 22.5,
+        "step_psi": 0.1,
+        "min_effects": {
+          "slow": 0.0,
+          "med": 0.0,
+          "high": 0.0,
+          "straight": 0.0,
+          "accel_ms2": 0.03,
+          "warmup_rate_delta": 0.2,
+          "target_temp_delta_c": 5.0,
+          "wear_rate_add": 0.001
+        },
+        "max_effects": {
+          "slow": 0.0,
+          "med": 0.0,
+          "high": 0.0,
+          "straight": 1.0,
+          "accel_ms2": 0.0,
+          "warmup_rate_delta": -0.2,
+          "target_temp_delta_c": -5.0,
+          "wear_rate_add": -0.001
+        }
+      }
+    },
+    "suspension_setup": {
+      "min_level": 1,
+      "max_level": 11,
+      "neutral_level": 6,
+      "min_effects": {
+        "slow": 2.0,
+        "med": -1.5,
+        "high": -1.5,
+        "straight": 0.0
+      },
+      "max_effects": {
+        "slow": -2.0,
+        "med": 1.5,
+        "high": 1.5,
+        "straight": 0.0
+      }
+    }
+  },
+  "quali_107_rule": {
+    "enabled": true,
+    "percent": 1.07
+  },
+  "race_start": {
+    "stall_chance": 0.02,
+    "stall_delay_s": [
+      3.0,
+      4.0
+    ]
+  },
+  "preseason_options": {
+    "laps_needed_to_avoid_penalty": 250,
+    "laps_needed_for_goal": 400,
+    "reliablity_penalty": 0.02,
+    "reliability_penalty_rating": 2.0
+  },
+  "pitstops": {
+    "enabled": true,
+    "strategy": "wear_threshold",
+    "wear_threshold": 0.55,
+    "pit_lane_loss_s": 18.5,
+    "fail_prob": 0.003,
+    "fail_extra_s": [
+      1.0,
+      6.0
+    ],
+    "max_lap_fraction": 0.8
+  },
+  "incidents": {
+    "spin_prob_per_lap": 0.005,
+    "spin_loss_s": [
+      1.0,
+      10.0
+    ],
+    "lock_up": {
+      "enabled": true,
+      "chance_per_braking_zone": 0.001,
+      "time_loss_s": [
+        0.15,
+        0.9
+      ],
+      "tyre_wear_add": [
+        0.005,
+        0.02
+      ]
+    },
+    "collision_prob_per_lap": 0.004,
+    "collision_close_s": 0.2,
+    "mechanical_dnf_prob_per_lap": 0.001,
+    "crash_dnf_prob_per_lap": 0.001,
+    "collision_time_loss_s": [
+      1.0,
+      10.0
+    ],
+    "collision_outcomes": {
+      "both_retire": 0.2,
+      "single_car_retire": 0.2,
+      "minor_contact": 0.3,
+      "spin_contact": 0.3
+    },
+    "minor_contact_part_damage_fraction": 0.2,
+    "single_car_contact_part_damage_fraction": 0.25,
+    "spin_contact_part_damage_fraction": 0.1
+  },
+  "safety_car": {
+    "dnf_deploy_chance": 0.15,
+    "pace_factor": 0.5,
+    "catch_gap_s": 1.0,
+    "catchup_pace_factor": 1.8
+  },
+  "injuries": {
+    "dnf_injury_chance": 0.01,
+    "severe_chance": 0.1,
+    "minor_weeks": 5,
+    "severe_weeks": 20,
+    "fatality_chance": 0.0002,
+    "recovery_malus": {
+      "enabled": true,
+      "minor_chance": 0.975,
+      "major_chance": 0.025,
+      "minor_attr_delta": 1,
+      "major_attr_delta": 2,
+      "min_attribute": 0
+    }
+  },
+  "driver_development": {
+    "age_bands": [
+      {
+        "min": 7,
+        "max": 12,
+        "delta": [
+          0.1,
+          0.5
+        ]
+      },
+      {
+        "min": 13,
+        "max": 18,
+        "delta": [
+          0.25,
+          1.0
+        ]
+      },
+      {
+        "min": 19,
+        "max": 28,
+        "delta": [
+          0.2,
+          0.7
+        ]
+      },
+      {
+        "min": 29,
+        "max": 35,
+        "delta": [
+          0.1,
+          0.3
+        ]
+      },
+      {
+        "min": 36,
+        "max": 39,
+        "delta": [
+          -0.1,
+          0.1
+        ]
+      },
+      {
+        "min": 40,
+        "max": 100,
+        "delta": [
+          -1.0,
+          -0.3
+        ]
+      }
+    ],
+    "growth_modifiers": {
+      "main_series": 1.0,
+      "free_agent": 0.25,
+      "junior_tiers": {
+        "2": 0.9,
+        "3": 0.75,
+        "4": 0.6
+      }
+    },
+    "free_agent_decline_multiplier": 2.0
+  },
+  "sponsor_amount_brackets": {
+    "1": {
+      "low_m": 35.0,
+      "high_m": 40.0,
+      "prestige_min": 0.0
+    },
+    "2": {
+      "low_m": 40.0,
+      "high_m": 50.0,
+      "prestige_min": 0.0
+    },
+    "3": {
+      "low_m": 45.0,
+      "high_m": 55.0,
+      "prestige_min": 0.0
+    },
+    "4": {
+      "low_m": 50.0,
+      "high_m": 60.0,
+      "prestige_min": 0.0
+    },
+    "5": {
+      "low_m": 55.0,
+      "high_m": 65.0,
+      "prestige_min": 0.0
+    },
+    "6": {
+      "low_m": 60.0,
+      "high_m": 70.0,
+      "prestige_min": 0.0
+    },
+    "7": {
+      "low_m": 59.2,
+      "high_m": 76.4,
+      "prestige_min": 11.4
+    },
+    "8": {
+      "low_m": 45.0,
+      "high_m": 90.0,
+      "prestige_min": 58.8
+    },
+    "9": {
+      "low_m": 70.0,
+      "high_m": 120.0,
+      "prestige_min": 58.5
+    },
+    "10": {
+      "low_m": 90.0,
+      "high_m": 150.0,
+      "prestige_min": 68.3
+    }
+  }
+}

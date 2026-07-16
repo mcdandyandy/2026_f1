@@ -1,0 +1,163 @@
+{
+  "Red Bull": {
+    "state": "public",
+    "shares_total": 100000000,
+    "share_price": null,
+    "ipo_completed": true,
+    "shareholders": {
+      "player": 80.0,
+      "institutions": 20.0
+    },
+    "public_float": 0.0
+  },
+  "Ferrari F1": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "McLaren": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Mercedes": {
+    "state": "public",
+    "shares_total": 100000000,
+    "share_price": null,
+    "ipo_completed": true,
+    "shareholders": {
+      "player": 85.0,
+      "institutions": 15.0
+    },
+    "public_float": 0.0
+  },
+  "Aston Martin": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Alpine": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Racing Bulls": {
+    "state": "public",
+    "shares_total": 100000000,
+    "share_price": null,
+    "ipo_completed": true,
+    "shareholders": {
+      "player": 70.0,
+      "Red Bull": 30.0
+    },
+    "public_float": 0.0
+  },
+  "Audi": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Haas F1": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Williams Racing": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Cadillac": {
+    "state": "private",
+    "shares_total": null,
+    "share_price": null,
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0
+  },
+  "Porsche": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "BYD": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Lotus": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Brabham": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "BMW": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Jaguar Racing": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Toyota": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  }
+}

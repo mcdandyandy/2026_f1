@@ -1,0 +1,32 @@
+{
+  "soft_pace": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "soft_durability": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "medium_pace": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "medium_durability": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "hard_pace": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "hard_durability": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "intermediate_pace": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "intermediate_durability": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "wet_pace": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ],
+  "wet_durability": [
+    {"cost_m": 2}, {"cost_m": 3}, {"cost_m": 4}, {"cost_m": 5}, {"cost_m": 6}
+  ]
+}

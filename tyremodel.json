@@ -1,0 +1,301 @@
+{
+  "enabled": true,
+  "default_compound": "medium",
+  "mandatory_compound_count": 2,
+  "wear_quantum": 0.02,
+  "start_probabilities": {
+    "soft": 0.35,
+    "medium": 0.4,
+    "hard": 0.2,
+    "intermediate": 0.04,
+    "wet": 0.01
+  },
+  "compounds": {
+    "soft": {
+      "category": "dry",
+      "lat_grip_base": 1.016,
+      "long_grip_base": 1.016,
+      "wear_rate_base": 0.036,
+      "wear_grip_loss_lat": 0.08,
+      "wear_grip_loss_long": 0.11,
+      "warmup_rate": 1.1,
+      "cool_rate": 0.95,
+      "start_temp_c": 70.0,
+      "pit_out_temp_c": 75.0,
+      "temp_window_c": [
+        85.0,
+        105.0
+      ],
+      "wetness_states": [
+        {
+          "name": "dry",
+          "min_mm": 0.0,
+          "max_mm": 0.3,
+          "lat_mult": 1.0,
+          "long_mult": 1.0,
+          "wear_mult": 1.0
+        },
+        {
+          "name": "moist",
+          "min_mm": 0.3,
+          "max_mm": 0.8,
+          "lat_mult": 0.96,
+          "long_mult": 0.95,
+          "wear_mult": 1.04
+        },
+        {
+          "name": "damp",
+          "min_mm": 0.8,
+          "max_mm": 1.5,
+          "lat_mult": 0.88,
+          "long_mult": 0.84,
+          "wear_mult": 1.06
+        },
+        {
+          "name": "wet",
+          "min_mm": 1.5,
+          "max_mm": 3.0,
+          "lat_mult": 0.72,
+          "long_mult": 0.68,
+          "wear_mult": 1.08
+        },
+        {
+          "name": "very_wet",
+          "min_mm": 3.0,
+          "max_mm": 5.0,
+          "lat_mult": 0.56,
+          "long_mult": 0.52,
+          "wear_mult": 1.12
+        }
+      ]
+    },
+    "medium": {
+      "category": "dry",
+      "lat_grip_base": 1.01,
+      "long_grip_base": 1.01,
+      "wear_rate_base": 0.025,
+      "wear_grip_loss_lat": 0.075,
+      "wear_grip_loss_long": 0.1,
+      "warmup_rate": 1.0,
+      "cool_rate": 1.0,
+      "start_temp_c": 65.0,
+      "pit_out_temp_c": 70.0,
+      "temp_window_c": [
+        88.0,
+        108.0
+      ],
+      "wetness_states": [
+        {
+          "name": "dry",
+          "min_mm": 0.0,
+          "max_mm": 0.3,
+          "lat_mult": 1.0,
+          "long_mult": 1.0,
+          "wear_mult": 1.0
+        },
+        {
+          "name": "moist",
+          "min_mm": 0.3,
+          "max_mm": 0.8,
+          "lat_mult": 0.97,
+          "long_mult": 0.96,
+          "wear_mult": 1.03
+        },
+        {
+          "name": "damp",
+          "min_mm": 0.8,
+          "max_mm": 1.5,
+          "lat_mult": 0.9,
+          "long_mult": 0.87,
+          "wear_mult": 1.04
+        },
+        {
+          "name": "wet",
+          "min_mm": 1.5,
+          "max_mm": 3.0,
+          "lat_mult": 0.76,
+          "long_mult": 0.72,
+          "wear_mult": 1.06
+        },
+        {
+          "name": "very_wet",
+          "min_mm": 3.0,
+          "max_mm": 5.0,
+          "lat_mult": 0.62,
+          "long_mult": 0.58,
+          "wear_mult": 1.09
+        }
+      ]
+    },
+    "hard": {
+      "category": "dry",
+      "lat_grip_base": 1.002,
+      "long_grip_base": 1.002,
+      "wear_rate_base": 0.018,
+      "wear_grip_loss_lat": 0.075,
+      "wear_grip_loss_long": 0.095,
+      "warmup_rate": 0.92,
+      "cool_rate": 1.05,
+      "start_temp_c": 60.0,
+      "pit_out_temp_c": 65.0,
+      "temp_window_c": [
+        92.0,
+        112.0
+      ],
+      "wetness_states": [
+        {
+          "name": "dry",
+          "min_mm": 0.0,
+          "max_mm": 0.3,
+          "lat_mult": 1.0,
+          "long_mult": 1.0,
+          "wear_mult": 1.0
+        },
+        {
+          "name": "moist",
+          "min_mm": 0.3,
+          "max_mm": 0.8,
+          "lat_mult": 0.98,
+          "long_mult": 0.97,
+          "wear_mult": 1.02
+        },
+        {
+          "name": "damp",
+          "min_mm": 0.8,
+          "max_mm": 1.5,
+          "lat_mult": 0.92,
+          "long_mult": 0.89,
+          "wear_mult": 1.03
+        },
+        {
+          "name": "wet",
+          "min_mm": 1.5,
+          "max_mm": 3.0,
+          "lat_mult": 0.8,
+          "long_mult": 0.76,
+          "wear_mult": 1.05
+        },
+        {
+          "name": "very_wet",
+          "min_mm": 3.0,
+          "max_mm": 5.0,
+          "lat_mult": 0.66,
+          "long_mult": 0.62,
+          "wear_mult": 1.07
+        }
+      ]
+    },
+    "intermediate": {
+      "category": "inter",
+      "lat_grip_base": 0.9,
+      "long_grip_base": 0.9,
+      "wear_rate_base": 0.026,
+      "wear_grip_loss_lat": 0.13,
+      "wear_grip_loss_long": 0.16,
+      "warmup_rate": 1.02,
+      "cool_rate": 1.02,
+      "temp_window_c": [
+        82.0,
+        102.0
+      ],
+      "wetness_states": [
+        {
+          "name": "dry",
+          "min_mm": 0.0,
+          "max_mm": 0.25,
+          "lat_mult": 0.9,
+          "long_mult": 0.88,
+          "wear_mult": 1.16
+        },
+        {
+          "name": "moist",
+          "min_mm": 0.25,
+          "max_mm": 0.8,
+          "lat_mult": 0.96,
+          "long_mult": 0.95,
+          "wear_mult": 1.08
+        },
+        {
+          "name": "crossover",
+          "min_mm": 0.8,
+          "max_mm": 1.8,
+          "lat_mult": 1.03,
+          "long_mult": 1.02,
+          "wear_mult": 1.0
+        },
+        {
+          "name": "wet",
+          "min_mm": 1.8,
+          "max_mm": 3.2,
+          "lat_mult": 1.0,
+          "long_mult": 0.99,
+          "wear_mult": 0.98
+        },
+        {
+          "name": "very_wet",
+          "min_mm": 3.2,
+          "max_mm": 5.0,
+          "lat_mult": 0.9,
+          "long_mult": 0.88,
+          "wear_mult": 1.04
+        }
+      ]
+    },
+    "wet": {
+      "category": "wet",
+      "lat_grip_base": 0.84,
+      "long_grip_base": 0.84,
+      "wear_rate_base": 0.03,
+      "wear_grip_loss_lat": 0.12,
+      "wear_grip_loss_long": 0.14,
+      "warmup_rate": 0.98,
+      "cool_rate": 1.08,
+      "temp_window_c": [
+        78.0,
+        98.0
+      ],
+      "wetness_states": [
+        {
+          "name": "dry",
+          "min_mm": 0.0,
+          "max_mm": 0.25,
+          "lat_mult": 0.75,
+          "long_mult": 0.72,
+          "wear_mult": 1.24
+        },
+        {
+          "name": "moist",
+          "min_mm": 0.25,
+          "max_mm": 0.8,
+          "lat_mult": 0.84,
+          "long_mult": 0.82,
+          "wear_mult": 1.14
+        },
+        {
+          "name": "damp",
+          "min_mm": 0.8,
+          "max_mm": 2.0,
+          "lat_mult": 0.95,
+          "long_mult": 0.94,
+          "wear_mult": 1.04
+        },
+        {
+          "name": "wet",
+          "min_mm": 2.0,
+          "max_mm": 4.0,
+          "lat_mult": 1.04,
+          "long_mult": 1.03,
+          "wear_mult": 0.98
+        },
+        {
+          "name": "very_wet",
+          "min_mm": 4.0,
+          "max_mm": 5.0,
+          "lat_mult": 1.08,
+          "long_mult": 1.06,
+          "wear_mult": 0.96
+        }
+      ]
+    }
+  }
+}

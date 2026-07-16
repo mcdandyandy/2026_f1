@@ -1,0 +1,2098 @@
+[
+  {
+    "name": "Tobias Lund",
+    "role": "chief_designer",
+    "team": "Racing Bulls",
+    "skill": 13,
+    "age": 49,
+    "contract": {
+      "team": "Racing Bulls",
+      "length_weeks": 52,
+      "salary_m": 13.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 14,
+      "med_spd": 14,
+      "high_spd": 12,
+      "straights": 13,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 13,
+      "med_spd": 14,
+      "high_spd": 12,
+      "straights": 13,
+      "skill": 13
+    },
+    "nationality": "danish"
+  },
+  {
+    "name": "Adrian Newey",
+    "role": "chief_designer",
+    "team": "Aston Martin",
+    "skill": 20,
+    "age": 67,
+    "contract": {
+      "team": "Aston Martin",
+      "length_weeks": 104,
+      "salary_m": 11.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 20,
+      "med_spd": 20,
+      "high_spd": 20,
+      "straights": 20,
+      "skill": 19
+    },
+    "skills": {
+      "slow_spd": 20,
+      "med_spd": 20,
+      "high_spd": 20,
+      "straights": 20,
+      "skill": 20
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "John McQuilliam",
+    "role": "chief_designer",
+    "team": "Cadillac",
+    "skill": 17,
+    "age": 55,
+    "contract": {
+      "team": "Cadillac",
+      "length_weeks": 52,
+      "salary_m": 20.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 20,
+      "med_spd": 20,
+      "high_spd": 20,
+      "straights": 20,
+      "skill": 20
+    },
+    "skills": {
+      "slow_spd": 14,
+      "med_spd": 10,
+      "high_spd": 10,
+      "straights": 13,
+      "skill": 17
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Oliver King",
+    "role": "chief_designer",
+    "team": "Alpine",
+    "skill": 18,
+    "age": 52,
+    "contract": {
+      "team": "Alpine",
+      "length_weeks": 52,
+      "salary_m": 20.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 16,
+      "med_spd": 15,
+      "high_spd": 13,
+      "straights": 19,
+      "skill": 16
+    },
+    "skills": {
+      "slow_spd": 12,
+      "med_spd": 15,
+      "high_spd": 16,
+      "straights": 20,
+      "skill": 18
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Pavel Novak",
+    "role": "chief_designer",
+    "team": "Haas F1",
+    "skill": 9,
+    "age": 37,
+    "contract": {
+      "team": "Haas F1",
+      "length_weeks": 52,
+      "salary_m": 17.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 11,
+      "med_spd": 9,
+      "high_spd": 10,
+      "straights": 9,
+      "skill": 11
+    },
+    "skills": {
+      "slow_spd": 10,
+      "med_spd": 7,
+      "high_spd": 9,
+      "straights": 9,
+      "skill": 9
+    },
+    "nationality": "czech"
+  },
+  {
+    "name": "Rob Marshall",
+    "role": "chief_designer",
+    "team": "McLaren",
+    "skill": 17,
+    "age": 52,
+    "contract": {
+      "team": "McLaren",
+      "length_weeks": 52,
+      "salary_m": 8.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 12,
+      "med_spd": 14,
+      "high_spd": 12,
+      "straights": 12,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 12,
+      "med_spd": 13,
+      "high_spd": 12,
+      "straights": 12,
+      "skill": 17
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "John Owen",
+    "role": "chief_designer",
+    "team": "Mercedes",
+    "skill": 18,
+    "age": 48,
+    "contract": {
+      "team": "Mercedes",
+      "length_weeks": 52,
+      "salary_m": 18.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 15,
+      "med_spd": 18,
+      "high_spd": 18,
+      "straights": 20,
+      "skill": 20
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 16,
+      "high_spd": 18,
+      "straights": 18,
+      "skill": 18
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Craig Skinner",
+    "role": "chief_designer",
+    "team": "Red Bull",
+    "skill": 15,
+    "age": 50,
+    "contract": {
+      "team": "Red Bull",
+      "length_weeks": 52,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 14,
+      "med_spd": 13,
+      "high_spd": 12,
+      "straights": 12,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 13,
+      "med_spd": 10,
+      "high_spd": 11,
+      "straights": 14,
+      "skill": 15
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Luca Furbatto",
+    "role": "chief_designer",
+    "team": "Audi",
+    "skill": 10,
+    "age": 45,
+    "contract": {
+      "team": "Audi",
+      "length_weeks": 52,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 20,
+      "med_spd": 18,
+      "high_spd": 19,
+      "straights": 19,
+      "skill": 19
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 12,
+      "high_spd": 8,
+      "straights": 14,
+      "skill": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Fabio Montecchi",
+    "role": "chief_designer",
+    "team": "Ferrari F1",
+    "skill": 15,
+    "age": 50,
+    "contract": {
+      "team": "Ferrari F1",
+      "length_weeks": 52,
+      "salary_m": 15.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 16,
+      "med_spd": 16,
+      "high_spd": 16,
+      "straights": 16,
+      "skill": 15
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 16,
+      "high_spd": 13,
+      "straights": 16,
+      "skill": 15
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "David Worner",
+    "role": "chief_designer",
+    "team": "Williams Racing",
+    "skill": 12,
+    "age": 52,
+    "contract": {
+      "team": "Williams Racing",
+      "length_weeks": 52,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 16,
+      "med_spd": 19,
+      "high_spd": 19,
+      "straights": 19,
+      "skill": 17
+    },
+    "skills": {
+      "slow_spd": 6,
+      "med_spd": 5,
+      "high_spd": 3,
+      "straights": 8,
+      "skill": 12
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Bruno Duarte",
+    "role": "chief_designer",
+    "team": null,
+    "skill": 15,
+    "age": 54,
+    "talent": {
+      "slow_spd": 18,
+      "med_spd": 15,
+      "high_spd": 14,
+      "straights": 17,
+      "skill": 16
+    },
+    "skills": {
+      "slow_spd": 18,
+      "med_spd": 15,
+      "high_spd": 13,
+      "straights": 13,
+      "skill": 16
+    },
+    "nationality": "portuguese"
+  },
+  {
+    "name": "Julian Park",
+    "role": "chief_designer",
+    "team": null,
+    "skill": 12,
+    "age": 45,
+    "talent": {
+      "slow_spd": 14,
+      "med_spd": 13,
+      "high_spd": 11,
+      "straights": 14,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 14,
+      "med_spd": 12,
+      "high_spd": 11,
+      "straights": 12,
+      "skill": 11
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Kenji Sato",
+    "role": "chief_designer",
+    "team": null,
+    "skill": 8,
+    "age": 48,
+    "talent": {
+      "slow_spd": 17,
+      "med_spd": 15,
+      "high_spd": 15,
+      "straights": 15,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 9,
+      "med_spd": 9,
+      "high_spd": 9,
+      "straights": 4,
+      "skill": 9
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Sergei Antonov",
+    "role": "chief_designer",
+    "team": null,
+    "skill": 14,
+    "age": 54,
+    "talent": {
+      "slow_spd": 15,
+      "med_spd": 15,
+      "high_spd": 14,
+      "straights": 13,
+      "skill": 16
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 15,
+      "high_spd": 12,
+      "straights": 12,
+      "skill": 16
+    },
+    "nationality": "russian"
+  },
+  {
+    "name": "Stefan Weber",
+    "role": "chief_mechanic",
+    "team": "Racing Bulls",
+    "skill": 13,
+    "age": 36,
+    "contract": {
+      "team": "Racing Bulls",
+      "length_weeks": 52,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 18,
+      "pitstop": 20
+    },
+    "skills": {
+      "setup": 12,
+      "pitstop": 14
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Haruki Ito",
+    "role": "chief_mechanic",
+    "team": "Aston Martin",
+    "skill": 10,
+    "age": 44,
+    "contract": {
+      "team": "Aston Martin",
+      "length_weeks": 52,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 17,
+      "pitstop": 13
+    },
+    "skills": {
+      "setup": 9,
+      "pitstop": 11
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Alexei Smirnov",
+    "role": "chief_mechanic",
+    "team": "Cadillac",
+    "skill": 17,
+    "age": 37,
+    "contract": {
+      "team": "Cadillac",
+      "length_weeks": 52,
+      "salary_m": 8.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 20,
+      "pitstop": 18
+    },
+    "skills": {
+      "setup": 18,
+      "pitstop": 16
+    },
+    "nationality": "russian"
+  },
+  {
+    "name": "Mitchell Grant",
+    "role": "chief_mechanic",
+    "team": "Alpine",
+    "skill": 10,
+    "age": 41,
+    "contract": {
+      "team": "Alpine",
+      "length_weeks": 52,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 17,
+      "pitstop": 15
+    },
+    "skills": {
+      "setup": 10,
+      "pitstop": 10
+    },
+    "nationality": "canadian"
+  },
+  {
+    "name": "Miguel Santos",
+    "role": "chief_mechanic",
+    "team": "Haas F1",
+    "skill": 9,
+    "age": 37,
+    "contract": {
+      "team": "Haas F1",
+      "length_weeks": 52,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 11,
+      "pitstop": 15
+    },
+    "skills": {
+      "setup": 9,
+      "pitstop": 9
+    },
+    "nationality": "portuguese"
+  },
+  {
+    "name": "Connor Walsh",
+    "role": "chief_mechanic",
+    "team": "McLaren",
+    "skill": 17,
+    "age": 54,
+    "contract": {
+      "team": "McLaren",
+      "length_weeks": 52,
+      "salary_m": 8.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 18,
+      "pitstop": 19
+    },
+    "skills": {
+      "setup": 18,
+      "pitstop": 16
+    },
+    "nationality": "irish"
+  },
+  {
+    "name": "Elias Becker",
+    "role": "chief_mechanic",
+    "team": "Mercedes",
+    "skill": 12,
+    "age": 45,
+    "contract": {
+      "team": "Mercedes",
+      "length_weeks": 52,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 15,
+      "pitstop": 15
+    },
+    "skills": {
+      "setup": 14,
+      "pitstop": 10
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Logan Shaw",
+    "role": "chief_mechanic",
+    "team": "Red Bull",
+    "skill": 14,
+    "age": 66,
+    "contract": {
+      "team": "Red Bull",
+      "length_weeks": 52,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 15,
+      "pitstop": 17
+    },
+    "skills": {
+      "setup": 13,
+      "pitstop": 15
+    },
+    "nationality": "american"
+  },
+  {
+    "name": "Dylan Brooks",
+    "role": "chief_mechanic",
+    "team": "Audi",
+    "skill": 7,
+    "age": 50,
+    "contract": {
+      "team": "Audi",
+      "length_weeks": 52,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 15,
+      "pitstop": 19
+    },
+    "skills": {
+      "setup": 6,
+      "pitstop": 8
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Pedro Alvarez",
+    "role": "chief_mechanic",
+    "team": "Ferrari F1",
+    "skill": 12,
+    "age": 49,
+    "contract": {
+      "team": "Ferrari F1",
+      "length_weeks": 52,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 14,
+      "pitstop": 16
+    },
+    "skills": {
+      "setup": 7,
+      "pitstop": 7
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Rick Jensen",
+    "role": "chief_mechanic",
+    "team": "Williams Racing",
+    "skill": 6,
+    "age": 39,
+    "contract": {
+      "team": "Williams Racing",
+      "length_weeks": 52,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 10,
+      "pitstop": 14
+    },
+    "skills": {
+      "setup": 6,
+      "pitstop": 6
+    },
+    "nationality": "danish"
+  },
+  {
+    "name": "Jorge Castillo",
+    "role": "chief_mechanic",
+    "team": null,
+    "skill": 13,
+    "age": 57,
+    "talent": {
+      "setup": 17,
+      "pitstop": 19
+    },
+    "skills": {
+      "setup": 11,
+      "pitstop": 15
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Nikolai Volkov",
+    "role": "chief_mechanic",
+    "team": null,
+    "skill": 6,
+    "age": 33,
+    "talent": {
+      "setup": 14,
+      "pitstop": 10
+    },
+    "skills": {
+      "setup": 7,
+      "pitstop": 5
+    },
+    "nationality": "russian"
+  },
+  {
+    "name": "Tyson Ward",
+    "role": "chief_mechanic",
+    "team": null,
+    "skill": 5,
+    "age": 42,
+    "talent": {
+      "setup": 12,
+      "pitstop": 8
+    },
+    "skills": {
+      "setup": 3,
+      "pitstop": 7
+    },
+    "nationality": "american"
+  },
+  {
+    "name": "Zane Foster",
+    "role": "chief_mechanic",
+    "team": null,
+    "skill": 18,
+    "age": 32,
+    "talent": {
+      "setup": 18,
+      "pitstop": 20
+    },
+    "skills": {
+      "setup": 18,
+      "pitstop": 18
+    },
+    "nationality": "american"
+  },
+  {
+    "name": "Ivan Koval",
+    "role": "head_of_dynamics",
+    "team": "Racing Bulls",
+    "skill": 20,
+    "age": 45,
+    "contract": {
+      "team": "Racing Bulls",
+      "length_weeks": 52,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 20,
+      "tire_temp": 20
+    },
+    "skills": {
+      "tire_mgmt": 20,
+      "tire_temp": 20
+    },
+    "nationality": "ukrainian"
+  },
+  {
+    "name": "Noah Sinclair",
+    "role": "head_of_dynamics",
+    "team": "Aston Martin",
+    "skill": 19,
+    "age": 66,
+    "contract": {
+      "team": "Aston Martin",
+      "length_weeks": 52,
+      "salary_m": 4.8,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 20,
+      "tire_temp": 20
+    },
+    "skills": {
+      "tire_mgmt": 19,
+      "tire_temp": 18
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Quentin Leclerc",
+    "role": "head_of_dynamics",
+    "team": "Cadillac",
+    "skill": 15,
+    "age": 52,
+    "contract": {
+      "team": "Cadillac",
+      "length_weeks": 52,
+      "salary_m": 3.8,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 16,
+      "tire_temp": 14
+    },
+    "skills": {
+      "tire_mgmt": 16,
+      "tire_temp": 14
+    },
+    "nationality": "french"
+  },
+  {
+    "name": "Carter Holm",
+    "role": "head_of_dynamics",
+    "team": "Alpine",
+    "skill": 7,
+    "age": 37,
+    "contract": {
+      "team": "Alpine",
+      "length_weeks": 52,
+      "salary_m": 1.8,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 15,
+      "tire_temp": 14
+    },
+    "skills": {
+      "tire_mgmt": 17,
+      "tire_temp": 1
+    },
+    "nationality": "danish"
+  },
+  {
+    "name": "Yuri Petrov",
+    "role": "head_of_dynamics",
+    "team": "Haas F1",
+    "skill": 14,
+    "age": 52,
+    "contract": {
+      "team": "Haas F1",
+      "length_weeks": 52,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 16,
+      "tire_temp": 16
+    },
+    "skills": {
+      "tire_mgmt": 12,
+      "tire_temp": 15
+    },
+    "nationality": "russian"
+  },
+  {
+    "name": "Jasper Voss",
+    "role": "head_of_dynamics",
+    "team": "McLaren",
+    "skill": 12,
+    "age": 41,
+    "contract": {
+      "team": "McLaren",
+      "length_weeks": 52,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 15,
+      "tire_temp": 16
+    },
+    "skills": {
+      "tire_mgmt": 11,
+      "tire_temp": 14
+    },
+    "nationality": "dutch"
+  },
+  {
+    "name": "Harvey Quinn",
+    "role": "head_of_dynamics",
+    "team": "Mercedes",
+    "skill": 13,
+    "age": 42,
+    "contract": {
+      "team": "Mercedes",
+      "length_weeks": 52,
+      "salary_m": 2.2,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 14,
+      "tire_temp": 13
+    },
+    "skills": {
+      "tire_mgmt": 7,
+      "tire_temp": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Marcus Flynn",
+    "role": "head_of_dynamics",
+    "team": "Red Bull",
+    "skill": 15,
+    "age": 58,
+    "contract": {
+      "team": "Red Bull",
+      "length_weeks": 52,
+      "salary_m": 3.8,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 16,
+      "tire_temp": 17
+    },
+    "skills": {
+      "tire_mgmt": 14,
+      "tire_temp": 17
+    },
+    "nationality": "irish"
+  },
+  {
+    "name": "Liam O'Reilly",
+    "role": "head_of_dynamics",
+    "team": "Audi",
+    "skill": 14,
+    "age": 38,
+    "contract": {
+      "team": "Audi",
+      "length_weeks": 52,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 20,
+      "tire_temp": 20
+    },
+    "skills": {
+      "tire_mgmt": 15,
+      "tire_temp": 15
+    },
+    "nationality": "irish"
+  },
+  {
+    "name": "Diego Herrera",
+    "role": "head_of_dynamics",
+    "team": "Ferrari F1",
+    "skill": 12,
+    "age": 57,
+    "contract": {
+      "team": "Ferrari F1",
+      "length_weeks": 52,
+      "salary_m": 1.8,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 11,
+      "tire_temp": 8
+    },
+    "skills": {
+      "tire_mgmt": 7,
+      "tire_temp": 7
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Matteo Romano",
+    "role": "head_of_dynamics",
+    "team": "Williams Racing",
+    "skill": 8,
+    "age": 57,
+    "contract": {
+      "team": "Williams Racing",
+      "length_weeks": 52,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 18,
+      "tire_temp": 19
+    },
+    "skills": {
+      "tire_mgmt": 6,
+      "tire_temp": 9
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Andre Melo",
+    "role": "head_of_dynamics",
+    "team": null,
+    "skill": 19,
+    "age": 45,
+    "talent": {
+      "tire_mgmt": 20,
+      "tire_temp": 20
+    },
+    "skills": {
+      "tire_mgmt": 20,
+      "tire_temp": 17
+    },
+    "nationality": "brazilian"
+  },
+  {
+    "name": "Mason Reed",
+    "role": "head_of_dynamics",
+    "team": null,
+    "skill": 6,
+    "age": 39,
+    "talent": {
+      "tire_mgmt": 11,
+      "tire_temp": 9
+    },
+    "skills": {
+      "tire_mgmt": 8,
+      "tire_temp": 7
+    },
+    "nationality": "american"
+  },
+  {
+    "name": "Peter Kowalski",
+    "role": "head_of_dynamics",
+    "team": null,
+    "skill": 6,
+    "age": 33,
+    "talent": {
+      "tire_mgmt": 12,
+      "tire_temp": 8
+    },
+    "skills": {
+      "tire_mgmt": 4,
+      "tire_temp": 7
+    },
+    "nationality": "polish"
+  },
+  {
+    "name": "Samir Patel",
+    "role": "head_of_dynamics",
+    "team": null,
+    "skill": 11,
+    "age": 52,
+    "talent": {
+      "tire_mgmt": 19,
+      "tire_temp": 18
+    },
+    "skills": {
+      "tire_mgmt": 13,
+      "tire_temp": 8
+    },
+    "nationality": "indian"
+  },
+  {
+    "name": "Oliver Miller",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 9,
+    "age": 51,
+    "contract": {},
+    "talent": {
+      "power": 12,
+      "efficiency": 9,
+      "reliability": 12,
+      "weight_mgmt": 12,
+      "time": 10
+    },
+    "skills": {
+      "power": 11,
+      "efficiency": 9,
+      "reliability": 7,
+      "weight_mgmt": 10,
+      "time": 8
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Alexander Jones",
+    "role": "head_of_engine",
+    "team": "Cosworth",
+    "skill": 17,
+    "age": 50,
+    "contract": {
+      "team": "Cosworth",
+      "length_weeks": 52,
+      "salary_m": 12.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 16,
+      "efficiency": 20,
+      "reliability": 19,
+      "weight_mgmt": 17,
+      "time": 18
+    },
+    "skills": {
+      "power": 15,
+      "efficiency": 19,
+      "reliability": 19,
+      "weight_mgmt": 14,
+      "time": 17
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Sebastian Jones",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 9,
+    "age": 52,
+    "contract": {},
+    "talent": {
+      "power": 9,
+      "efficiency": 11,
+      "reliability": 13,
+      "weight_mgmt": 11,
+      "time": 11
+    },
+    "skills": {
+      "power": 8,
+      "efficiency": 11,
+      "reliability": 10,
+      "weight_mgmt": 9,
+      "time": 7
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Bruno Famin",
+    "role": "head_of_engine",
+    "team": "Alpine",
+    "skill": 14,
+    "age": 56,
+    "contract": {
+      "team": "Alpine",
+      "length_weeks": 52,
+      "salary_m": 8.2,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 12,
+      "efficiency": 14,
+      "reliability": 12,
+      "weight_mgmt": 11,
+      "time": 16
+    },
+    "skills": {
+      "power": 10,
+      "efficiency": 14,
+      "reliability": 13,
+      "weight_mgmt": 10,
+      "time": 12
+    },
+    "nationality": "french"
+  },
+  {
+    "name": "Benjamin Gonzalez",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 8,
+    "age": 59,
+    "contract": {},
+    "talent": {
+      "power": 10,
+      "efficiency": 10,
+      "reliability": 11,
+      "weight_mgmt": 9,
+      "time": 10
+    },
+    "skills": {
+      "power": 9,
+      "efficiency": 7,
+      "reliability": 7,
+      "weight_mgmt": 7,
+      "time": 10
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Hywel Thomas",
+    "role": "head_of_engine",
+    "team": "Mercedes",
+    "skill": 20,
+    "age": 51,
+    "contract": {
+      "team": "Mercedes",
+      "length_weeks": 52,
+      "salary_m": 15.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 20,
+      "efficiency": 20,
+      "reliability": 20,
+      "weight_mgmt": 20,
+      "time": 20
+    },
+    "skills": {
+      "power": 20,
+      "efficiency": 20,
+      "reliability": 20,
+      "weight_mgmt": 20,
+      "time": 20
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Stefan Dreyer",
+    "role": "head_of_engine",
+    "team": "Audi",
+    "skill": 15,
+    "age": 48,
+    "contract": {
+      "team": "Audi",
+      "length_weeks": 52,
+      "salary_m": 10.5,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 15,
+      "efficiency": 16,
+      "reliability": 16,
+      "weight_mgmt": 18,
+      "time": 15
+    },
+    "skills": {
+      "power": 12,
+      "efficiency": 15,
+      "reliability": 16,
+      "weight_mgmt": 17,
+      "time": 13
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Ben Hodgkinson",
+    "role": "head_of_engine",
+    "team": "Red Bull",
+    "skill": 17,
+    "age": 47,
+    "contract": {
+      "team": "Red Bull",
+      "length_weeks": 52,
+      "salary_m": 13.5,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 20,
+      "efficiency": 20,
+      "reliability": 20,
+      "weight_mgmt": 20,
+      "time": 20
+    },
+    "skills": {
+      "power": 19,
+      "efficiency": 15,
+      "reliability": 18,
+      "weight_mgmt": 16,
+      "time": 18
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Oliver Smith",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 9,
+    "age": 44,
+    "contract": {},
+    "talent": {
+      "power": 10,
+      "efficiency": 12,
+      "reliability": 10,
+      "weight_mgmt": 12,
+      "time": 11
+    },
+    "skills": {
+      "power": 9,
+      "efficiency": 7,
+      "reliability": 10,
+      "weight_mgmt": 10,
+      "time": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Enrico Gualtieri",
+    "role": "head_of_engine",
+    "team": "Ferrari F1",
+    "skill": 16,
+    "age": 50,
+    "contract": {
+      "team": "Ferrari F1",
+      "length_weeks": 52,
+      "salary_m": 9.8,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 16,
+      "efficiency": 16,
+      "reliability": 13,
+      "weight_mgmt": 14,
+      "time": 16
+    },
+    "skills": {
+      "power": 14,
+      "efficiency": 12,
+      "reliability": 14,
+      "weight_mgmt": 13,
+      "time": 15
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Liam Garcia",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 13,
+    "age": 54,
+    "contract": {},
+    "talent": {
+      "power": 17,
+      "efficiency": 16,
+      "reliability": 13,
+      "weight_mgmt": 15,
+      "time": 14
+    },
+    "skills": {
+      "power": 15,
+      "efficiency": 11,
+      "reliability": 13,
+      "weight_mgmt": 12,
+      "time": 14
+    },
+    "nationality": "mexican"
+  },
+  {
+    "name": "Benjamin Garcia",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 8,
+    "age": 38,
+    "talent": {
+      "power": 10,
+      "efficiency": 10,
+      "reliability": 11,
+      "weight_mgmt": 11,
+      "time": 13
+    },
+    "skills": {
+      "power": 6,
+      "efficiency": 7,
+      "reliability": 9,
+      "weight_mgmt": 10,
+      "time": 8
+    },
+    "contract": {},
+    "nationality": "spanish"
+  },
+  {
+    "name": "Levi Wilson",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 11,
+    "age": 43,
+    "talent": {
+      "power": 13,
+      "efficiency": 12,
+      "reliability": 14,
+      "weight_mgmt": 11,
+      "time": 15
+    },
+    "skills": {
+      "power": 10,
+      "efficiency": 11,
+      "reliability": 12,
+      "weight_mgmt": 9,
+      "time": 11
+    },
+    "contract": {},
+    "nationality": "american"
+  },
+  {
+    "name": "Noah Thomas",
+    "role": "head_of_engine",
+    "team": null,
+    "skill": 8,
+    "age": 53,
+    "talent": {
+      "power": 10,
+      "efficiency": 9,
+      "reliability": 11,
+      "weight_mgmt": 11,
+      "time": 9
+    },
+    "skills": {
+      "power": 9,
+      "efficiency": 8,
+      "reliability": 10,
+      "weight_mgmt": 6,
+      "time": 7
+    },
+    "contract": {},
+    "nationality": "british"
+  },
+  {
+    "name": "Oscar McMillan",
+    "role": "technical_director",
+    "team": "Racing Bulls",
+    "skill": 9,
+    "age": 51,
+    "contract": {
+      "team": "Racing Bulls",
+      "length_weeks": 52,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 15,
+      "efficiency": 14,
+      "weight_mgmt": 13
+    },
+    "skills": {
+      "skill": 9,
+      "efficiency": 8,
+      "weight_mgmt": 9
+    },
+    "nationality": "scottish"
+  },
+  {
+    "name": "Enrico Cardile",
+    "role": "technical_director",
+    "team": "Aston Martin",
+    "skill": 18,
+    "age": 48,
+    "contract": {
+      "team": "Aston Martin",
+      "length_weeks": 52,
+      "salary_m": 8.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 17,
+      "efficiency": 19,
+      "weight_mgmt": 18
+    },
+    "skills": {
+      "skill": 18,
+      "efficiency": 16,
+      "weight_mgmt": 16
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Nick Chester",
+    "role": "technical_director",
+    "team": "Cadillac",
+    "skill": 14,
+    "age": 52,
+    "contract": {
+      "team": "Cadillac",
+      "length_weeks": 52,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 12,
+      "efficiency": 10,
+      "weight_mgmt": 14
+    },
+    "skills": {
+      "skill": 14,
+      "efficiency": 9,
+      "weight_mgmt": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Jonas Pritchard",
+    "role": "technical_director",
+    "team": "Alpine",
+    "skill": 11,
+    "age": 53,
+    "contract": {
+      "team": "Alpine",
+      "length_weeks": 52,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 20,
+      "efficiency": 20,
+      "weight_mgmt": 20
+    },
+    "skills": {
+      "skill": 11,
+      "efficiency": 11,
+      "weight_mgmt": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Andrea De Zordo",
+    "role": "technical_director",
+    "team": "Haas F1",
+    "skill": 10,
+    "age": 45,
+    "contract": {
+      "team": "Haas F1",
+      "length_weeks": 52,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 12,
+      "efficiency": 10,
+      "weight_mgmt": 14
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 8,
+      "weight_mgmt": 6
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Neil Houldey",
+    "role": "technical_director",
+    "team": "McLaren",
+    "skill": 20,
+    "age": 47,
+    "contract": {
+      "team": "McLaren",
+      "length_weeks": 52,
+      "salary_m": 10.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 20,
+      "efficiency": 20,
+      "weight_mgmt": 20
+    },
+    "skills": {
+      "skill": 20,
+      "efficiency": 20,
+      "weight_mgmt": 20
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "James Allison",
+    "role": "technical_director",
+    "team": "Mercedes",
+    "skill": 19,
+    "age": 56,
+    "contract": {
+      "team": "Mercedes",
+      "length_weeks": 52,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 15,
+      "efficiency": 16,
+      "weight_mgmt": 17
+    },
+    "skills": {
+      "skill": 19,
+      "efficiency": 16,
+      "weight_mgmt": 14
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Pierre Wache",
+    "role": "technical_director",
+    "team": "Red Bull",
+    "skill": 18,
+    "age": 48,
+    "contract": {
+      "team": "Red Bull",
+      "length_weeks": 52,
+      "salary_m": 9.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 20,
+      "efficiency": 20,
+      "weight_mgmt": 20
+    },
+    "skills": {
+      "skill": 18,
+      "efficiency": 16,
+      "weight_mgmt": 19
+    },
+    "nationality": "french"
+  },
+  {
+    "name": "James Key",
+    "role": "technical_director",
+    "team": "Audi",
+    "skill": 14,
+    "age": 54,
+    "contract": {
+      "team": "Audi",
+      "length_weeks": 52,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 12,
+      "efficiency": 10,
+      "weight_mgmt": 10
+    },
+    "skills": {
+      "skill": 14,
+      "efficiency": 10,
+      "weight_mgmt": 10
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Loic Serra",
+    "role": "technical_director",
+    "team": "Ferrari F1",
+    "skill": 16,
+    "age": 45,
+    "contract": {
+      "team": "Ferrari F1",
+      "length_weeks": 104,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 14,
+      "efficiency": 16,
+      "weight_mgmt": 15
+    },
+    "skills": {
+      "skill": 16,
+      "efficiency": 11,
+      "weight_mgmt": 14
+    },
+    "nationality": "french"
+  },
+  {
+    "name": "Pat Fry",
+    "role": "technical_director",
+    "team": "Williams Racing",
+    "skill": 15,
+    "age": 57,
+    "contract": {
+      "team": "Williams Racing",
+      "length_weeks": 52,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 17,
+      "efficiency": 15,
+      "weight_mgmt": 19
+    },
+    "skills": {
+      "skill": 15,
+      "efficiency": 14,
+      "weight_mgmt": 14
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Ethan Wright",
+    "role": "technical_director",
+    "team": null,
+    "skill": 18,
+    "age": 44,
+    "talent": {
+      "skill": 18,
+      "efficiency": 19,
+      "weight_mgmt": 20
+    },
+    "skills": {
+      "skill": 17,
+      "efficiency": 18,
+      "weight_mgmt": 19
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Hiro Tanaka",
+    "role": "technical_director",
+    "team": null,
+    "skill": 6,
+    "age": 59,
+    "talent": {
+      "skill": 8,
+      "efficiency": 9,
+      "weight_mgmt": 5
+    },
+    "skills": {
+      "skill": 8,
+      "efficiency": 7,
+      "weight_mgmt": 3
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Luca Bianchi",
+    "role": "technical_director",
+    "team": null,
+    "skill": 8,
+    "age": 44,
+    "talent": {
+      "skill": 11,
+      "efficiency": 10,
+      "weight_mgmt": 12
+    },
+    "skills": {
+      "skill": 11,
+      "efficiency": 7,
+      "weight_mgmt": 6
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Victor Molnar",
+    "role": "technical_director",
+    "team": null,
+    "skill": 10,
+    "age": 32,
+    "talent": {
+      "skill": 15,
+      "efficiency": 11,
+      "weight_mgmt": 13
+    },
+    "skills": {
+      "skill": 12,
+      "efficiency": 8,
+      "weight_mgmt": 10
+    },
+    "nationality": "hungarian"
+  },
+  {
+    "name": "Adrian Holt",
+    "role": "head_of_aero",
+    "team": "Racing Bulls",
+    "skill": 11,
+    "age": 56,
+    "contract": {
+      "team": "Racing Bulls",
+      "length_weeks": 52,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 15,
+      "rw": 11,
+      "uf": 10,
+      "df": 13,
+      "sp": 14
+    },
+    "skills": {
+      "fw": 11,
+      "rw": 11,
+      "uf": 9,
+      "df": 11,
+      "sp": 13
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Marco Vieri",
+    "role": "head_of_aero",
+    "team": "Aston Martin",
+    "skill": 11,
+    "age": 51,
+    "contract": {
+      "team": "Aston Martin",
+      "length_weeks": 52,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 10,
+      "rw": 10,
+      "uf": 15,
+      "df": 15,
+      "sp": 12
+    },
+    "skills": {
+      "fw": 10,
+      "rw": 10,
+      "uf": 11,
+      "df": 11,
+      "sp": 11
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Jon Tomlinson",
+    "role": "head_of_aero",
+    "team": "Cadillac",
+    "skill": 13,
+    "age": 45,
+    "contract": {
+      "team": "Cadillac",
+      "length_weeks": 52,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 11,
+      "rw": 16,
+      "uf": 13,
+      "df": 16,
+      "sp": 16
+    },
+    "skills": {
+      "fw": 11,
+      "rw": 12,
+      "uf": 13,
+      "df": 13,
+      "sp": 13
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Jason Somerville",
+    "role": "head_of_aero",
+    "team": "Alpine",
+    "skill": 17,
+    "age": 44,
+    "contract": {
+      "team": "Alpine",
+      "length_weeks": 52,
+      "salary_m": 7.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 17,
+      "rw": 15,
+      "uf": 19,
+      "df": 17,
+      "sp": 18
+    },
+    "skills": {
+      "fw": 19,
+      "rw": 18,
+      "uf": 20,
+      "df": 18,
+      "sp": 19
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Rafael Mota",
+    "role": "head_of_aero",
+    "team": "Haas F1",
+    "skill": 15,
+    "age": 34,
+    "contract": {
+      "team": "Haas F1",
+      "length_weeks": 52,
+      "salary_m": 7.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 18,
+      "rw": 18,
+      "uf": 15,
+      "df": 16,
+      "sp": 13
+    },
+    "skills": {
+      "fw": 17,
+      "rw": 17,
+      "uf": 14,
+      "df": 13,
+      "sp": 13
+    },
+    "nationality": "brazilian"
+  },
+  {
+    "name": "Peter Prodromou",
+    "role": "head_of_aero",
+    "team": "McLaren",
+    "skill": 16,
+    "age": 56,
+    "contract": {
+      "team": "McLaren",
+      "length_weeks": 52,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 12,
+      "rw": 16,
+      "uf": 19,
+      "df": 12,
+      "sp": 18
+    },
+    "skills": {
+      "fw": 11,
+      "rw": 14,
+      "uf": 15,
+      "df": 12,
+      "sp": 14
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Jonas Petrik",
+    "role": "head_of_aero",
+    "team": "Mercedes",
+    "skill": 15,
+    "age": 36,
+    "contract": {
+      "team": "Mercedes",
+      "length_weeks": 52,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 16,
+      "rw": 16,
+      "uf": 16,
+      "df": 14,
+      "sp": 15
+    },
+    "skills": {
+      "fw": 15,
+      "rw": 14,
+      "uf": 15,
+      "df": 13,
+      "sp": 15
+    },
+    "nationality": "czech"
+  },
+  {
+    "name": "Enrico Balbo",
+    "role": "head_of_aero",
+    "team": "Red Bull",
+    "skill": 15,
+    "age": 46,
+    "contract": {
+      "team": "Red Bull",
+      "length_weeks": 52,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 10,
+      "rw": 12,
+      "uf": 9,
+      "df": 12,
+      "sp": 8
+    },
+    "skills": {
+      "fw": 9,
+      "rw": 11,
+      "uf": 7,
+      "df": 8,
+      "sp": 8
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Luc Moreau",
+    "role": "head_of_aero",
+    "team": "Audi",
+    "skill": 9,
+    "age": 50,
+    "contract": {
+      "team": "Audi",
+      "length_weeks": 52,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 9,
+      "rw": 10,
+      "uf": 8,
+      "df": 12,
+      "sp": 13
+    },
+    "skills": {
+      "fw": 7,
+      "rw": 9,
+      "uf": 8,
+      "df": 11,
+      "sp": 10
+    },
+    "nationality": "french"
+  },
+  {
+    "name": "Diego Tondi",
+    "role": "head_of_aero",
+    "team": "Ferrari F1",
+    "skill": 15,
+    "age": 42,
+    "contract": {
+      "team": "Ferrari F1",
+      "length_weeks": 52,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 17,
+      "rw": 16,
+      "uf": 11,
+      "df": 15,
+      "sp": 14
+    },
+    "skills": {
+      "fw": 13,
+      "rw": 13,
+      "uf": 11,
+      "df": 14,
+      "sp": 12
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Arjun Mehta",
+    "role": "head_of_aero",
+    "team": "Williams Racing",
+    "skill": 11,
+    "age": 45,
+    "contract": {
+      "team": "Williams Racing",
+      "length_weeks": 52,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 12,
+      "rw": 14,
+      "uf": 12,
+      "df": 14,
+      "sp": 13
+    },
+    "skills": {
+      "fw": 10,
+      "rw": 12,
+      "uf": 10,
+      "df": 11,
+      "sp": 10
+    },
+    "nationality": "indian"
+  },
+  {
+    "name": "Pablo Rojas",
+    "role": "head_of_aero",
+    "team": null,
+    "skill": 9,
+    "age": 46,
+    "contract": {},
+    "talent": {
+      "fw": 11,
+      "rw": 10,
+      "uf": 11,
+      "df": 11,
+      "sp": 12
+    },
+    "skills": {
+      "fw": 9,
+      "rw": 8,
+      "uf": 7,
+      "df": 10,
+      "sp": 9
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Theo Muller",
+    "role": "head_of_aero",
+    "team": null,
+    "skill": 13,
+    "age": 55,
+    "contract": {},
+    "talent": {
+      "fw": 18,
+      "rw": 12,
+      "uf": 13,
+      "df": 14,
+      "sp": 15
+    },
+    "skills": {
+      "fw": 14,
+      "rw": 11,
+      "uf": 11,
+      "df": 12,
+      "sp": 15
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Mikael Sorensen",
+    "role": "head_of_aero",
+    "team": null,
+    "skill": 16,
+    "age": 50,
+    "contract": {},
+    "talent": {
+      "fw": 14,
+      "rw": 19,
+      "uf": 16,
+      "df": 17,
+      "sp": 17
+    },
+    "skills": {
+      "fw": 14,
+      "rw": 17,
+      "uf": 15,
+      "df": 17,
+      "sp": 16
+    },
+    "nationality": "danish"
+  },
+  {
+    "name": "Gianni Costa",
+    "role": "head_of_aero",
+    "team": null,
+    "skill": 12,
+    "age": 37,
+    "contract": {},
+    "talent": {
+      "fw": 15,
+      "rw": 13,
+      "uf": 10,
+      "df": 16,
+      "sp": 14
+    },
+    "skills": {
+      "fw": 13,
+      "rw": 12,
+      "uf": 10,
+      "df": 12,
+      "sp": 13
+    },
+    "nationality": "italian"
+  }
+]

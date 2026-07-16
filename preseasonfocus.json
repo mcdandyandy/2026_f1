@@ -1,0 +1,38 @@
+{
+	"preseason_focus":{
+	
+		"Aerodynamics" : {
+			"desc": "Focus on high speed handling and aerodynamic performance.",
+			"high": 0.2,
+			"straight": 0.2,
+			"med": 0.1,
+			"dirty_air_sensitivity": 1.0
+		},
+		
+		"Chassis" : {
+			"desc": "Focus on low speed handling and chassis performance.",
+			"slow": 0.3,
+			"med": 0.1,
+			"tyre_management": 1.0
+		},
+		
+		"Internals" : {
+			"desc": "Focus on the endurance aspects, such as tyre wear and reliability.",
+			"tyre_management": 3.0,
+			"chassis_reliability": 3.0
+		},
+		
+		"Speed" : {
+			"desc": "Focus on the raw performance of the car.",
+			"team_pace": 0.3,
+			"acceleration": 0.2,
+			"braking": 0.2
+		},
+
+		"Weight Reduction" : {
+			"desc": "Focus on reducing car mass through packaging and material optimisation.",
+			"car_mass_kg": -2.0,
+			"chassis_reliability": -1.0
+		}
+	}
+}

@@ -1,0 +1,121 @@
+{
+  "default": "balanced",
+  "concepts": {
+    "high_rake": {
+      "label": "High-Rake",
+      "description": "High downforce, high drag architecture.",
+      "potential_modifiers": {
+        "slow": 3.0,
+        "med": 3.0,
+        "straight": -5.0,
+        "tyre_management": -3.0
+      },
+      "balance": 65.0,
+      "traction": 70.0
+    },
+    "low_rake": {
+      "label": "Low-Rake",
+      "description": "Lower drag profile with stronger top-end efficiency.",
+      "potential_modifiers": {
+        "straight": 5.0,
+        "high": 3.0,
+        "slow": -3.0,
+        "med": -3.0
+      },
+      "balance": 35.0,
+      "traction": 20.0
+    },
+    "extreme_outwash": {
+      "label": "Extreme Outwash",
+      "description": "Aero surfaces optimized for cleaner local flow, at robustness cost.",
+      "potential_modifiers": {
+        "med": 2.0,
+        "high": 2.0,
+        "dirty_air_sensitivity": -10.0,
+        "chassis_reliability": -5.0
+      },
+      "balance": 75.0,
+      "traction": 15.0
+    },
+    "size_zero": {
+      "label": "Size Zero",
+      "description": "Ultra-tight packaging with cooling/reliability compromise.",
+      "potential_modifiers": {
+        "acceleration": 3.0,
+        "straight": 3.0,
+        "chassis_reliability": -15.0,
+        "car_mass_kg": 3.0
+      },
+      "balance": 40.0,
+      "traction": 60.0
+    },
+    "weight_focused": {
+      "label": "Weight-Focused",
+      "description": "Mass reduction first, reliability second.",
+      "potential_modifiers": {
+        "car_mass_kg": -5.0,
+        "chassis_reliability": -10.0
+      },
+      "balance": 60.0,
+      "traction": 65.0
+    },
+    "aggressive_brake_duct": {
+      "label": "Aggressive Brake-Duct",
+      "description": "Brake and low-speed bias with drag and tyre-side downsides.",
+      "potential_modifiers": {
+        "braking": 5.0,
+        "slow": 3.0,
+        "straight": -5.0,
+        "tyre_management": -5.0
+      },
+      "balance": 50.0,
+      "traction": 40.0
+    },
+    "conservative": {
+      "label": "Conservative",
+      "description": "Stability and consistency focus.",
+      "potential_modifiers": {
+        "chassis_reliability": 8.0,
+        "dirty_air_sensitivity": 8.0,
+        "tyre_management": 3.0,
+        "car_mass_kg": 8.0
+      },
+      "balance": 30.0,
+      "traction": 80.0
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Neutral concept with slight weight efficiency.",
+      "potential_modifiers": {
+        "car_mass_kg": -2.0
+      },
+      "balance": 50.0,
+      "traction": 50.0
+    },
+    "diffuser_focus": {
+      "label": "Diffuser Focus",
+      "description": "Diffuser exit and floor optimised for maximum downforce generation.",
+      "potential_modifiers": {
+        "slow": 4.0,
+        "med": 4.0,
+        "high": -3.0,
+        "chassis_reliability": -5.0
+      },
+      "balance": 35.0,
+      "traction": 75.0
+    },
+    "active_aero": {
+      "label": "Active Aero",
+      "description": "Prioritises the active aerodynamic system for high speed efficiency and cleaner following.",
+      "potential_modifiers": {
+        "high": 4.0,
+        "straight": 3.0,
+        "dirty_air_sensitivity": 5.0,
+        "chassis_reliability": -8.0,
+        "car_mass_kg": 3.0
+      },
+      "balance": 70.0,
+      "traction": 35.0
+    }
+  }
+}
