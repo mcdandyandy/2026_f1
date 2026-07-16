@@ -1,0 +1,235 @@
+{
+  "spec_stats": {
+    "capacity_mj": 4.0,
+    "deploy_mj_efficiency": 1.0,
+    "harvest_mj_efficiency": 1.0,
+    "acceleration_multiplier": 1.0,
+    "reliability": 50.0
+  },
+  "race_failures": {
+    "enabled": true,
+    "baseline_reliability": 50.0,
+    "maximum_reliability": 100.0,
+    "baseline_failure_probability_per_lap": 0.001,
+    "minimum_failure_probability_per_lap": 0.0001
+  },
+  "regulation_limits": {
+    "capacity_cap_mj": 8.0,
+    "deploy_mj_efficiency": 0.5,
+    "harvest_mj_efficiency": 1.5,
+    "acceleration_multiplier": 2.5,
+    "reliability": 100.0
+  },
+  "starting_levels": {
+    "default": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
+    },
+    "Red Bull": {
+      "capacity": 4,
+      "deployment": 4,
+      "recovery": 4,
+      "output": 5,
+      "reliability": 3
+    },
+    "Ferrari F1": {
+      "capacity": 3,
+      "deployment": 3,
+      "recovery": 3,
+      "output": 4,
+      "reliability": 4
+    },
+    "Mercedes": {
+      "capacity": 6,
+      "deployment": 6,
+      "recovery": 4,
+      "output": 6,
+      "reliability": 4
+    },
+    "McLaren": {
+      "capacity": 5,
+      "deployment": 5,
+      "recovery": 4,
+      "output": 4,
+      "reliability": 5
+    },
+    "Aston Martin": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 1,
+      "output": 0,
+      "reliability": 1
+    },
+    "Alpine": {
+      "capacity": 4,
+      "deployment": 5,
+      "recovery": 4,
+      "output": 4,
+      "reliability": 5
+    },
+    "Cadillac": {
+      "capacity": 2,
+      "deployment": 2,
+      "recovery": 2,
+      "output": 3,
+      "reliability": 2
+    },
+    "Racing Bulls": {
+      "capacity": 3,
+      "deployment": 3,
+      "recovery": 3,
+      "output": 4,
+      "reliability": 3
+    },
+    "Audi": {
+      "capacity": 3,
+      "deployment": 3,
+      "recovery": 4,
+      "output": 3,
+      "reliability": 3
+    },
+    "Haas F1": {
+      "capacity": 2,
+      "deployment": 3,
+      "recovery": 2,
+      "output": 4,
+      "reliability": 3
+    },
+    "Williams Racing": {
+      "capacity": 4,
+      "deployment": 5,
+      "recovery": 4,
+      "output": 4,
+      "reliability": 5
+    },
+    "Porsche": {
+      "capacity": 2,
+      "deployment": 2,
+      "recovery": 2,
+      "output": 3,
+      "reliability": 2
+    },
+    "Toyota": {
+      "capacity": 2,
+      "deployment": 2,
+      "recovery": 2,
+      "output": 2,
+      "reliability": 2
+    },
+    "BYD": {
+      "capacity": 1,
+      "deployment": 2,
+      "recovery": 1,
+      "output": 3,
+      "reliability": 1
+    },
+    "BMW": {
+      "capacity": 2,
+      "deployment": 2,
+      "recovery": 2,
+      "output": 3,
+      "reliability": 2
+    },
+    "Brabham": {
+      "capacity": 0,
+      "deployment": 1,
+      "recovery": 0,
+      "output": 1,
+      "reliability": 1
+    },
+    "Lotus": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 1,
+      "output": 0,
+      "reliability": 1
+    },
+    "Jaguar Racing": {
+      "capacity": 1,
+      "deployment": 1,
+      "recovery": 1,
+      "output": 2,
+      "reliability": 1
+    }
+  },
+  "development": {
+    "weekly_hours_per_staff": 1.0,
+    "staff_hours_per_level": {
+      "capacity": [
+        300,
+        375,
+        450,
+        550,
+        675,
+        800,
+        950,
+        1125,
+        1325,
+        1550
+      ],
+      "deployment": [
+        275,
+        350,
+        425,
+        525,
+        650,
+        775,
+        925,
+        1100,
+        1300,
+        1525
+      ],
+      "recovery": [
+        275,
+        350,
+        450,
+        550,
+        675,
+        825,
+        975,
+        1150,
+        1350,
+        1575
+      ],
+      "output": [
+        350,
+        425,
+        525,
+        650,
+        800,
+        975,
+        1175,
+        1400,
+        1650,
+        1925
+      ],
+      "reliability": [
+        250,
+        325,
+        400,
+        500,
+        625,
+        750,
+        900,
+        1075,
+        1275,
+        1500
+      ]
+    }
+  },
+  "costs": {
+    "weekly_research_cost_m_per_staff": 0.08,
+    "build_cost_m": 1.0,
+    "build_staff_hours": 8.0,
+    "level_cost_base_m": {
+      "capacity": 0.5,
+      "deployment": 0.25,
+      "recovery": 0.25,
+      "output": 1.0,
+      "reliability": 0.2
+    }
+  }
+}
