@@ -98,7 +98,8 @@
     "boost_kmh": 8.0,
     "accel_mult_base": 1.0,
     "accel_mult_per_kmh": 0.003,
-    "accel_mult_cap": 1.2
+    "accel_mult_cap": 1.2,
+    "wet_disable_threshold_mm": 1.0
   },
   "car_setup": {
     "wing_levels": {
