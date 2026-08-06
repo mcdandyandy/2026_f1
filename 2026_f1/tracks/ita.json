@@ -385,5 +385,21 @@
       "end_progress": 0.05716638619066243
     }
   ],
-  "nationality": "italian"
+  "nationality": "italian",
+  "fuel_consumption": 1.06,
+  "dnf_modifier": 1.05,
+  "racing_surface": {
+    "enabled": true,
+    "mode": "road_course",
+    "width_m": 13.5,
+    "edge_margin_m": 0.6,
+    "corridor_count": 5,
+    "visual_lateral_scale": 1.9
+  },
+  "starting_grid": {
+    "pole_side": "left",
+    "row_spacing_m": 10.0,
+    "column_spacing_m": 3.0,
+    "stagger_m": 2.0
+  }
 }

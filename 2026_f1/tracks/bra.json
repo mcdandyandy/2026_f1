@@ -552,5 +552,22 @@
       "end_progress": 0.06675969970721778
     }
   ],
-  "nationality": "brazilian"
+  "nationality": "brazilian",
+  "fuel_consumption": 1.06,
+  "dnf_modifier": 1.05,
+  "hide_polyline_visual": true,
+  "racing_surface": {
+    "enabled": true,
+    "mode": "road_course",
+    "width_m": 10.0,
+    "edge_margin_m": 0.6,
+    "corridor_count": 3,
+    "visual_lateral_scale": 2.0
+  },
+  "starting_grid": {
+    "pole_side": "left",
+    "row_spacing_m": 10.0,
+    "column_spacing_m": 3.0,
+    "stagger_m": 2.0
+  }
 }

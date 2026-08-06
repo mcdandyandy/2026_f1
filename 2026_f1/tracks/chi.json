@@ -462,8 +462,9 @@
     0.7111639688791087
   ],
   "tyre_wear_mult": 1.12,
+  "track_time_mult": 1.2,
   "lap_modifier": 1.1,
-  "length_km": 4.95,
+  "length_km": 4.8,
   "micro_sectors": [
     {
       "type": "straight",
@@ -588,5 +589,21 @@
       "end_progress": 0.16982543736975098
     }
   ],
-  "nationality": "chinese"
+  "fuel_consumption": 1.06,
+  "dnf_modifier": 1.05,
+  "nationality": "chinese",
+  "racing_surface": {
+    "enabled": true,
+    "mode": "road_course",
+    "width_m": 14.0,
+    "edge_margin_m": 0.6,
+    "corridor_count": 5,
+    "visual_lateral_scale": 2.0
+  },
+  "starting_grid": {
+    "pole_side": "left",
+    "row_spacing_m": 8.0,
+    "column_spacing_m": 3.0,
+    "stagger_m": 2.0
+  }
 }

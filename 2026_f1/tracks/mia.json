@@ -613,5 +613,19 @@
       "end_progress": 0.05209417455203482
     }
   ],
-  "nationality": "american"
+  "nationality": "american",
+  "racing_surface": {
+    "enabled": true,
+    "mode": "road_course",
+    "width_m": 13.0,
+    "edge_margin_m": 0.6,
+    "corridor_count": 5,
+    "visual_lateral_scale": 2.0
+  },
+  "starting_grid": {
+    "pole_side": "left",
+    "row_spacing_m": 10.0,
+    "column_spacing_m": 3.0,
+    "stagger_m": 2.0
+  }
 }
