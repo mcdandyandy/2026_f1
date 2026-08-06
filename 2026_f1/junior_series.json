@@ -35,7 +35,10 @@
           215,
           0
         ],
-        "quality": 9
+        "quality": 9,
+        "drivers": [
+          "Kush Maini"
+        ]
       },
       {
         "name": "Hitech Grand Prix",
@@ -49,7 +52,10 @@
           50,
           50
         ],
-        "quality": 8
+        "quality": 8,
+        "drivers": [
+          "Colton Herta"
+        ]
       },
       {
         "name": "MP Motorsport",

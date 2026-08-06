@@ -626,6 +626,44 @@
       ]
     },
     {
+      "key": "weekend_tyre_allocation",
+      "label": "Weekend Tyre Allocation",
+      "change_chance": 0.2,
+      "default": "light",
+      "options": [
+        {
+          "key": "unlimited",
+          "name": "No Tyre Allocation Rules",
+          "dry_sets_per_driver": null,
+          "intermediate_sets_per_driver": 0,
+          "wet_sets_per_driver": 0,
+          "weight": 0.2,
+          "summary": "Teams may fit a fresh set whenever required.",
+          "description": "Practice, qualifying and races retain the original unlimited fresh-tyre behavior."
+        },
+        {
+          "key": "light",
+          "name": "Light Tyre Allocation",
+          "dry_sets_per_driver": 15,
+          "intermediate_sets_per_driver": 4,
+          "wet_sets_per_driver": 3,
+          "weight": 0.55,
+          "summary": "Each driver receives 15 chosen dry sets for the complete weekend.",
+          "description": "Physical tyre sets retain their wear through practice, qualifying and the race."
+        },
+        {
+          "key": "strict",
+          "name": "Strict Tyre Allocation",
+          "dry_sets_per_driver": 12,
+          "intermediate_sets_per_driver": 4,
+          "wet_sets_per_driver": 3,
+          "weight": 0.25,
+          "summary": "Each driver receives only 12 chosen dry sets for the complete weekend.",
+          "description": "Careful practice mileage and qualifying risk management become essential."
+        }
+      ]
+    },
+    {
       "key": "tyre_profile",
       "label": "Tyre Profile",
       "change_chance": 0.1,

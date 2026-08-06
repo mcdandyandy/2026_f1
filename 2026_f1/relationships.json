@@ -6942,5 +6942,162 @@
       "Zhou Guanyu": 55
     }
   },
-  "team_relationships": {}
+  "team_relationships": {
+    "Max Verstappen": {
+      "Red Bull": 95,
+      "Racing Bulls": 60
+    },
+    "Isack Hadjar": {
+      "Red Bull": 85,
+      "Racing Bulls": 70
+    },
+    "Charles Leclerc": {
+      "Ferrari F1": 92,
+      "Audi": 55
+    },
+    "Lewis Hamilton": {
+      "Ferrari F1": 80,
+      "Mercedes": 90,
+      "McLaren": 65
+    },
+    "George Russell": {
+      "Mercedes": 90,
+      "Williams Racing": 65
+    },
+    "Kimi Antonelli": {
+      "Mercedes": 88
+    },
+    "Lando Norris": {
+      "McLaren": 95
+    },
+    "Oscar Piastri": {
+      "McLaren": 90,
+      "Alpine": 55
+    },
+    "Fernando Alonso": {
+      "Aston Martin": 82,
+      "Alpine": 75,
+      "Ferrari F1": 70,
+      "McLaren": 55
+    },
+    "Lance Stroll": {
+      "Aston Martin": 95,
+      "Williams Racing": 55
+    },
+    "Franco Colapinto": {
+      "Alpine": 80,
+      "Williams Racing": 60
+    },
+    "Pierre Gasly": {
+      "Alpine": 85,
+      "Racing Bulls": 65,
+      "Red Bull": 40
+    },
+    "Alex Albon": {
+      "Williams Racing": 90,
+      "Red Bull": 45
+    },
+    "Carlos Sainz": {
+      "Williams Racing": 78,
+      "Ferrari F1": 75,
+      "McLaren": 70,
+      "Racing Bulls": 55
+    },
+    "Esteban Ocon": {
+      "Haas F1": 78,
+      "Alpine": 65,
+      "Aston Martin": 55
+    },
+    "Oliver Bearman": {
+      "Haas F1": 85,
+      "Ferrari F1": 55
+    },
+    "Liam Lawson": {
+      "Racing Bulls": 82,
+      "Red Bull": 50
+    },
+    "Arvid Linblad": {
+      "Racing Bulls": 80,
+      "Red Bull": 60
+    },
+    "Nico Hulkenberg": {
+      "Audi": 80,
+      "Haas F1": 55
+    },
+    "Gabriel Bortoleto": {
+      "Audi": 85,
+      "McLaren": 50
+    },
+    "Sergio Perez": {
+      "Cadillac": 75,
+      "Red Bull": 60,
+      "Aston Martin": 65
+    },
+    "Valtteri Bottas": {
+      "Cadillac": 75,
+      "Mercedes": 80,
+      "Williams Racing": 65,
+      "Audi": 50
+    },
+    "Stoffel Vandoorne": {
+      "Mercedes": 75,
+      "McLaren": 55
+    },
+    "Jak Crawford": {
+      "Aston Martin": 70
+    },
+    "Pato O'Ward": {
+      "McLaren": 78
+    },
+    "Paul Aron": {
+      "Alpine": 65
+    },
+    "Yuki Tsunoda": {
+      "Red Bull": 60,
+      "Racing Bulls": 82
+    },
+    "Jack Doohan": {
+      "Haas F1": 60,
+      "Alpine": 65
+    },
+    "Zhou Guanyu": {
+      "Cadillac": 60,
+      "Audi": 70
+    },
+    "Fred Vesti": {
+      "Mercedes": 72
+    },
+    "Antonio Giovinazzi": {
+      "Ferrari F1": 55,
+      "Audi": 68
+    },
+    "Kush Maini": {
+      "Alpine": 60
+    },
+    "Theo Pourchaire": {
+      "Audi": 75
+    },
+    "Ayumu Iwasa": {
+      "Racing Bulls": 70,
+      "Red Bull": 55
+    },
+    "Colton Herta": {
+      "Cadillac": 68
+    },
+    "Ryo Hirakawa": {
+      "Haas F1": 60
+    },
+    "Luke Browning": {
+      "Williams Racing": 72
+    },
+    "Pietro Fittipaldi": {
+      "Haas F1": 78
+    },
+    "Victor Martins": {
+      "Williams Racing": 65
+    },
+    "Zane Maloney": {
+      "Audi": 65
+    }
+  }
 }
