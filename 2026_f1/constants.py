@@ -340,6 +340,14 @@ CHASSIS_DEV_CURRENT_PACKAGE_DEFINITIONS = {
             "med_random_max": 2.0,
         },
     },
+    "spec_b_chassis": {
+        "label": "Spec B Chassis Overhaul",
+        "total_staff_hours": 1250.0,
+        "formula": {
+            "carryover": 0.8,
+            "budget_multiplier": 2.0,
+        },
+    },
 }
 CHASSIS_DEV_WEIGHT_TD_SKILL_MIN = 1
 CHASSIS_DEV_WEIGHT_TD_SKILL_MID = 10

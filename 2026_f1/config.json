@@ -397,5 +397,36 @@
       "high_m": 150.0,
       "prestige_min": 68.3
     }
+  },
+  "road_course_racecraft": {
+    "corner_inside_commit_gap_s": 0.35,
+    "corner_outside_commit_gap_s": 0.25,
+    "corner_projection_window_s": 2.5,
+    "defense_trigger_gap_s": 0.25,
+    "defense_min_closing_speed_kmh": 4.0,
+    "defense_corner_lookahead_m": 120.0,
+    "defense_min_hold_distance_m": 90.0,
+    "defense_cooldown_distance_m": 240.0,
+    "blue_flag_warning_gap_s": 1.5,
+    "blue_flag_yield_gap_s": 1.0,
+    "blue_flag_min_closing_speed_kmh": 2.5,
+    "blue_flag_progress_multiplier": 0.9,
+    "blue_flag_max_lift_s": 1.5,
+    "blue_flag_group_gap_s": 2.5,
+    "blue_flag_cancel_speed_advantage_kmh": 5.0,
+    "blue_flag_cancel_hysteresis_s": 0.85,
+    "blue_flag_clearance_car_lengths": 2.0,
+    "blue_flag_corner_lookahead_m": 120.0,
+    "blue_flag_unlap_grace_laps": 1.0,
+    "session_yield_warning_gap_s": 2.0,
+    "session_yield_group_gap_s": 2.5,
+    "session_yield_progress_multiplier": 0.55,
+    "session_yield_lane_change_distance_m": 32.0,
+    "session_hotlap_escape_gap_s": 1.6,
+    "session_hotlap_lane_change_distance_m": 30.0,
+    "corner_adjacent_wake_min": 0.3,
+    "corner_adjacent_wake_max": 0.45,
+    "corner_two_lane_wake_min": 0.1,
+    "corner_two_lane_wake_max": 0.2
   }
 }
