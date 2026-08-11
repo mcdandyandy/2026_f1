@@ -681,5 +681,19 @@
       "end_progress": 0.054042483990876786
     }
   ],
-  "nationality": "australian"
+  "nationality": "australian",
+  "racing_surface": {
+    "enabled": true,
+    "mode": "road_course",
+    "width_m": 14.0,
+    "edge_margin_m": 0.6,
+    "corridor_count": 4,
+    "visual_lateral_scale": 2.0
+  },
+  "starting_grid": {
+    "pole_side": "right",
+    "row_spacing_m": 11.0,
+    "column_spacing_m": 3.0,
+    "stagger_m": 2.0
+  }
 }
