@@ -552,19 +552,5 @@
       "end_progress": 0.051897828294231625
     }
   ],
-  "nationality": "singaporean",
-  "racing_surface": {
-    "enabled": true,
-    "mode": "road_course",
-    "width_m": 14.5,
-    "edge_margin_m": 0.6,
-    "corridor_count": 4,
-    "visual_lateral_scale": 2.6000000000000005
-  },
-  "starting_grid": {
-    "pole_side": "left",
-    "row_spacing_m": 10.0,
-    "column_spacing_m": 3.0,
-    "stagger_m": 2.0
-  }
+  "nationality": "singaporean"
 }

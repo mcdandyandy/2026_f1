@@ -743,22 +743,5 @@
       "end_progress": 0.07795737311364011
     }
   ],
-  "nationality": "japanese",
-  "fuel_consumption": 1.06,
-  "dnf_modifier": 1.05,
-  "hide_polyline_visual": true,
-  "racing_surface": {
-    "enabled": true,
-    "mode": "road_course",
-    "width_m": 12.0,
-    "edge_margin_m": 0.6,
-    "corridor_count": 3,
-    "visual_lateral_scale": 1.7999999999999998
-  },
-  "starting_grid": {
-    "pole_side": "left",
-    "row_spacing_m": 10.0,
-    "column_spacing_m": 3.0,
-    "stagger_m": 2.0
-  }
+  "nationality": "japanese"
 }
