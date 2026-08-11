@@ -3442,8 +3442,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Ferrari F1",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Joshua Durksen",
@@ -3468,8 +3474,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Mercedes",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Ritomo Miyata",
@@ -3491,7 +3503,8 @@
     "personality": "ambitious",
     "nationality": "japanese",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Noel Leon",
@@ -3513,7 +3526,8 @@
     "personality": "ambitious",
     "nationality": "mexican",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Nikola Tsolov",
@@ -3538,8 +3552,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Red Bull",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Dino Beganovic",
@@ -3564,8 +3584,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Ferrari F1",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Roman Bilinski",
@@ -3587,7 +3613,8 @@
     "personality": "ambitious",
     "nationality": "polish",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Gabriele Mini",
@@ -3609,7 +3636,8 @@
     "personality": "ambitious",
     "nationality": "italian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Oliver Goethe",
@@ -3631,7 +3659,8 @@
     "personality": "ambitious",
     "nationality": "german",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Sebastian Montoya",
@@ -3653,7 +3682,8 @@
     "personality": "ambitious",
     "nationality": "colombian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Mari Boya",
@@ -3675,7 +3705,8 @@
     "personality": "ambitious",
     "nationality": "spanish",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Martinius Stenshorne",
@@ -3697,7 +3728,8 @@
     "personality": "ambitious",
     "nationality": "norwegian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Alex Dunne",
@@ -3722,8 +3754,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Alpine",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Tasanapol Inthraphuvasak",
@@ -3745,7 +3783,8 @@
     "personality": "ambitious",
     "nationality": "thai",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Emerson Fittipaldi Jr",
@@ -3767,7 +3806,8 @@
     "personality": "ambitious",
     "nationality": "brazilian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Cian Shields",
@@ -3789,7 +3829,8 @@
     "personality": "ambitious",
     "nationality": "irish",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Nico Varrone",
@@ -3811,7 +3852,8 @@
     "personality": "ambitious",
     "nationality": "argentine",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Rafael Villagomez",
@@ -3833,7 +3875,8 @@
     "personality": "ambitious",
     "nationality": "guatemalan",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Theophile Nael",
@@ -3855,7 +3898,8 @@
     "personality": "ambitious",
     "nationality": "french",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Ugo Ugochukwu",
@@ -3877,7 +3921,8 @@
     "personality": "ambitious",
     "nationality": "american",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Patrick Heuzenroeder",
@@ -3899,7 +3944,8 @@
     "personality": "ambitious",
     "nationality": "german",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Noah Stromsted",
@@ -3921,7 +3967,8 @@
     "personality": "ambitious",
     "nationality": "danish",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Freddie Slater",
@@ -3943,7 +3990,8 @@
     "personality": "ambitious",
     "nationality": "british",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Matteo De Palo",
@@ -3968,8 +4016,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "McLaren",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Mattia Colnaghi",
@@ -3991,7 +4045,8 @@
     "personality": "ambitious",
     "nationality": "italian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Tuukka Taponen",
@@ -4016,8 +4071,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Ferrari F1",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Alessandro Giusti",
@@ -4039,7 +4100,8 @@
     "personality": "ambitious",
     "nationality": "italian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Taito Kato",
@@ -4061,7 +4123,8 @@
     "personality": "ambitious",
     "nationality": "japanese",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Maciej Gladysz",
@@ -4083,7 +4146,8 @@
     "personality": "ambitious",
     "nationality": "polish",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Kanato Le",
@@ -4105,7 +4169,8 @@
     "personality": "ambitious",
     "nationality": "japanese",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Hiyu Yamakoshi",
@@ -4127,7 +4192,8 @@
     "personality": "ambitious",
     "nationality": "japanese",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Enzo Deligny",
@@ -4149,7 +4215,8 @@
     "personality": "ambitious",
     "nationality": "french",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Bruno del Pino",
@@ -4171,7 +4238,8 @@
     "personality": "ambitious",
     "nationality": "spanish",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Louis Sharp",
@@ -4193,7 +4261,8 @@
     "personality": "ambitious",
     "nationality": "australian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "James Wharton",
@@ -4215,7 +4284,8 @@
     "personality": "ambitious",
     "nationality": "australian",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Jose Garfias",
@@ -4237,7 +4307,8 @@
     "personality": "ambitious",
     "nationality": "mexican",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Michael Shin",
@@ -4259,7 +4330,8 @@
     "personality": "ambitious",
     "nationality": "korean",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
   },
   {
     "name": "Fionn McLaughlin",
@@ -4284,8 +4356,14 @@
     "traction_preference": 50,
     "contract": {
       "team": "Red Bull",
-      "role": "academy"
-    }
+      "role": "academy",
+      "length_weeks": 52,
+      "salary_m": 0.5,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "team": null
   },
   {
     "name": "Jin Nakamura",
@@ -4307,6 +4385,1104 @@
     "personality": "ambitious",
     "nationality": "japanese",
     "balance_preference": 50,
-    "traction_preference": 50
+    "traction_preference": 50,
+    "team": null
+  },
+  {
+    "name": "Daniel Ricciardo",
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 14,
+      "championships": 0,
+      "wins": 8,
+      "podiums": 32,
+      "poles": 3
+    },
+    "age": 37,
+    "talent": 82,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "australian",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Mick Schumacher",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 2,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 27,
+    "talent": 74,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "german",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Kevin Magnussen",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 10,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 1
+    },
+    "age": 33,
+    "talent": 75,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "danish",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Nyck de Vries",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 1,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 31,
+    "talent": 70,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "dutch",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Daniil Kvyat",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 5,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 0
+    },
+    "age": 32,
+    "talent": 71,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "russian",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Robert Kubica",
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 8,
+      "championships": 0,
+      "wins": 1,
+      "podiums": 12,
+      "poles": 1
+    },
+    "age": 41,
+    "talent": 76,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "polish",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Felipe Drugovich",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 26,
+    "talent": 74,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "brazilian",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Logan Sargeant",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 2,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 25,
+    "talent": 62,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "american",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Marcus Ericsson",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 5,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 33,
+    "talent": 68,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "swedish",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Christian Lundgaard",
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 24,
+    "talent": 73,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "danish",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal",
+      "team": null
+    },
+    "team": null
+  },
+  {
+    "name": "Sebastian Vettel",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 14,
+      "championships": 4,
+      "wins": 53,
+      "podiums": 122,
+      "poles": 57
+    },
+    "age": 38,
+    "talent": 88,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "german",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Sebastien Buemi",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 3,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 37,
+    "talent": 63,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "swiss",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Romain Grosjean",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 10,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 10,
+      "poles": 0
+    },
+    "age": 40,
+    "talent": 72,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "french",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Jean-Eric Vergne",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 3,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 36,
+    "talent": 68,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "french",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Pascal Wehrlein",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 2,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 31,
+    "talent": 70,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "german",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Alexander Rossi",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 1,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 34,
+    "talent": 72,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "american",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Jack Aitken",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 1,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 30,
+    "talent": 60,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "british",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Alex Palou",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 28,
+    "talent": 85,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "spanish",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Nick Cassidy",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 31,
+    "talent": 78,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "new zealander",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Jake Dennis",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 29,
+    "talent": 76,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "british",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Mitch Evans",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 31,
+    "talent": 76,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "new zealander",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Oliver Rowland",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 34,
+    "talent": 75,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "british",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Antonio Felix da Costa",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 34,
+    "talent": 73,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "portuguese",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Josef Newgarden",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 35,
+    "talent": 78,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "american",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Kyle Kirkwood",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 27,
+    "talent": 72,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "american",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Marcus Armstrong",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 25,
+    "talent": 68,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "new zealander",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Nicholas Latifi",
+    "team": null,
+    "cornering": 16,
+    "braking": 16,
+    "consistency": 15,
+    "smoothness": 15,
+    "control": 15,
+    "history": {
+      "seasons": 3,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 30,
+    "talent": 52,
+    "traits": [
+      "pay_driver"
+    ],
+    "personality": "cautious",
+    "nationality": "canadian",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "pay_driver_amount_m": 10.0
+  },
+  {
+    "name": "Robert Shwartzman",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 26,
+    "talent": 74,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "israeli",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Roy Nissany",
+    "team": null,
+    "cornering": 16,
+    "braking": 16,
+    "consistency": 15,
+    "smoothness": 15,
+    "control": 15,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 31,
+    "talent": 56,
+    "traits": [
+      "pay_driver"
+    ],
+    "personality": "cautious",
+    "nationality": "israeli",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "pay_driver_amount_m": 6.0
+  },
+  {
+    "name": "Juan Manuel Correa",
+    "team": null,
+    "cornering": 16,
+    "braking": 16,
+    "consistency": 15,
+    "smoothness": 15,
+    "control": 15,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 26,
+    "talent": 54,
+    "traits": [
+      "pay_driver"
+    ],
+    "personality": "cautious",
+    "nationality": "american",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    },
+    "pay_driver_amount_m": 5.0
+  },
+  {
+    "name": "Kakunoshin Ohta",
+    "team": null,
+    "cornering": 18,
+    "braking": 18,
+    "consistency": 17,
+    "smoothness": 17,
+    "control": 17,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 25,
+    "talent": 77,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "japanese",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Kamui Kobayashi",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 6,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 0
+    },
+    "age": 39,
+    "talent": 68,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "japanese",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Tadasuke Makino",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 29,
+    "talent": 70,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "japanese",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Tomoki Nojiri",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 33,
+    "talent": 72,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "japanese",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
   }
 ]
