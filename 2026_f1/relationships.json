@@ -7098,6 +7098,74 @@
     },
     "Zane Maloney": {
       "Audi": 65
+    },
+    "Sebastian Vettel": {
+      "Red Bull": 95,
+      "Ferrari F1": 65,
+      "Racing Bulls": 60,
+      "Aston Martin": 55
+    },
+    "Sebastien Buemi": {
+      "Racing Bulls": 65
+    },
+    "Romain Grosjean": {
+      "Alpine": 70,
+      "Haas F1": 60
+    },
+    "Jean-Eric Vergne": {
+      "Racing Bulls": 62
+    },
+    "Pascal Wehrlein": {
+      "Audi": 58
+    },
+    "Jack Aitken": {
+      "Williams Racing": 55
+    },
+    "Alex Palou": {
+      "McLaren": 45
+    },
+    "Nicholas Latifi": {
+      "Williams Racing": 50
+    },
+    "Robert Shwartzman": {
+      "Ferrari F1": 55
+    },
+    "Roy Nissany": {
+      "Williams Racing": 40
+    },
+    "Kamui Kobayashi": {
+      "Audi": 55,
+      "Toyota": 60
+    },
+    "Daniel Ricciardo": {
+      "Red Bull": 78,
+      "McLaren": 55,
+      "Racing Bulls": 65,
+      "Alpine": 60
+    },
+    "Mick Schumacher": {
+      "Haas F1": 60,
+      "Mercedes": 50
+    },
+    "Kevin Magnussen": {
+      "Haas F1": 80,
+      "McLaren": 45
+    },
+    "Nyck de Vries": {
+      "Racing Bulls": 45
+    },
+    "Daniil Kvyat": {
+      "Red Bull": 50,
+      "Racing Bulls": 68
+    },
+    "Robert Kubica": {
+      "Williams Racing": 70
+    },
+    "Logan Sargeant": {
+      "Williams Racing": 45
+    },
+    "Marcus Ericsson": {
+      "Audi": 55
     }
   }
 }
