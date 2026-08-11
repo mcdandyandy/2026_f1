@@ -6,7 +6,7 @@
 <b>Mod Summary</b>
 
 </P>
-121 drivers (main + junior series pool) with full attribute/trait profiles
+Updated drivers (main + junior series pool) with full attribute/trait profiles
 <BR>
 driver portraits updated
 <BR>
