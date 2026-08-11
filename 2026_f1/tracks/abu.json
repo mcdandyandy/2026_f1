@@ -574,21 +574,5 @@
       "end_progress": 0.6440664326642279
     }
   ],
-  "nationality": "emirati",
-  "fuel_consumption": 1.06,
-  "dnf_modifier": 1.05,
-  "racing_surface": {
-    "enabled": true,
-    "mode": "road_course",
-    "width_m": 12.0,
-    "edge_margin_m": 0.6,
-    "corridor_count": 3,
-    "visual_lateral_scale": 2.0000000000000004
-  },
-  "starting_grid": {
-    "pole_side": "left",
-    "row_spacing_m": 10.0,
-    "column_spacing_m": 3.0,
-    "stagger_m": 2.0
-  }
+  "nationality": "emirati"
 }
