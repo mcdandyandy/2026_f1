@@ -2,7 +2,7 @@
 
 [Latest Release](https://github.com/mcdandyandy/2026_f1/releases)
 
-<img width="1920" height="1080" alt="title_bg" src="https://github.com/user-attachments/assets/0a050fd4-131a-4cd8-9f6d-e0d90bbfbc7a" />
+<img width="640" height="480" alt="title_bg" src="https://github.com/user-attachments/assets/0a050fd4-131a-4cd8-9f6d-e0d90bbfbc7a" />
 
 
 <P>
