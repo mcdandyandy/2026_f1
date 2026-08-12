@@ -62,4 +62,4 @@ Per-team starting balances added
 <BR>
  ERS development updates
 <p>
- [logo]([example.png](https://github.com/mcdandyandy/2026_f1/blob/main/2026_f1/assets/title_bg.png))
+ [logo](https://github.com/mcdandyandy/2026_f1/blob/main/2026_f1/assets/title_bg.png)
