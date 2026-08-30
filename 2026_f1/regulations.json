@@ -370,6 +370,35 @@
       ]
     },
     {
+      "key": "safety_car_policy",
+      "label": "Safety Car Policy",
+      "change_chance": 0.1,
+      "default": "all_types",
+      "options": [
+        {
+          "key": "none",
+          "name": "No Safety Cars",
+          "safety_car_mode": "none",
+          "weight": 0.15,
+          "summary": "Race control never deploys a physical or virtual safety car."
+        },
+        {
+          "key": "physical_only",
+          "name": "Physical Safety Cars",
+          "safety_car_mode": "physical_only",
+          "weight": 0.35,
+          "summary": "Only the physical safety car may neutralize a race."
+        },
+        {
+          "key": "all_types",
+          "name": "All Safety Car Types",
+          "safety_car_mode": "all_types",
+          "weight": 0.5,
+          "summary": "Race control may deploy either a physical or virtual safety car."
+        }
+      ]
+    },
+    {
       "key": "ers_policy",
       "label": "ERS Deployment",
       "change_chance": 0.06,
