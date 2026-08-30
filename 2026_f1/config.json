@@ -267,7 +267,17 @@
     "dnf_deploy_chance": 0.15,
     "pace_factor": 0.5,
     "catch_gap_s": 1.0,
-    "catchup_pace_factor": 1.8
+    "catchup_pace_factor": 1.8,
+    "vsc_selection_probability": 0.5,
+    "vsc_duration_s_min": 120.0,
+    "vsc_duration_s_max": 360.0,
+    "vsc_pace_factor": 0.65,
+    "vsc_ai_pit_loss_mult": [
+      0.6,
+      0.75
+    ],
+    "vsc_tyre_wear_mult": 0.7,
+    "vsc_fuel_burn_mult": 0.65
   },
   "injuries": {
     "dnf_injury_chance": 0.01,
@@ -428,5 +438,127 @@
     "corner_adjacent_wake_max": 0.45,
     "corner_two_lane_wake_min": 0.1,
     "corner_two_lane_wake_max": 0.2
+  },
+  "personnel_negotiations": {
+    "capacity_by_hospitality": [
+      2,
+      3,
+      3,
+      4,
+      5,
+      6
+    ],
+    "driver_approach_weeks_by_hospitality": [
+      12,
+      11,
+      10,
+      10,
+      9,
+      8
+    ],
+    "staff_approach_weeks_by_hospitality": [
+      10,
+      9,
+      8,
+      8,
+      7,
+      6
+    ],
+    "late_season_approach_reductions": [
+      {
+        "season_progress": 0.5,
+        "weeks": 1
+      },
+      {
+        "season_progress": 0.7,
+        "weeks": 2
+      },
+      {
+        "season_progress": 0.85,
+        "weeks": 3
+      },
+      {
+        "season_progress": 0.96,
+        "weeks": 99
+      }
+    ],
+    "decision_windows": [
+      {
+        "through_progress": 0.25,
+        "weeks": 12
+      },
+      {
+        "through_progress": 0.5,
+        "weeks": 8
+      },
+      {
+        "through_progress": 0.7,
+        "weeks": 4
+      },
+      {
+        "through_progress": 0.85,
+        "weeks": 2
+      },
+      {
+        "through_progress": 0.95,
+        "weeks": 1
+      },
+      {
+        "through_progress": 1.0,
+        "weeks": 0
+      }
+    ],
+    "free_agent_reduction_weeks": 2,
+    "elite_market_extension_weeks": 1,
+    "supplier_capacity": 2,
+    "base_failed_cooldown_weeks": 5,
+    "ai_driver_competition_penalty": 12.0,
+    "ai_staff_competition_penalty": 3.0,
+    "late_market_prestige_progress": [
+      {
+        "season_progress": 0.65,
+        "reduction": 1
+      },
+      {
+        "season_progress": 0.8,
+        "reduction": 3
+      },
+      {
+        "season_progress": 0.9,
+        "reduction": 5
+      },
+      {
+        "season_progress": 0.95,
+        "reduction": 8
+      }
+    ],
+    "late_market_prestige_seat_scarcity": [
+      {
+        "open_ratio_at_most": 0.25,
+        "reduction": 1
+      },
+      {
+        "open_ratio_at_most": 0.15,
+        "reduction": 3
+      },
+      {
+        "open_seats_at_most": 4,
+        "reduction": 5
+      },
+      {
+        "open_seats_at_most": 2,
+        "reduction": 8
+      }
+    ],
+    "late_market_prestige_max_total_reduction": 16,
+    "player_driver_proposals_enabled": true,
+    "player_driver_proposal_weekly_chance": 0.05,
+    "player_driver_proposal_cooldown_weeks": 6,
+    "player_driver_proposal_max_per_season": 2,
+    "player_driver_proposal_main_fit_floor": 0.8,
+    "player_driver_proposal_main_fit_ceiling": 1.1,
+    "player_driver_proposal_reserve_fit_floor": 0.6,
+    "player_driver_proposal_offer_target": 92.0,
+    "player_driver_proposal_decline_relationship": -3
   }
 }

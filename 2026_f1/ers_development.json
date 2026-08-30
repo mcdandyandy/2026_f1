@@ -20,6 +20,13 @@
     "acceleration_multiplier": 2.5,
     "reliability": 100.0
   },
+  "mode_energy_balance": {
+    "enabled": true,
+    "conservative_target_net_recovery_mj_per_lap": 1.0,
+    "balanced_target_net_recovery_mj_per_lap": 0.25,
+    "attack_min_net_depletion_mj_per_lap": 0.75,
+    "attack_min_capacity_fraction_per_lap": 0.125
+  },
   "starting_levels": {
     "default": {
       "capacity": 0,

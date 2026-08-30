@@ -18,6 +18,8 @@ WARN = (255, 210, 80)
 MIN_DRIVER_SIGNING_AGE = 18
 
 
+DRIVER_RETIREMENT_MIN_AGE = 31
+DRIVER_RETIREMENT_ESCALATION_AGE = 39
 # Fixed entry cost for participating in the season\'s official pre-season
 # testing programme. Charged once after the final pre-season test concludes.
 PRESEASON_TESTING_ENTRY_COST_M = 3.0
@@ -112,6 +114,13 @@ PRIVATE_TESTING_COST_PER_LAP_OTHER_TRACK = 5000
 # Race config
 QUALI_GRID_LIMIT = 26  # Maximum starters; others are DNQ
 QUALI_MIN_ENTRANTS = 20  # Minimum starters regardless of 107% rule
+PREQUALIFYING_ENABLED = True
+PREQUALIFYING_TRIGGER_CARS = 30
+PREQUALIFYING_FIELD_LIMIT = 30
+PREQUALIFYING_MAX_PROTECTED_TEAMS = 12
+PREQUALIFYING_MIN_POOL_CARS = 12
+PREQUALIFYING_DURATION_SECONDS = 30 * 60
+PREQUALIFYING_MAX_HOT_LAPS = 4
 GRID_START_SPACING_KM = 0.016
 RACE_START_LAUNCH_DURATION_S = 4.5
 
@@ -555,6 +564,7 @@ CONTRACT_RESERVE_PCT = 0.05
 # Portion of the next HQ upgrade cost AI teams will keep in reserve
 AI_HQ_RESERVE_PCT = 0.1
 
+HQ_CONSTRUCTION_DEPOSIT_PCT = 0.20
 # ---------------------------------------------------------------------------
 # Race operations costs ($M per event)
 # ---------------------------------------------------------------------------
@@ -648,7 +658,6 @@ AI_FUTURE_CHASSIS_TIME_SCALE = 0.5
 AI_FUTURE_CONCEPT_CURRENT_WEIGHT = 0.5
 
 # Maximum number of simultaneous aero projects (development + spec) the AI will run
-AI_DEV_AERO_MAX_ACTIVE = 2
 
 # Minimum projected lap-time gain (in seconds) the AI expects from aero work
 # before committing funds to a project. Spec upgrades can be lighter, but still

@@ -39,7 +39,6 @@
       "recon_centre": 3,
       "driver_centre": 4
     },
-    "negotiation_points": 0,
     "tyre_contract": {
       "supplier": "Pirelli",
       "type": "works"
@@ -127,7 +126,6 @@
       "recon_centre": 3,
       "driver_centre": 5
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -223,7 +221,6 @@
       "recon_centre": 2,
       "driver_centre": 4
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -319,7 +316,6 @@
       "recon_centre": 2,
       "driver_centre": 5
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -420,7 +416,6 @@
       "driver_centre": 4,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -514,7 +509,6 @@
       "driver_centre": 3,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -610,7 +604,6 @@
       "driver_centre": 4,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -705,7 +698,6 @@
       "driver_centre": 3,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -803,7 +795,6 @@
       "driver_centre": 2,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -899,7 +890,6 @@
       "driver_centre": 3,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -995,7 +985,6 @@
       "driver_centre": 3,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1096,7 +1085,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1193,7 +1181,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1290,7 +1277,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1387,7 +1373,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1484,7 +1469,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1574,7 +1558,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -1664,7 +1647,6 @@
       "driver_centre": 1,
       "test_track": 0
     },
-    "negotiation_points": 0,
     "history": {
       "seasons": 0,
       "championships": 0,
