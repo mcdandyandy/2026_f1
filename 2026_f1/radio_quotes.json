@@ -1,12 +1,12 @@
 {
   "settings": {
     "cooldown_sim_seconds": 300.0,
-    "visible_real_seconds": 10.0,
-    "fade_real_seconds": 3.0,
+    "visible_real_seconds": 15.0,
+    "fade_real_seconds": 5.0,
     "practice_minimum_laps": 2,
     "setup_satisfied_tolerance": 5.0,
     "pressure_concern_psi": 1.2,
-    "failed_attack_laps": 3,
+    "failed_attack_laps": 5,
     "failed_attack_gap_seconds": 1.5,
     "tyre_worn_threshold": 0.55,
     "tyre_cliff_threshold": 0.75,
