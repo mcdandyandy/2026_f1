@@ -6,7 +6,9 @@
 
 
 <P>
-<b>Mod Summary</b> (pending update)
+<b>Mod Summary</b> 
+<br>
+<I>This needs updating as there have been many updates since....</I>
 
 </P>
 Updated drivers (main + junior series pool) with full attribute/trait profiles
