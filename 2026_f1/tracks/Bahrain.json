@@ -1,0 +1,401 @@
+{
+  "points": [
+    [
+      326.0,
+      492.0
+    ],
+    [
+      336.0,
+      164.0
+    ],
+    [
+      337.0,
+      156.0
+    ],
+    [
+      340.0,
+      151.0
+    ],
+    [
+      347.0,
+      151.0
+    ],
+    [
+      385.0,
+      193.0
+    ],
+    [
+      391.0,
+      193.0
+    ],
+    [
+      437.0,
+      174.0
+    ],
+    [
+      455.0,
+      172.0
+    ],
+    [
+      748.0,
+      241.0
+    ],
+    [
+      760.0,
+      245.0
+    ],
+    [
+      765.0,
+      250.0
+    ],
+    [
+      765.0,
+      268.0
+    ],
+    [
+      759.0,
+      286.0
+    ],
+    [
+      716.0,
+      325.0
+    ],
+    [
+      675.0,
+      375.0
+    ],
+    [
+      664.0,
+      395.0
+    ],
+    [
+      649.0,
+      435.0
+    ],
+    [
+      635.0,
+      448.0
+    ],
+    [
+      628.0,
+      449.0
+    ],
+    [
+      594.0,
+      443.0
+    ],
+    [
+      582.0,
+      443.0
+    ],
+    [
+      565.0,
+      451.0
+    ],
+    [
+      539.0,
+      486.0
+    ],
+    [
+      495.0,
+      559.0
+    ],
+    [
+      487.0,
+      569.0
+    ],
+    [
+      479.0,
+      569.0
+    ],
+    [
+      472.0,
+      563.0
+    ],
+    [
+      470.0,
+      557.0
+    ],
+    [
+      470.0,
+      536.0
+    ],
+    [
+      496.0,
+      328.0
+    ],
+    [
+      491.0,
+      311.0
+    ],
+    [
+      486.0,
+      302.0
+    ],
+    [
+      459.0,
+      274.0
+    ],
+    [
+      451.0,
+      274.0
+    ],
+    [
+      441.0,
+      353.0
+    ],
+    [
+      437.0,
+      420.0
+    ],
+    [
+      433.0,
+      603.0
+    ],
+    [
+      428.0,
+      713.0
+    ],
+    [
+      428.0,
+      762.0
+    ],
+    [
+      433.0,
+      773.0
+    ],
+    [
+      444.0,
+      782.0
+    ],
+    [
+      462.0,
+      783.0
+    ],
+    [
+      483.0,
+      779.0
+    ],
+    [
+      501.0,
+      767.0
+    ],
+    [
+      516.0,
+      751.0
+    ],
+    [
+      529.0,
+      728.0
+    ],
+    [
+      543.0,
+      679.0
+    ],
+    [
+      552.0,
+      658.0
+    ],
+    [
+      570.0,
+      638.0
+    ],
+    [
+      590.0,
+      627.0
+    ],
+    [
+      602.0,
+      624.0
+    ],
+    [
+      614.0,
+      624.0
+    ],
+    [
+      632.0,
+      629.0
+    ],
+    [
+      690.0,
+      664.0
+    ],
+    [
+      710.0,
+      687.0
+    ],
+    [
+      716.0,
+      702.0
+    ],
+    [
+      716.0,
+      718.0
+    ],
+    [
+      709.0,
+      731.0
+    ],
+    [
+      690.0,
+      748.0
+    ],
+    [
+      343.0,
+      989.0
+    ],
+    [
+      335.0,
+      988.0
+    ],
+    [
+      328.0,
+      981.0
+    ],
+    [
+      313.0,
+      936.0
+    ],
+    [
+      316.0,
+      780.0
+    ],
+    [
+      326.0,
+      492.0
+    ]
+  ],
+  "sector_splits": [
+    0.2772,
+    0.6631
+  ],
+  "tyre_wear_mult": 1.0,
+  "fuel_consumption": 1.0,
+  "dnf_modifier": 1.0,
+  "lap_modifier": 1.0,
+  "length_km": 5.01,
+  "track_name": "Bahrain",
+  "nationality": "Bahrain",
+  "overtaking_difficulty": 1.0,
+  "use_raw_canvas_coordinates": true,
+  "raw_canvas_size": [
+    1080,
+    1350
+  ],
+  "hide_polyline_visual": false,
+  "drs_zones": [
+    {
+      "detection_progress": 0.0803,
+      "start_progress": 0.1368,
+      "end_progress": 0.222
+    },
+    {
+      "detection_progress": 0.4324,
+      "start_progress": 0.4786,
+      "end_progress": 0.5921
+    },
+    {
+      "detection_progress": 0.8451,
+      "start_progress": 0.9021,
+      "end_progress": 0.0719
+    }
+  ],
+  "micro_sectors": [
+    {
+      "type": "straight",
+      "length_pct": 11.3331,
+      "target_speed_kmh": 257.2
+    },
+    {
+      "type": "med",
+      "length_pct": 3.0,
+      "target_speed_kmh": 131.7
+    },
+    {
+      "type": "high",
+      "length_pct": 10.6667,
+      "target_speed_kmh": 207.6
+    },
+    {
+      "type": "med",
+      "length_pct": 7.6667,
+      "target_speed_kmh": 158.4
+    },
+    {
+      "type": "high",
+      "length_pct": 2.6667,
+      "target_speed_kmh": 192.0
+    },
+    {
+      "type": "low",
+      "length_pct": 2.3333,
+      "target_speed_kmh": 111.9
+    },
+    {
+      "type": "high",
+      "length_pct": 8.0,
+      "target_speed_kmh": 178.9
+    },
+    {
+      "type": "med",
+      "length_pct": 1.3333,
+      "target_speed_kmh": 145.5
+    },
+    {
+      "type": "high",
+      "length_pct": 2.6667,
+      "target_speed_kmh": 220.1
+    },
+    {
+      "type": "straight",
+      "length_pct": 9.0,
+      "target_speed_kmh": 283.7
+    },
+    {
+      "type": "low",
+      "length_pct": 1.3333,
+      "target_speed_kmh": 105.6
+    },
+    {
+      "type": "med",
+      "length_pct": 1.6667,
+      "target_speed_kmh": 141.9
+    },
+    {
+      "type": "high",
+      "length_pct": 3.6667,
+      "target_speed_kmh": 201.9
+    },
+    {
+      "type": "med",
+      "length_pct": 7.6667,
+      "target_speed_kmh": 151.2
+    },
+    {
+      "type": "high",
+      "length_pct": 2.6667,
+      "target_speed_kmh": 220.4
+    },
+    {
+      "type": "straight",
+      "length_pct": 10.0,
+      "target_speed_kmh": 262.8
+    },
+    {
+      "type": "med",
+      "length_pct": 1.6667,
+      "target_speed_kmh": 144.6
+    },
+    {
+      "type": "high",
+      "length_pct": 2.6667,
+      "target_speed_kmh": 217.6
+    },
+    {
+      "type": "straight",
+      "length_pct": 10.0,
+      "target_speed_kmh": 290.3
+    }
+  ],
+  "nationality": "bahranian"
+}

@@ -6,8 +6,8 @@
     1920,
     1080
   ],
-  "last_save": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Principal A Racing Manager\\saves\\McLarenSeason1Week1_Auto.json",
-  "fog_of_war": true,
+  "last_save": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Principal A Racing Manager\\saves\\FerrariF1Season1Week1_Auto.json",
+  "fog_of_war": false,
   "show_development_emails": true,
   "ai_aero_dev_difficulty": "extreme",
   "show_ai_parts_debug": false,
@@ -19,5 +19,6 @@
   "ai_factory_production_speed": "extreme",
   "ai_aero_design_speed": "extreme",
   "animated_dashboard_backgrounds": true,
-  "guided_tutorial": false
+  "guided_tutorial": false,
+  "master_volume": 0.8
 }
