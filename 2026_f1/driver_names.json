@@ -298,26 +298,26 @@
       "first_names": [
         "Iker",
         "Leo",
-        "Mart\u00ed",
+        "Martí",
         "Biel",
         "Dylan",
         "Jordi",
         "Marc",
         "Markel",
-        "Mart\u00edn",
+        "Martín",
         "Julen"
       ],
       "last_names": [
-        "Garc\u00eda",
-        "Fern\u00e1ndez",
-        "Gonz\u00e1lez",
-        "Rodr\u00edguez",
-        "L\u00f3pez",
-        "Mart\u00ednez",
-        "S\u00e1nchez",
-        "P\u00e9rez",
-        "Mart\u00edn",
-        "G\u00f3mez"
+        "García",
+        "Fernández",
+        "González",
+        "Rodríguez",
+        "López",
+        "Martínez",
+        "Sánchez",
+        "Pérez",
+        "Martín",
+        "Gómez"
       ]
     },
     "angolan": {
@@ -330,7 +330,7 @@
         "Paulo",
         "Francisco",
         "Ana",
-        "Jo\u00e3o",
+        "João",
         "Fernando"
       ],
       "last_names": [
@@ -360,16 +360,16 @@
         "Liam"
       ],
       "last_names": [
-        "Gonz\u00e1lez",
-        "Rodr\u00edguez",
-        "Fern\u00e1ndez",
-        "Garc\u00eda",
-        "L\u00f3pez",
-        "Mart\u00ednez",
-        "P\u00e9rez",
-        "\u00c1lvarez",
-        "G\u00f3mez",
-        "S\u00e1nchez"
+        "González",
+        "Rodríguez",
+        "Fernández",
+        "García",
+        "López",
+        "Martínez",
+        "Pérez",
+        "Álvarez",
+        "Gómez",
+        "Sánchez"
       ]
     },
     "armenian": {
@@ -441,7 +441,7 @@
         "Huber",
         "Bauer",
         "Wagner",
-        "M\u00fcller",
+        "Müller",
         "Pichler",
         "Steiner",
         "Moser",
@@ -593,10 +593,10 @@
         "Viktor"
       ],
       "last_names": [
-        "Ivano\u016d",
-        "Kazlo\u016d",
-        "Kavalio\u016d",
-        "Kazlo\u016dski",
+        "Ivanoŭ",
+        "Kazloŭ",
+        "Kavalioŭ",
+        "Kazloŭski",
         "Novik",
         "Ivanov",
         "Petrov",
@@ -645,16 +645,16 @@
         "Manuel"
       ],
       "last_names": [
-        "L\u00f3pez",
-        "Garc\u00eda",
+        "López",
+        "García",
         "Morales",
-        "Hern\u00e1ndez",
-        "P\u00e9rez",
-        "Gonz\u00e1lez",
-        "Rodr\u00edguez",
-        "De Le\u00f3n",
-        "Ram\u00edrez",
-        "Mart\u00ednez"
+        "Hernández",
+        "Pérez",
+        "González",
+        "Rodríguez",
+        "De León",
+        "Ramírez",
+        "Martínez"
       ]
     },
     "beninese": {
@@ -686,9 +686,9 @@
     "bolivian": {
       "first_names": [
         "Juan Carlos",
-        "Jos\u00e9 Luis",
+        "José Luis",
         "Marco Antonio",
-        "Miguel \u00c1ngel",
+        "Miguel Ángel",
         "Juan",
         "Mario",
         "David",
@@ -716,23 +716,23 @@
         "Hamza",
         "Amar",
         "Adin",
-        "D\u017ean",
+        "Džan",
         "Daris",
         "Eman",
         "Harun",
         "Ali"
       ],
       "last_names": [
-        "Hod\u017ei\u0107",
-        "Had\u017ei\u0107",
-        "\u010cengi\u0107",
-        "Deli\u0107",
-        "Demirovi\u0107",
-        "Kova\u010devi\u0107",
-        "Tahirovi\u0107",
-        "Ferhatovi\u0107",
-        "Muratovi\u0107",
-        "Ibrahimovi\u0107"
+        "Hodžić",
+        "Hadžić",
+        "Čengić",
+        "Delić",
+        "Demirović",
+        "Kovačević",
+        "Tahirović",
+        "Ferhatović",
+        "Muratović",
+        "Ibrahimović"
       ]
     },
     "botswanan": {
@@ -763,9 +763,9 @@
     },
     "brazilian": {
       "first_names": [
-        "Jos\u00e9",
-        "Jo\u00e3o",
-        "Ant\u00f4nio",
+        "José",
+        "João",
+        "Antônio",
         "Francisco",
         "Carlos",
         "Paulo",
@@ -995,10 +995,10 @@
       "first_names": [
         "Francisco",
         "Afonso",
-        "Jo\u00e3o",
-        "Tom\u00e1s",
+        "João",
+        "Tomás",
         "Duarte",
-        "Louren\u00e7o",
+        "Lourenço",
         "Santiago",
         "Martim",
         "Miguel",
@@ -1049,59 +1049,59 @@
         "Gaspar",
         "Santiago",
         "Lucas",
-        "Benjam\u00edn",
+        "Benjamín",
         "Liam",
-        "Agust\u00edn",
+        "Agustín",
         "Vicente",
         "Maximiliano",
-        "Tom\u00e1s"
+        "Tomás"
       ],
       "last_names": [
-        "Gonz\u00e1lez",
-        "Mu\u00f1oz",
+        "González",
+        "Muñoz",
         "Rojas",
-        "D\u00edaz",
-        "P\u00e9rez",
+        "Díaz",
+        "Pérez",
         "Soto",
         "Contreras",
         "Silva",
-        "Mart\u00ednez",
-        "Sep\u00falveda"
+        "Martínez",
+        "Sepúlveda"
       ]
     },
     "chinese": {
       "first_names": [
-        "M\u00f9ch\u00e9n",
-        "H\u00e0oy\u01d4",
-        "M\u00edngz\u00e9",
-        "Y\u00ecch\u00e9n",
-        "Y\u01d4z\u00e9",
-        "H\u00e0or\u00e1n",
-        "Y\u00ecz\u00e9",
-        "Y\u01d4xu\u0101n",
-        "M\u00f9y\u00e1ng",
+        "Mùchén",
+        "Hàoyǔ",
+        "Míngzé",
+        "Yìchén",
+        "Yǔzé",
+        "Hàorán",
+        "Yìzé",
+        "Yǔxuān",
+        "Mùyáng",
         "Jack"
       ],
       "last_names": [
-        "W\u00e1ng",
+        "Wáng",
         "Wong",
-        "L\u01d0",
+        "Lǐ",
         "Lee",
-        "Zh\u0101ng",
+        "Zhāng",
         "Cheung",
-        "Li\u00fa",
+        "Liú",
         "Lau",
-        "Ch\u00e9n",
+        "Chén",
         "Chan"
       ]
     },
     "colombian": {
       "first_names": [
-        "Mat\u00edas",
-        "Jer\u00f3nimo",
-        "Ger\u00f3nimo",
+        "Matías",
+        "Jerónimo",
+        "Gerónimo",
         "Emiliano",
-        "Mart\u00edn",
+        "Martín",
         "Samuel",
         "Thiago",
         "Emmanuel",
@@ -1109,16 +1109,16 @@
         "Isaac"
       ],
       "last_names": [
-        "Rodr\u00edguez",
-        "G\u00f3mez",
-        "Gonz\u00e1lez",
-        "Mart\u00ednez",
-        "Garc\u00eda",
-        "L\u00f3pez",
-        "Hern\u00e1ndez",
-        "S\u00e1nchez",
-        "Ram\u00edrez",
-        "P\u00e9rez"
+        "Rodríguez",
+        "Gómez",
+        "González",
+        "Martínez",
+        "García",
+        "López",
+        "Hernández",
+        "Sánchez",
+        "Ramírez",
+        "Pérez"
       ]
     },
     "congolese": {
@@ -1161,16 +1161,16 @@
         "Mario"
       ],
       "last_names": [
-        "Hern\u00e1ndez",
+        "Hernández",
         "Mora",
-        "Rodr\u00edguez",
-        "Gonz\u00e1lez",
-        "Jim\u00e9nez",
+        "Rodríguez",
+        "González",
+        "Jiménez",
         "Morales",
-        "S\u00e1nchez",
-        "Ram\u00edrez",
-        "P\u00e9rez",
-        "Calder\u00f3n"
+        "Sánchez",
+        "Ramírez",
+        "Pérez",
+        "Calderón"
       ]
     },
     "croatian": {
@@ -1188,15 +1188,15 @@
       ],
       "last_names": [
         "Horvat",
-        "Kova\u010devi\u0107",
-        "Babi\u0107",
-        "Mari\u0107",
-        "Juri\u0107",
+        "Kovačević",
+        "Babić",
+        "Marić",
+        "Jurić",
         "Novak",
-        "Kova\u010di\u0107",
-        "Kne\u017eevi\u0107",
-        "Vukovi\u0107",
-        "Markovi\u0107"
+        "Kovačić",
+        "Knežević",
+        "Vuković",
+        "Marković"
       ]
     },
     "cuban": {
@@ -1213,16 +1213,16 @@
         "Rafael"
       ],
       "last_names": [
-        "Rodr\u00edguez",
-        "P\u00e9rez",
+        "Rodríguez",
+        "Pérez",
         "Martinez",
-        "Garc\u00eda",
+        "García",
         "Reyes",
-        "S\u00e1nchez",
-        "D\u00edaz",
-        "Pe\u00f1a",
-        "Jim\u00e9nez",
-        "Ram\u00edrez"
+        "Sánchez",
+        "Díaz",
+        "Peña",
+        "Jiménez",
+        "Ramírez"
       ]
     },
     "cypriot": {
@@ -1255,26 +1255,26 @@
       "first_names": [
         "Jakub",
         "Jan",
-        "Tom\u00e1\u0161",
-        "Maty\u00e1\u0161",
+        "Tomáš",
+        "Matyáš",
         "Adam",
         "Filip",
-        "Vojt\u011bch",
-        "Luk\u00e1\u0161",
+        "Vojtěch",
+        "Lukáš",
         "Martin",
-        "Mat\u011bj"
+        "Matěj"
       ],
       "last_names": [
-        "Nov\u00e1k",
-        "Nov\u00e1kov\u00e1",
+        "Novák",
+        "Nováková",
         "Svoboda",
-        "Svobodov\u00e1",
-        "Novotn\u00fd",
-        "Novotn\u00e1",
-        "Dvo\u0159\u00e1k",
-        "Dvo\u0159\u00e1kov\u00e1",
-        "\u010cern\u00fd",
-        "\u010cern\u00e1"
+        "Svobodová",
+        "Novotný",
+        "Novotná",
+        "Dvořák",
+        "Dvořáková",
+        "Černý",
+        "Černá"
       ]
     },
     "danish": {
@@ -1297,9 +1297,9 @@
         "Andersen",
         "Christensen",
         "Larsen",
-        "S\u00f8rensen",
+        "Sørensen",
         "Rasmussen",
-        "J\u00f8rgensen"
+        "Jørgensen"
       ]
     },
     "dominican": {
@@ -1316,16 +1316,16 @@
         "Rafael"
       ],
       "last_names": [
-        "Rodr\u00edguez",
-        "P\u00e9rez",
+        "Rodríguez",
+        "Pérez",
         "Martinez",
-        "Garc\u00eda",
+        "García",
         "Reyes",
-        "S\u00e1nchez",
-        "D\u00edaz",
-        "Pe\u00f1a",
-        "Jim\u00e9nez",
-        "Ram\u00edrez"
+        "Sánchez",
+        "Díaz",
+        "Peña",
+        "Jiménez",
+        "Ramírez"
       ]
     },
     "dutch": {
@@ -1359,13 +1359,13 @@
         "Liam",
         "Thiago",
         "Dylan",
-        "Jos\u00e9",
+        "José",
         "Ian",
         "Carlos",
         "Juan",
         "Luis",
         "Gael",
-        "\u00c1ngel"
+        "Ángel"
       ],
       "last_names": [
         "Zambrano",
@@ -1476,7 +1476,7 @@
         "Tamm",
         "Saar",
         "Sepp",
-        "M\u00e4gi",
+        "Mägi",
         "Smirnov",
         "Vassiljev",
         "Petrov",
@@ -1565,7 +1565,7 @@
     "finnish": {
       "first_names": [
         "Leo",
-        "V\u00e4in\u00f6",
+        "Väinö",
         "Eino",
         "Oliver",
         "Elias",
@@ -1578,24 +1578,24 @@
       "last_names": [
         "Korhonen",
         "Virtanen",
-        "M\u00e4kinen",
+        "Mäkinen",
         "Nieminen",
-        "M\u00e4kel\u00e4",
-        "H\u00e4m\u00e4l\u00e4inen",
+        "Mäkelä",
+        "Hämäläinen",
         "Laine",
         "Heikkinen",
         "Koskinen",
-        "J\u00e4rvinen"
+        "Järvinen"
       ]
     },
     "french": {
       "first_names": [
-        "L\u00e9o",
+        "Léo",
         "Gabriel",
-        "Rapha\u00ebl",
+        "Raphaël",
         "Arthur",
         "Louis",
-        "Ma\u00ebl",
+        "Maël",
         "Lucas",
         "Adam",
         "Tiago",
@@ -1654,7 +1654,7 @@
         "Ben"
       ],
       "last_names": [
-        "M\u00fcller",
+        "Müller",
         "Schmidt",
         "Schneider",
         "Fischer",
@@ -1758,16 +1758,16 @@
         "Manuel"
       ],
       "last_names": [
-        "L\u00f3pez",
-        "Garc\u00eda",
+        "López",
+        "García",
         "Morales",
-        "Hern\u00e1ndez",
-        "P\u00e9rez",
-        "Gonz\u00e1lez",
-        "Rodr\u00edguez",
-        "De Le\u00f3n",
-        "Ram\u00edrez",
-        "Mart\u00ednez"
+        "Hernández",
+        "Pérez",
+        "González",
+        "Rodríguez",
+        "De León",
+        "Ramírez",
+        "Martínez"
       ]
     },
     "guyanese": {
@@ -1877,50 +1877,50 @@
     "hungarian": {
       "first_names": [
         "Levente",
-        "M\u00e1t\u00e9",
+        "Máté",
         "Dominik",
         "Bence",
-        "Oliv\u00e9r",
+        "Olivér",
         "Noel",
         "Marcell",
-        "D\u00e1niel",
-        "Zal\u00e1n",
-        "\u00c1d\u00e1m"
+        "Dániel",
+        "Zalán",
+        "Ádám"
       ],
       "last_names": [
         "Nagy",
-        "Kov\u00e1cs",
-        "T\u00f3th",
-        "Szab\u00f3",
-        "Horv\u00e1th",
+        "Kovács",
+        "Tóth",
+        "Szabó",
+        "Horváth",
         "Varga",
         "Kiss",
-        "Moln\u00e1r",
-        "N\u00e9meth",
+        "Molnár",
+        "Németh",
         "Farkas"
       ]
     },
     "icelandic": {
       "first_names": [
         "Aron",
-        "J\u00f6kull",
+        "Jökull",
         "Alexander",
-        "K\u00e1ri",
+        "Kári",
         "Emil",
-        "J\u00f3n",
-        "\u00d3liver",
-        "Matth\u00edas",
+        "Jón",
+        "Óliver",
+        "Matthías",
         "Mikael",
         "Atlas"
       ],
       "last_names": [
-        "Bl\u00f6ndal",
+        "Blöndal",
         "Thorarensen",
         "Hansen",
         "Olsen",
         "Andersen",
         "Petersen",
-        "M\u00f6ller",
+        "Möller",
         "Nielsen",
         "Waage",
         "Bergmann"
@@ -2001,7 +2001,7 @@
         "Gh",
         "Jafari",
         "Rahimi",
-        "Nov\u00e1k"
+        "Novák"
       ]
     },
     "iraqi": {
@@ -2035,9 +2035,9 @@
         "Jack",
         "Noah",
         "James",
-        "R\u00edan",
+        "Rían",
         "Charlie",
-        "Ois\u00edn",
+        "Oisín",
         "Tadhg",
         "Liam",
         "Cillian",
@@ -2160,7 +2160,7 @@
     "japanese": {
       "first_names": [
         "Aoi",
-        "S\u014d",
+        "Sō",
         "Ao",
         "Nagi",
         "Nagisa",
@@ -2168,17 +2168,17 @@
         "Haruto",
         "Hinato",
         "Minato",
-        "S\u014dma"
+        "Sōma"
       ],
       "last_names": [
-        "Sat\u014d",
+        "Satō",
         "Suzuki",
         "Takahashi",
         "Tanaka",
         "Watanabe",
-        "It\u014d",
+        "Itō",
         "Yamamoto",
-        "Kat\u014d"
+        "Katō"
       ]
     },
     "jordanian": {
@@ -2290,25 +2290,25 @@
         "Marks",
         "Roberts",
         "Gustavs",
-        "J\u0113kabs",
-        "Em\u012bls",
-        "K\u0101rlis",
+        "Jēkabs",
+        "Emīls",
+        "Kārlis",
         "Adrians",
         "Daniels",
         "Ralfs",
         "Markas"
       ],
       "last_names": [
-        "B\u0113rzi\u0146\u0161",
-        "Kalni\u0146\u0161",
-        "Ozoli\u0146\u0161",
+        "Bērziņš",
+        "Kalniņš",
+        "Ozoliņš",
         "Jansons",
         "Ozols",
-        "Liepi\u0146\u0161",
-        "Kr\u016bmi\u0146\u0161",
+        "Liepiņš",
+        "Krūmiņš",
         "Balodis",
-        "Egl\u012btis",
-        "Zari\u0146\u0161"
+        "Eglītis",
+        "Zariņš"
       ]
     },
     "lebanese": {
@@ -2403,7 +2403,7 @@
         "Mattia"
       ],
       "last_names": [
-        "M\u00fcller",
+        "Müller",
         "Meier",
         "Schmid",
         "Keller",
@@ -2419,7 +2419,7 @@
       "first_names": [
         "Markas",
         "Benas",
-        "Jok\u016bbas",
+        "Jokūbas",
         "Dominykas",
         "Herkus",
         "Lukas",
@@ -2430,15 +2430,15 @@
       ],
       "last_names": [
         "Kazlauskas",
-        "Kazlauskien\u0117",
+        "Kazlauskienė",
         "Jankauskas",
-        "Jankauskien\u0117",
+        "Jankauskienė",
         "Petrauskas",
-        "Petrauskien\u0117",
-        "Stankevi\u010dius",
-        "Stankevi\u010dien\u0117",
+        "Petrauskienė",
+        "Stankevičius",
+        "Stankevičienė",
         "Vasiliauskas",
-        "Vasiliauskien\u0117"
+        "Vasiliauskienė"
       ]
     },
     "luxembourgish": {
@@ -2549,25 +2549,25 @@
       "first_names": [
         "Santiago",
         "Mateo",
-        "Sebasti\u00e1n",
+        "Sebastián",
         "Leordo",
-        "Mat\u00edas",
+        "Matías",
         "Emiliano",
         "Diego",
         "Daniel",
-        "Miguel \u00c1ngel",
+        "Miguel Ángel",
         "Alexander"
       ],
       "last_names": [
-        "Hern\u00e1ndez",
-        "Garc\u00eda",
-        "Mart\u00ednez",
-        "Gonz\u00e1lez",
-        "L\u00f3pez",
-        "Rodr\u00edguez",
-        "P\u00e9rez",
-        "S\u00e1nchez",
-        "Ram\u00edrez",
+        "Hernández",
+        "García",
+        "Martínez",
+        "González",
+        "López",
+        "Rodríguez",
+        "Pérez",
+        "Sánchez",
+        "Ramírez",
         "Flores"
       ]
     },
@@ -2588,9 +2588,9 @@
         "Rusu",
         "Ceban",
         "Ciobanu",
-        "\u021aurcan",
+        "Țurcan",
         "Cebotari",
-        "S\u00eerbu",
+        "Sîrbu",
         "Lungu",
         "Munteanu",
         "Rotari",
@@ -2601,12 +2601,12 @@
       "first_names": [
         "Leonardo",
         "Gabriel",
-        "Rapha\u00ebl",
+        "Raphaël",
         "Aaron",
         "Louis",
-        "L\u00e9o",
+        "Léo",
         "Arthur",
-        "Ma\u00ebl",
+        "Maël",
         "Lucas",
         "Adam"
       ],
@@ -2663,16 +2663,16 @@
         "Jovan"
       ],
       "last_names": [
-        "Popovi\u0107",
-        "Markovi\u0107",
-        "Vujovi\u0107",
-        "Radovi\u0107",
-        "Ivanovi\u0107",
-        "Radulovi\u0107",
-        "Jovanovi\u0107",
-        "Perovi\u0107",
-        "Vukovi\u0107",
-        "Kova\u010devi\u0107"
+        "Popović",
+        "Marković",
+        "Vujović",
+        "Radović",
+        "Ivanović",
+        "Radulović",
+        "Jovanović",
+        "Perović",
+        "Vuković",
+        "Kovačević"
       ]
     },
     "moroccan": {
@@ -2680,10 +2680,10 @@
         "Mohamed",
         "Amir",
         "Ibrahim",
-        "Na\u00efm",
+        "Naïm",
         "Ayoub",
         "Youssef",
-        "Youn\u00e8s",
+        "Younès",
         "Wassim",
         "Ali",
         "Amine"
@@ -2819,16 +2819,16 @@
         "Mario"
       ],
       "last_names": [
-        "Hern\u00e1ndez",
+        "Hernández",
         "Mora",
-        "Rodr\u00edguez",
-        "Gonz\u00e1lez",
-        "Jim\u00e9nez",
+        "Rodríguez",
+        "González",
+        "Jiménez",
         "Morales",
-        "S\u00e1nchez",
-        "Ram\u00edrez",
-        "P\u00e9rez",
-        "Calder\u00f3n"
+        "Sánchez",
+        "Ramírez",
+        "Pérez",
+        "Calderón"
       ]
     },
     "nigerian": {
@@ -2938,7 +2938,7 @@
     "panamanian": {
       "first_names": [
         "Thiago",
-        "Mat\u00edas",
+        "Matías",
         "Ian",
         "Lucas",
         "Dylan",
@@ -2963,28 +2963,28 @@
     },
     "paraguayan": {
       "first_names": [
-        "Ram\u00f3n",
+        "Ramón",
         "Juan",
-        "Jos\u00e9",
+        "José",
         "Antonio",
         "Carlos",
         "Daniel",
         "Luis",
         "Javier",
         "David",
-        "C\u00e9sar"
+        "César"
       ],
       "last_names": [
-        "Gonz\u00e1lez",
-        "Ben\u00edtez",
-        "Mart\u00ednez",
-        "L\u00f3pez",
-        "Gim\u00e9nez",
+        "González",
+        "Benítez",
+        "Martínez",
+        "López",
+        "Giménez",
         "Vera",
         "Duarte",
-        "Ram\u00edrez",
+        "Ramírez",
         "Villalba",
-        "Fern\u00e1ndez"
+        "Fernández"
       ]
     },
     "peruvian": {
@@ -3003,13 +3003,13 @@
       "last_names": [
         "Quispe",
         "Flores",
-        "S\u00e1nchez",
-        "Rodr\u00edguez",
-        "Garc\u00eda",
+        "Sánchez",
+        "Rodríguez",
+        "García",
         "Rojas",
-        "Gonz\u00e1lez",
-        "D\u00edaz",
-        "Ch\u00e1vez",
+        "González",
+        "Díaz",
+        "Chávez",
         "Torres"
       ]
     },
@@ -3022,31 +3022,31 @@
         "Nikodem",
         "Jakub",
         "Leon",
-        "Stanis\u0142aw",
-        "Miko\u0142aj",
+        "Stanisław",
+        "Mikołaj",
         "Szymon"
       ],
       "last_names": [
         "Nowak",
         "Kowalski",
-        "Wi\u015bniewski",
-        "W\u00f3jcik",
+        "Wiśniewski",
+        "Wójcik",
         "Kowalczyk",
-        "Kami\u0144ski",
+        "Kamiński",
         "Lewandowski",
-        "Zieli\u0144ski",
-        "Szyma\u0144ski",
-        "Wo\u017aniak"
+        "Zieliński",
+        "Szymański",
+        "Woźniak"
       ]
     },
     "portuguese": {
       "first_names": [
         "Francisco",
         "Afonso",
-        "Jo\u00e3o",
-        "Tom\u00e1s",
+        "João",
+        "Tomás",
         "Duarte",
-        "Louren\u00e7o",
+        "Lourenço",
         "Santiago",
         "Martim",
         "Miguel",
@@ -3312,16 +3312,16 @@
         "Danijel"
       ],
       "last_names": [
-        "Jovanovi\u0107",
-        "Petrovi\u0107",
-        "Nikoli\u0107",
-        "Markovi\u0107",
-        "\u0110or\u0111evi\u0107",
-        "Stojanovi\u0107",
-        "Ili\u0107",
-        "Stankovi\u0107",
-        "Pavlovi\u0107",
-        "Milo\u0161evi\u0107"
+        "Jovanović",
+        "Petrović",
+        "Nikolić",
+        "Marković",
+        "Đorđević",
+        "Stojanović",
+        "Ilić",
+        "Stanković",
+        "Pavlović",
+        "Milošević"
       ]
     },
     "singaporean": {
@@ -3358,22 +3358,22 @@
         "Michal",
         "Oliver",
         "Filip",
-        "Tom\u00e1\u0161",
+        "Tomáš",
         "Martin",
         "Matej",
         "Richard"
       ],
       "last_names": [
-        "Horv\u00e1th",
-        "Kov\u00e1\u010d",
+        "Horváth",
+        "Kováč",
         "Varga",
-        "T\u00f3th",
+        "Tóth",
         "Nagy",
-        "Bal\u00e1\u017e",
-        "Szab\u00f3",
-        "Moln\u00e1r",
+        "Baláž",
+        "Szabó",
+        "Molnár",
         "Balog",
-        "Luk\u00e1\u010d"
+        "Lukáč"
       ]
     },
     "slovenian": {
@@ -3392,11 +3392,11 @@
       "last_names": [
         "Novak",
         "Horvat",
-        "Kova\u010di\u010d",
+        "Kovačič",
         "Krajnc",
-        "Zupan\u010di\u010d",
-        "Poto\u010dnik",
-        "Kova\u010d",
+        "Zupančič",
+        "Potočnik",
+        "Kovač",
         "Mlakar",
         "Kos",
         "Vidmar"
@@ -3457,7 +3457,7 @@
     "spanish": {
       "first_names": [
         "Markel",
-        "Mart\u00edn",
+        "Martín",
         "Julen",
         "Oihan",
         "Jon",
@@ -3468,16 +3468,16 @@
         "Danel"
       ],
       "last_names": [
-        "Garc\u00eda",
-        "Fern\u00e1ndez",
-        "Gonz\u00e1lez",
-        "Rodr\u00edguez",
-        "L\u00f3pez",
-        "Mart\u00ednez",
-        "S\u00e1nchez",
-        "P\u00e9rez",
-        "Mart\u00edn",
-        "G\u00f3mez"
+        "García",
+        "Fernández",
+        "González",
+        "Rodríguez",
+        "López",
+        "Martínez",
+        "Sánchez",
+        "Pérez",
+        "Martín",
+        "Gómez"
       ]
     },
     "sri_lankan": {
@@ -3546,7 +3546,7 @@
         "Nino"
       ],
       "last_names": [
-        "M\u00fcller",
+        "Müller",
         "Meier",
         "Schmid",
         "Keller",
@@ -3598,14 +3598,14 @@
         "Chih-chiang"
       ],
       "last_names": [
-        "Ch\u00e9n",
+        "Chén",
         "Ch'en",
         "Can",
         "Chan",
         "Chun",
-        "T\u00e2n",
+        "Tân",
         "Ting",
-        "L\u00edn",
+        "Lín",
         "Lin",
         "Lam"
       ]
@@ -3720,24 +3720,24 @@
         "Mustafa",
         "Ahmet",
         "Ali",
-        "H\u00fcseyin",
+        "Hüseyin",
         "Hasan",
         "Ibrahim",
-        "\u0130smail",
+        "İsmail",
         "Osman",
         "Yusuf"
       ],
       "last_names": [
-        "Y\u0131lmaz",
+        "Yılmaz",
         "Kaya",
         "Demir",
-        "\u015eahin",
-        "\u00c7elik",
-        "Y\u0131ld\u0131z",
-        "Y\u0131ld\u0131r\u0131m",
-        "\u00d6zt\u00fcrk",
-        "Ayd\u0131n",
-        "\u00d6zdemir"
+        "Şahin",
+        "Çelik",
+        "Yıldız",
+        "Yıldırım",
+        "Öztürk",
+        "Aydın",
+        "Özdemir"
       ]
     },
     "ugandan": {
@@ -3795,7 +3795,7 @@
     "uruguayan": {
       "first_names": [
         "Juan",
-        "Benjam\u00edn",
+        "Benjamín",
         "Mateo",
         "Carlos",
         "Daniel",
@@ -3846,7 +3846,7 @@
     },
     "venezuelan": {
       "first_names": [
-        "Sebasti\u00e1n",
+        "Sebastián",
         "Santiago",
         "Samuel",
         "Diego",
@@ -3855,7 +3855,7 @@
         "Diego Alejandro",
         "Daniel Alejandro",
         "David",
-        "Juan Andr\u00e9s"
+        "Juan Andrés"
       ],
       "last_names": [
         "Guillen",
@@ -3884,16 +3884,14 @@
         "Rithy"
       ],
       "last_names": [
-        "Nguy\u1ec5n",
-        "Tr\u1ea7n",
-        "L\u00ea",
-        "Ph\u1ea1m",
-        "Hu\u1ef3nh/Ho\u00e0ng",
+        "Nguyễn",
+        "Trần",
+        "Lê",
+        "Phạm",
         "Phan",
-        "V\u0169/V\u00f5",
-        "\u0110\u1eb7ng",
-        "B\u00f9i",
-        "\u0110\u1ed7"
+        "Đặng",
+        "Bùi",
+        "Đỗ"
       ]
     },
     "welsh": {
