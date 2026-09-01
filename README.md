@@ -6,7 +6,7 @@
 
 
 <P>
-<b>Mod Summary</b>
+<b>Mod Summary</b> (pending update)
 
 </P>
 Updated drivers (main + junior series pool) with full attribute/trait profiles
