@@ -6,7 +6,7 @@
 
 
 <P>
-<b>Mod Summary</b>
+<b>Mod Summary </b>
 </P>
 198 drivers (F1, F2, F3, reserves, free agents and a junior pool) with full attribute/trait profiles
 <BR>
