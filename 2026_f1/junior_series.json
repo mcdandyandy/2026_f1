@@ -298,8 +298,7 @@
         "quality": 10,
         "drivers": [
           "Louis Sharp",
-          "James Wharton",
-          "Jose Garfias"
+          "James Wharton"
         ]
       },
       {
@@ -317,8 +316,7 @@
         "quality": 9,
         "drivers": [
           "Taito Kato",
-          "Maciej Gladysz",
-          "Kanato Le"
+          "Maciej Gladysz"
         ]
       },
       {
@@ -336,8 +334,7 @@
         "quality": 8,
         "drivers": [
           "Michael Shin",
-          "Fionn McLaughlin",
-          "Jin Nakamura"
+          "Fionn McLaughlin"
         ]
       },
       {
@@ -354,7 +351,6 @@
         ],
         "quality": 7,
         "drivers": [
-          "Noah Stromsted",
           "Freddie Slater",
           "Matteo De Palo"
         ]
@@ -374,8 +370,7 @@
         "quality": 7,
         "drivers": [
           "Mattia Colnaghi",
-          "Tuukka Taponen",
-          "Alessandro Giusti"
+          "Tuukka Taponen"
         ]
       },
       {
@@ -390,7 +385,11 @@
           0,
           0
         ],
-        "quality": 6
+        "quality": 6,
+        "drivers": [
+          "Noah Stromsted",
+          "Hiyu Yamakoshi"
+        ]
       },
       {
         "name": "Van Amersfoort Racing",
@@ -406,7 +405,6 @@
         ],
         "quality": 5,
         "drivers": [
-          "Hiyu Yamakoshi",
           "Enzo Deligny",
           "Bruno del Pino"
         ]
@@ -426,8 +424,7 @@
         "quality": 5,
         "drivers": [
           "Theophile Nael",
-          "Ugo Ugochukwu",
-          "Patrick Heuzenroeder"
+          "Ugo Ugochukwu"
         ]
       },
       {
@@ -442,7 +439,11 @@
           255,
           255
         ],
-        "quality": 4
+        "quality": 4,
+        "drivers": [
+          "Jose Garfias",
+          "Kanato Le"
+        ]
       }
     ],
     "schedule": [

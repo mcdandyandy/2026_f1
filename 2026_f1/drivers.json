@@ -51,7 +51,7 @@
       "status": "second",
       "priority": "second"
     },
-    "age": 20,
+    "age": 21,
     "history": {
       "seasons": 1,
       "championships": 0,
@@ -156,7 +156,7 @@
       "status": "first",
       "priority": "first"
     },
-    "age": 27,
+    "age": 28,
     "history": {
       "seasons": 7,
       "championships": 0,
@@ -368,7 +368,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 27,
+    "age": 22,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -403,7 +403,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 29,
+    "age": 30,
     "history": {
       "seasons": 9,
       "championships": 0,
@@ -438,7 +438,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 28,
+    "age": 29,
     "history": {
       "seasons": 6,
       "championships": 0,
@@ -473,7 +473,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 30,
+    "age": 31,
     "history": {
       "seasons": 11,
       "championships": 0,
@@ -509,7 +509,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 31,
+    "age": 29,
     "history": {
       "seasons": 9,
       "championships": 0,
@@ -545,7 +545,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 19,
+    "age": 20,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -580,7 +580,7 @@
       "status": "first",
       "priority": "first"
     },
-    "age": 23,
+    "age": 24,
     "history": {
       "seasons": 3,
       "championships": 0,
@@ -616,7 +616,7 @@
       "status": "second",
       "priority": "second"
     },
-    "age": 19,
+    "age": 18,
     "history": {
       "seasons": 0,
       "championships": 0,
@@ -686,7 +686,7 @@
       "status": "equal",
       "priority": "equal"
     },
-    "age": 23,
+    "age": 21,
     "history": {
       "seasons": 1,
       "championships": 0,
@@ -888,7 +888,7 @@
     "consistency": 14,
     "smoothness": 13,
     "control": 12,
-    "age": 20,
+    "age": 21,
     "history": {
       "seasons": 1,
       "championships": 0,
@@ -957,7 +957,7 @@
     "consistency": 15,
     "smoothness": 14,
     "control": 15,
-    "age": 22,
+    "age": 23,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -1028,7 +1028,7 @@
     "consistency": 14,
     "smoothness": 15,
     "control": 14,
-    "age": 23,
+    "age": 24,
     "history": {
       "seasons": 1,
       "championships": 0,
@@ -1110,7 +1110,7 @@
     "consistency": 13,
     "smoothness": 14,
     "control": 14,
-    "age": 30,
+    "age": 32,
     "history": {
       "seasons": 6,
       "championships": 0,
@@ -2896,7 +2896,7 @@
     "consistency": 13,
     "smoothness": 14,
     "control": 13,
-    "age": 23,
+    "age": 26,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -2930,7 +2930,7 @@
     "consistency": 14,
     "smoothness": 13,
     "control": 15,
-    "age": 20,
+    "age": 22,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -2964,7 +2964,7 @@
     "consistency": 13,
     "smoothness": 13,
     "control": 13,
-    "age": 22,
+    "age": 25,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -3132,7 +3132,7 @@
     "consistency": 13,
     "smoothness": 14,
     "control": 15,
-    "age": 34,
+    "age": 31,
     "history": {
       "seasons": 10,
       "championships": 0,
@@ -3166,7 +3166,7 @@
     "consistency": 13,
     "smoothness": 12,
     "control": 13,
-    "age": 22,
+    "age": 24,
     "history": {
       "seasons": 1,
       "championships": 0,
@@ -3200,7 +3200,7 @@
     "consistency": 14,
     "smoothness": 16,
     "control": 14,
-    "age": 28,
+    "age": 29,
     "history": {
       "seasons": 4,
       "championships": 0,
@@ -3234,7 +3234,7 @@
     "consistency": 12,
     "smoothness": 12,
     "control": 13,
-    "age": 23,
+    "age": 24,
     "history": {
       "seasons": 2,
       "championships": 0,
@@ -3268,7 +3268,7 @@
     "consistency": 13,
     "smoothness": 13,
     "control": 12,
-    "age": 20,
+    "age": 22,
     "history": {
       "seasons": 1,
       "championships": 0,
@@ -4402,7 +4402,7 @@
       "podiums": 32,
       "poles": 3
     },
-    "age": 37,
+    "age": 36,
     "talent": 82,
     "traits": [],
     "personality": "ambitious",
@@ -4434,7 +4434,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 27,
+    "age": 26,
     "talent": 74,
     "traits": [],
     "personality": "ambitious",
@@ -4530,7 +4530,7 @@
       "podiums": 3,
       "poles": 0
     },
-    "age": 32,
+    "age": 31,
     "talent": 71,
     "traits": [],
     "personality": "ambitious",
@@ -4594,7 +4594,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 26,
+    "age": 25,
     "talent": 74,
     "traits": [],
     "personality": "ambitious",
@@ -4658,7 +4658,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 33,
+    "age": 35,
     "talent": 68,
     "traits": [],
     "personality": "ambitious",
@@ -4787,7 +4787,7 @@
       "podiums": 10,
       "poles": 0
     },
-    "age": 40,
+    "age": 39,
     "talent": 72,
     "traits": [],
     "personality": "ambitious",
@@ -4819,7 +4819,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 36,
+    "age": 35,
     "talent": 68,
     "traits": [],
     "personality": "ambitious",
@@ -5011,7 +5011,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 29,
+    "age": 30,
     "talent": 76,
     "traits": [],
     "personality": "ambitious",
@@ -5075,7 +5075,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 34,
+    "age": 33,
     "talent": 75,
     "traits": [],
     "personality": "ambitious",
@@ -5439,7 +5439,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 29,
+    "age": 28,
     "talent": 70,
     "traits": [],
     "personality": "ambitious",
@@ -5471,7 +5471,7 @@
       "podiums": 0,
       "poles": 0
     },
-    "age": 33,
+    "age": 37,
     "talent": 72,
     "traits": [],
     "personality": "ambitious",
