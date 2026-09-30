@@ -120,7 +120,7 @@
     "contract": {
       "team": "Haas F1",
       "length_weeks": 52,
-      "salary_m": 17.0,
+      "salary_m": 5.5,
       "start_week": 1
     },
     "talent": {
@@ -1405,7 +1405,7 @@
     "name": "Nick Chester",
     "role": "technical_director",
     "team": "Cadillac",
-    "skill": 14,
+    "skill": 15,
     "age": 52,
     "contract": {
       "team": "Cadillac",
@@ -1414,12 +1414,12 @@
       "start_week": 1
     },
     "talent": {
-      "skill": 12,
+      "skill": 15,
       "efficiency": 10,
       "weight_mgmt": 14
     },
     "skills": {
-      "skill": 14,
+      "skill": 15,
       "efficiency": 9,
       "weight_mgmt": 9
     },
@@ -1549,7 +1549,7 @@
     "name": "James Key",
     "role": "technical_director",
     "team": "Audi",
-    "skill": 14,
+    "skill": 16,
     "age": 54,
     "contract": {
       "team": "Audi",
@@ -1558,12 +1558,12 @@
       "start_week": 1
     },
     "talent": {
-      "skill": 12,
+      "skill": 16,
       "efficiency": 10,
       "weight_mgmt": 10
     },
     "skills": {
-      "skill": 14,
+      "skill": 16,
       "efficiency": 10,
       "weight_mgmt": 10
     },
@@ -1597,7 +1597,7 @@
     "name": "Pat Fry",
     "role": "technical_director",
     "team": "Williams Racing",
-    "skill": 15,
+    "skill": 16,
     "age": 57,
     "contract": {
       "team": "Williams Racing",
@@ -1606,12 +1606,12 @@
       "start_week": 1
     },
     "talent": {
-      "skill": 17,
+      "skill": 16,
       "efficiency": 15,
       "weight_mgmt": 19
     },
     "skills": {
-      "skill": 15,
+      "skill": 16,
       "efficiency": 14,
       "weight_mgmt": 14
     },
@@ -1833,7 +1833,7 @@
     "name": "Peter Prodromou",
     "role": "head_of_aero",
     "team": "McLaren",
-    "skill": 16,
+    "skill": 17,
     "age": 56,
     "contract": {
       "team": "McLaren",
