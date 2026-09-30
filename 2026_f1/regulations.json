@@ -266,7 +266,7 @@
           "key": "modern_relaxation",
           "name": "Modern Relaxation",
           "banned_aids": [],
-          "weight": 0.08,
+          "weight": 0.03,
           "summary": "Electronics arms race allowed; no driver aids are banned.",
           "description": "The FIA opens the rulebook to innovation, permitting all driver assistance technologies to remain on the cars."
         },
@@ -379,21 +379,21 @@
           "key": "none",
           "name": "No Safety Cars",
           "safety_car_mode": "none",
-          "weight": 0.15,
+          "weight": 0.03,
           "summary": "Race control never deploys a physical or virtual safety car."
         },
         {
           "key": "physical_only",
           "name": "Physical Safety Cars",
           "safety_car_mode": "physical_only",
-          "weight": 0.35,
+          "weight": 0.27,
           "summary": "Only the physical safety car may neutralize a race."
         },
         {
           "key": "all_types",
           "name": "All Safety Car Types",
           "safety_car_mode": "all_types",
-          "weight": 0.5,
+          "weight": 0.7,
           "summary": "Race control may deploy either a physical or virtual safety car."
         }
       ]
@@ -402,21 +402,38 @@
       "key": "ers_policy",
       "label": "ERS Deployment",
       "change_chance": 0.06,
-      "default": "enabled",
+      "default": "spec",
       "options": [
         {
-          "key": "enabled",
-          "name": "ERS Enabled",
+          "key": "spec",
+          "name": "Spec ERS",
           "ers_enabled": true,
-          "weight": 0.85,
+          "ers_mode": "spec",
+          "weight": 0.8,
           "summary": "Standardized battery deployment and harvest systems are legal.",
           "description": "Cars may use a regulated electrical deployment system that harvests under braking and assists acceleration out of slower zones."
+        },
+        {
+          "key": "open_development",
+          "name": "Open ERS Development",
+          "ers_enabled": true,
+          "ers_mode": "open",
+          "open_development": true,
+          "capacity_cap_mj": 8.0,
+          "deploy_mj_efficiency": 0.5,
+          "harvest_mj_efficiency": 1.5,
+          "acceleration_multiplier": 2.5,
+          "reliability": 100,
+          "weight": 0.15,
+          "summary": "Teams may develop and manufacture their own ERS units within legal limits.",
+          "description": "ERS remains legal, but battery capacity, deployment efficiency, harvesting, power output, and reliability are open for team development."
         },
         {
           "key": "disabled",
           "name": "ERS Disabled",
           "ers_enabled": false,
-          "weight": 0.15,
+          "ers_mode": "banned",
+          "weight": 0.05,
           "summary": "No battery deployment is allowed in race sessions.",
           "description": "The governing body bans electrical deployment, leaving cars to rely on combustion power alone."
         }
@@ -443,7 +460,7 @@
             2,
             1
           ],
-          "weight": 0.4,
+          "weight": 0.6,
           "summary": "Top 10 scoring (25-18-15-12-10-8-6-4-2-1).",
           "description": "The familiar ten-place scoring table remains in use, rewarding consistency through the field."
         },
@@ -464,7 +481,7 @@
             2,
             1
           ],
-          "weight": 0.5,
+          "weight": 0.3,
           "summary": "Extended scoring to 12th place (25 down to 1).",
           "description": "An expanded table keeps midfield battles meaningful deep into the order."
         },
@@ -490,20 +507,20 @@
     {
       "key": "qualifying_format",
       "label": "Qualifying Format",
-      "change_chance": 0.2,
+      "change_chance": 0.08,
       "default": "knockout",
       "options": [
         {
           "key": "session_60",
           "name": "60 Minute Qualifying",
-          "weight": 0.5,
+          "weight": 0.15,
           "summary": "Single 60-minute session sets the grid.",
           "description": "All drivers run in one continuous hour, with best laps determining the starting order."
         },
         {
           "key": "knockout",
           "name": "Knockout Qualifying",
-          "weight": 0.5,
+          "weight": 0.85,
           "summary": "Three-stage Q1/Q2/Q3 knockout format.",
           "description": "Drivers are eliminated across Q1 and Q2, with Q3 deciding the top 10 positions."
         }
@@ -582,13 +599,13 @@
       "key": "private_testing_limits",
       "label": "Private Testing Limits",
       "change_chance": 0.1,
-      "default": "generous",
+      "default": "strict",
       "options": [
         {
           "key": "none",
           "name": "No Testing Limits",
           "lap_limit": null,
-          "weight": 0.25,
+          "weight": 0.08,
           "summary": "Teams may run unlimited private test laps, constrained only by budget.",
           "description": "No restrictions apply to private testing programmes."
         },
@@ -596,7 +613,7 @@
           "key": "generous",
           "name": "Generous Testing Limits",
           "lap_limit": 1000,
-          "weight": 0.55,
+          "weight": 0.37,
           "summary": "Teams may run up to 1,000 private test laps per season.",
           "description": "A permissive lap cap keeps costs in check while still allowing meaningful development work."
         },
@@ -604,7 +621,7 @@
           "key": "strict",
           "name": "Strict Testing Limits",
           "lap_limit": 250,
-          "weight": 0.35,
+          "weight": 0.55,
           "summary": "Teams may run up to 250 private test laps per season.",
           "description": "A tight lap cap forces teams to be strategic about private testing."
         }
@@ -658,7 +675,7 @@
       "key": "weekend_tyre_allocation",
       "label": "Weekend Tyre Allocation",
       "change_chance": 0.2,
-      "default": "light",
+      "default": "standard",
       "options": [
         {
           "key": "unlimited",
@@ -666,7 +683,7 @@
           "dry_sets_per_driver": null,
           "intermediate_sets_per_driver": 0,
           "wet_sets_per_driver": 0,
-          "weight": 0.2,
+          "weight": 0.1,
           "summary": "Teams may fit a fresh set whenever required.",
           "description": "Practice, qualifying and races retain the original unlimited fresh-tyre behavior."
         },
@@ -676,8 +693,18 @@
           "dry_sets_per_driver": 15,
           "intermediate_sets_per_driver": 4,
           "wet_sets_per_driver": 3,
-          "weight": 0.55,
+          "weight": 0.25,
           "summary": "Each driver receives 15 chosen dry sets for the complete weekend.",
+          "description": "Physical tyre sets retain their wear through practice, qualifying and the race."
+        },
+        {
+          "key": "standard",
+          "name": "Standard Allocation",
+          "dry_sets_per_driver": 13,
+          "intermediate_sets_per_driver": 4,
+          "wet_sets_per_driver": 3,
+          "weight": 0.5,
+          "summary": "Each driver receives 13 chosen dry sets for the complete weekend.",
           "description": "Physical tyre sets retain their wear through practice, qualifying and the race."
         },
         {
@@ -686,7 +713,7 @@
           "dry_sets_per_driver": 12,
           "intermediate_sets_per_driver": 4,
           "wet_sets_per_driver": 3,
-          "weight": 0.25,
+          "weight": 0.15,
           "summary": "Each driver receives only 12 chosen dry sets for the complete weekend.",
           "description": "Careful practice mileage and qualifying risk management become essential."
         }

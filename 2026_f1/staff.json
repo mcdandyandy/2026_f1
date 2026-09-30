@@ -120,7 +120,7 @@
     "contract": {
       "team": "Haas F1",
       "length_weeks": 52,
-      "salary_m": 17.0,
+      "salary_m": 5.5,
       "start_week": 1
     },
     "talent": {
@@ -1405,7 +1405,7 @@
     "name": "Nick Chester",
     "role": "technical_director",
     "team": "Cadillac",
-    "skill": 14,
+    "skill": 15,
     "age": 52,
     "contract": {
       "team": "Cadillac",
@@ -1414,12 +1414,12 @@
       "start_week": 1
     },
     "talent": {
-      "skill": 12,
+      "skill": 15,
       "efficiency": 10,
       "weight_mgmt": 14
     },
     "skills": {
-      "skill": 14,
+      "skill": 15,
       "efficiency": 9,
       "weight_mgmt": 9
     },
@@ -1549,7 +1549,7 @@
     "name": "James Key",
     "role": "technical_director",
     "team": "Audi",
-    "skill": 14,
+    "skill": 16,
     "age": 54,
     "contract": {
       "team": "Audi",
@@ -1558,12 +1558,12 @@
       "start_week": 1
     },
     "talent": {
-      "skill": 12,
+      "skill": 16,
       "efficiency": 10,
       "weight_mgmt": 10
     },
     "skills": {
-      "skill": 14,
+      "skill": 16,
       "efficiency": 10,
       "weight_mgmt": 10
     },
@@ -1597,7 +1597,7 @@
     "name": "Pat Fry",
     "role": "technical_director",
     "team": "Williams Racing",
-    "skill": 15,
+    "skill": 16,
     "age": 57,
     "contract": {
       "team": "Williams Racing",
@@ -1606,12 +1606,12 @@
       "start_week": 1
     },
     "talent": {
-      "skill": 17,
+      "skill": 16,
       "efficiency": 15,
       "weight_mgmt": 19
     },
     "skills": {
-      "skill": 15,
+      "skill": 16,
       "efficiency": 14,
       "weight_mgmt": 14
     },
@@ -1833,7 +1833,7 @@
     "name": "Peter Prodromou",
     "role": "head_of_aero",
     "team": "McLaren",
-    "skill": 16,
+    "skill": 17,
     "age": 56,
     "contract": {
       "team": "McLaren",
@@ -2088,5 +2088,1013 @@
       "sp": 13
     },
     "nationality": "italian"
+  },
+  {
+    "name": "Sebastian Neumann",
+    "role": "technical_director",
+    "team": "Porsche",
+    "skill": 9,
+    "age": 51,
+    "contract": {
+      "team": "Porsche",
+      "length_weeks": 156,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 10,
+      "efficiency": 12,
+      "weight_mgmt": 12
+    },
+    "skills": {
+      "skill": 9,
+      "efficiency": 11,
+      "weight_mgmt": 9
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Dieter Kraus",
+    "role": "chief_designer",
+    "team": "Porsche",
+    "skill": 13,
+    "age": 57,
+    "contract": {
+      "team": "Porsche",
+      "length_weeks": 156,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 15,
+      "med_spd": 13,
+      "high_spd": 12,
+      "straights": 16,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 11,
+      "high_spd": 12,
+      "straights": 13,
+      "skill": 13
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Markus Vogel",
+    "role": "head_of_aero",
+    "team": "Porsche",
+    "skill": 12,
+    "age": 56,
+    "contract": {
+      "team": "Porsche",
+      "length_weeks": 156,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 13,
+      "rw": 13,
+      "uf": 13,
+      "df": 14,
+      "sp": 16
+    },
+    "skills": {
+      "fw": 13,
+      "rw": 11,
+      "uf": 13,
+      "df": 12,
+      "sp": 14
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Markus Herrmann",
+    "role": "chief_mechanic",
+    "team": "Porsche",
+    "skill": 13,
+    "age": 38,
+    "contract": {
+      "team": "Porsche",
+      "length_weeks": 156,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 14,
+      "pitstop": 12
+    },
+    "skills": {
+      "setup": 12,
+      "pitstop": 10
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Felix Fuchs",
+    "role": "head_of_dynamics",
+    "team": "Porsche",
+    "skill": 13,
+    "age": 51,
+    "contract": {
+      "team": "Porsche",
+      "length_weeks": 156,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 16,
+      "tire_temp": 15
+    },
+    "skills": {
+      "tire_mgmt": 16,
+      "tire_temp": 12
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Jens Fuchs",
+    "role": "head_of_engine",
+    "team": "Porsche",
+    "skill": 14,
+    "age": 49,
+    "contract": {
+      "team": "Porsche",
+      "length_weeks": 156,
+      "salary_m": 9.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 15,
+      "efficiency": 16,
+      "reliability": 17,
+      "weight_mgmt": 16,
+      "time": 17
+    },
+    "skills": {
+      "power": 15,
+      "efficiency": 15,
+      "reliability": 16,
+      "weight_mgmt": 16,
+      "time": 17
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Yuto Matsuda",
+    "role": "technical_director",
+    "team": "Toyota",
+    "skill": 11,
+    "age": 57,
+    "contract": {
+      "team": "Toyota",
+      "length_weeks": 208,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 11,
+      "efficiency": 10,
+      "weight_mgmt": 15
+    },
+    "skills": {
+      "skill": 11,
+      "efficiency": 7,
+      "weight_mgmt": 13
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Hiroshi Okada",
+    "role": "chief_designer",
+    "team": "Toyota",
+    "skill": 12,
+    "age": 56,
+    "contract": {
+      "team": "Toyota",
+      "length_weeks": 208,
+      "salary_m": 7.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 16,
+      "med_spd": 15,
+      "high_spd": 16,
+      "straights": 14,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 13,
+      "med_spd": 14,
+      "high_spd": 14,
+      "straights": 12,
+      "skill": 12
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Takashi Kimura",
+    "role": "head_of_aero",
+    "team": "Toyota",
+    "skill": 11,
+    "age": 50,
+    "contract": {
+      "team": "Toyota",
+      "length_weeks": 208,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 14,
+      "rw": 13,
+      "uf": 12,
+      "df": 11,
+      "sp": 12
+    },
+    "skills": {
+      "fw": 11,
+      "rw": 10,
+      "uf": 9,
+      "df": 8,
+      "sp": 12
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Daisuke Matsuda",
+    "role": "chief_mechanic",
+    "team": "Toyota",
+    "skill": 8,
+    "age": 51,
+    "contract": {
+      "team": "Toyota",
+      "length_weeks": 208,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 10,
+      "pitstop": 12
+    },
+    "skills": {
+      "setup": 8,
+      "pitstop": 9
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Ryota Matsuda",
+    "role": "head_of_dynamics",
+    "team": "Toyota",
+    "skill": 13,
+    "age": 40,
+    "contract": {
+      "team": "Toyota",
+      "length_weeks": 208,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 14,
+      "tire_temp": 15
+    },
+    "skills": {
+      "tire_mgmt": 12,
+      "tire_temp": 15
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Yuto Hasegawa",
+    "role": "head_of_engine",
+    "team": "Toyota",
+    "skill": 12,
+    "age": 57,
+    "contract": {
+      "team": "Toyota",
+      "length_weeks": 208,
+      "salary_m": 8.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 12,
+      "efficiency": 11,
+      "reliability": 14,
+      "weight_mgmt": 16,
+      "time": 16
+    },
+    "skills": {
+      "power": 11,
+      "efficiency": 10,
+      "reliability": 13,
+      "weight_mgmt": 15,
+      "time": 15
+    },
+    "nationality": "japanese"
+  },
+  {
+    "name": "Yifan Lin",
+    "role": "technical_director",
+    "team": "BYD",
+    "skill": 10,
+    "age": 40,
+    "contract": {
+      "team": "BYD",
+      "length_weeks": 312,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 10,
+      "efficiency": 9,
+      "weight_mgmt": 11
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 8,
+      "weight_mgmt": 10
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Hao Ma",
+    "role": "chief_designer",
+    "team": "BYD",
+    "skill": 13,
+    "age": 42,
+    "contract": {
+      "team": "BYD",
+      "length_weeks": 312,
+      "salary_m": 7.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 16,
+      "med_spd": 14,
+      "high_spd": 12,
+      "straights": 15,
+      "skill": 17
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 13,
+      "high_spd": 10,
+      "straights": 12,
+      "skill": 13
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Lei Sun",
+    "role": "head_of_aero",
+    "team": "BYD",
+    "skill": 8,
+    "age": 46,
+    "contract": {
+      "team": "BYD",
+      "length_weeks": 312,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 10,
+      "rw": 7,
+      "uf": 7,
+      "df": 9,
+      "sp": 12
+    },
+    "skills": {
+      "fw": 8,
+      "rw": 7,
+      "uf": 7,
+      "df": 6,
+      "sp": 10
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Tao Ma",
+    "role": "chief_mechanic",
+    "team": "BYD",
+    "skill": 11,
+    "age": 42,
+    "contract": {
+      "team": "BYD",
+      "length_weeks": 312,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 13,
+      "pitstop": 14
+    },
+    "skills": {
+      "setup": 12,
+      "pitstop": 13
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Kai Xu",
+    "role": "head_of_dynamics",
+    "team": "BYD",
+    "skill": 10,
+    "age": 37,
+    "contract": {
+      "team": "BYD",
+      "length_weeks": 312,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 12,
+      "tire_temp": 13
+    },
+    "skills": {
+      "tire_mgmt": 11,
+      "tire_temp": 13
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Kai Huang",
+    "role": "head_of_engine",
+    "team": "BYD",
+    "skill": 9,
+    "age": 41,
+    "contract": {
+      "team": "BYD",
+      "length_weeks": 312,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 8,
+      "efficiency": 13,
+      "reliability": 12,
+      "weight_mgmt": 8,
+      "time": 11
+    },
+    "skills": {
+      "power": 7,
+      "efficiency": 10,
+      "reliability": 12,
+      "weight_mgmt": 7,
+      "time": 10
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Stefan Vogel",
+    "role": "technical_director",
+    "team": "BMW",
+    "skill": 10,
+    "age": 47,
+    "contract": {
+      "team": "BMW",
+      "length_weeks": 208,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 12,
+      "efficiency": 11,
+      "weight_mgmt": 12
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 11,
+      "weight_mgmt": 9
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Lukas Hartmann",
+    "role": "chief_designer",
+    "team": "BMW",
+    "skill": 12,
+    "age": 43,
+    "contract": {
+      "team": "BMW",
+      "length_weeks": 208,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 14,
+      "med_spd": 14,
+      "high_spd": 13,
+      "straights": 14,
+      "skill": 12
+    },
+    "skills": {
+      "slow_spd": 12,
+      "med_spd": 11,
+      "high_spd": 10,
+      "straights": 14,
+      "skill": 12
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Felix Wendt",
+    "role": "head_of_aero",
+    "team": "BMW",
+    "skill": 9,
+    "age": 54,
+    "contract": {
+      "team": "BMW",
+      "length_weeks": 208,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 11,
+      "rw": 13,
+      "uf": 10,
+      "df": 11,
+      "sp": 12
+    },
+    "skills": {
+      "fw": 10,
+      "rw": 13,
+      "uf": 8,
+      "df": 10,
+      "sp": 10
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Sebastian Lindner",
+    "role": "chief_mechanic",
+    "team": "BMW",
+    "skill": 10,
+    "age": 54,
+    "contract": {
+      "team": "BMW",
+      "length_weeks": 208,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 9,
+      "pitstop": 13
+    },
+    "skills": {
+      "setup": 7,
+      "pitstop": 12
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Andreas Vogel",
+    "role": "head_of_dynamics",
+    "team": "BMW",
+    "skill": 13,
+    "age": 39,
+    "contract": {
+      "team": "BMW",
+      "length_weeks": 208,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 13,
+      "tire_temp": 12
+    },
+    "skills": {
+      "tire_mgmt": 11,
+      "tire_temp": 12
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Jonas Lindner",
+    "role": "head_of_engine",
+    "team": "BMW",
+    "skill": 12,
+    "age": 44,
+    "contract": {
+      "team": "BMW",
+      "length_weeks": 208,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 16,
+      "efficiency": 12,
+      "reliability": 16,
+      "weight_mgmt": 16,
+      "time": 11
+    },
+    "skills": {
+      "power": 14,
+      "efficiency": 10,
+      "reliability": 16,
+      "weight_mgmt": 14,
+      "time": 9
+    },
+    "nationality": "german"
+  },
+  {
+    "name": "Richard Thornton",
+    "role": "technical_director",
+    "team": "Brabham",
+    "skill": 11,
+    "age": 39,
+    "contract": {
+      "team": "Brabham",
+      "length_weeks": 156,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 12,
+      "efficiency": 13,
+      "weight_mgmt": 10
+    },
+    "skills": {
+      "skill": 11,
+      "efficiency": 13,
+      "weight_mgmt": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Gareth Hargreaves",
+    "role": "chief_designer",
+    "team": "Brabham",
+    "skill": 12,
+    "age": 39,
+    "contract": {
+      "team": "Brabham",
+      "length_weeks": 156,
+      "salary_m": 7.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 15,
+      "med_spd": 13,
+      "high_spd": 13,
+      "straights": 14,
+      "skill": 15
+    },
+    "skills": {
+      "slow_spd": 15,
+      "med_spd": 10,
+      "high_spd": 11,
+      "straights": 13,
+      "skill": 12
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Martin Northcott",
+    "role": "head_of_aero",
+    "team": "Brabham",
+    "skill": 12,
+    "age": 39,
+    "contract": {
+      "team": "Brabham",
+      "length_weeks": 156,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 16,
+      "rw": 13,
+      "uf": 14,
+      "df": 13,
+      "sp": 13
+    },
+    "skills": {
+      "fw": 16,
+      "rw": 10,
+      "uf": 14,
+      "df": 11,
+      "sp": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Graham Lockwood",
+    "role": "chief_mechanic",
+    "team": "Brabham",
+    "skill": 11,
+    "age": 37,
+    "contract": {
+      "team": "Brabham",
+      "length_weeks": 156,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 12,
+      "pitstop": 14
+    },
+    "skills": {
+      "setup": 12,
+      "pitstop": 12
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Richard Holloway",
+    "role": "head_of_dynamics",
+    "team": "Brabham",
+    "skill": 8,
+    "age": 52,
+    "contract": {
+      "team": "Brabham",
+      "length_weeks": 156,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 8,
+      "tire_temp": 11
+    },
+    "skills": {
+      "tire_mgmt": 8,
+      "tire_temp": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Gareth Whitcombe",
+    "role": "technical_director",
+    "team": "Lotus",
+    "skill": 12,
+    "age": 48,
+    "contract": {
+      "team": "Lotus",
+      "length_weeks": 208,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 16,
+      "efficiency": 13,
+      "weight_mgmt": 11
+    },
+    "skills": {
+      "skill": 12,
+      "efficiency": 12,
+      "weight_mgmt": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Richard Ashworth",
+    "role": "chief_designer",
+    "team": "Lotus",
+    "skill": 10,
+    "age": 44,
+    "contract": {
+      "team": "Lotus",
+      "length_weeks": 208,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 14,
+      "med_spd": 10,
+      "high_spd": 10,
+      "straights": 10,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 14,
+      "med_spd": 7,
+      "high_spd": 8,
+      "straights": 9,
+      "skill": 10
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Colin Lockwood",
+    "role": "head_of_aero",
+    "team": "Lotus",
+    "skill": 10,
+    "age": 46,
+    "contract": {
+      "team": "Lotus",
+      "length_weeks": 208,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 11,
+      "rw": 11,
+      "uf": 10,
+      "df": 14,
+      "sp": 13
+    },
+    "skills": {
+      "fw": 11,
+      "rw": 10,
+      "uf": 10,
+      "df": 12,
+      "sp": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Graham Hargreaves",
+    "role": "chief_mechanic",
+    "team": "Lotus",
+    "skill": 7,
+    "age": 52,
+    "contract": {
+      "team": "Lotus",
+      "length_weeks": 208,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 11,
+      "pitstop": 7
+    },
+    "skills": {
+      "setup": 8,
+      "pitstop": 7
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Owen Thornton",
+    "role": "head_of_dynamics",
+    "team": "Lotus",
+    "skill": 12,
+    "age": 46,
+    "contract": {
+      "team": "Lotus",
+      "length_weeks": 208,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 14,
+      "tire_temp": 16
+    },
+    "skills": {
+      "tire_mgmt": 12,
+      "tire_temp": 15
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Graham Holloway",
+    "role": "technical_director",
+    "team": "Jaguar Racing",
+    "skill": 10,
+    "age": 56,
+    "contract": {
+      "team": "Jaguar Racing",
+      "length_weeks": 260,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 11,
+      "efficiency": 12,
+      "weight_mgmt": 14
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 9,
+      "weight_mgmt": 12
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Owen Northcott",
+    "role": "chief_designer",
+    "team": "Jaguar Racing",
+    "skill": 11,
+    "age": 44,
+    "contract": {
+      "team": "Jaguar Racing",
+      "length_weeks": 260,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 10,
+      "med_spd": 12,
+      "high_spd": 14,
+      "straights": 15,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 10,
+      "med_spd": 11,
+      "high_spd": 14,
+      "straights": 13,
+      "skill": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Owen Fenwick",
+    "role": "head_of_aero",
+    "team": "Jaguar Racing",
+    "skill": 13,
+    "age": 38,
+    "contract": {
+      "team": "Jaguar Racing",
+      "length_weeks": 260,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 12,
+      "rw": 12,
+      "uf": 16,
+      "df": 13,
+      "sp": 17
+    },
+    "skills": {
+      "fw": 10,
+      "rw": 12,
+      "uf": 13,
+      "df": 10,
+      "sp": 16
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Richard Northcott",
+    "role": "chief_mechanic",
+    "team": "Jaguar Racing",
+    "skill": 11,
+    "age": 54,
+    "contract": {
+      "team": "Jaguar Racing",
+      "length_weeks": 260,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 12,
+      "pitstop": 14
+    },
+    "skills": {
+      "setup": 10,
+      "pitstop": 12
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Neil Holloway",
+    "role": "head_of_dynamics",
+    "team": "Jaguar Racing",
+    "skill": 9,
+    "age": 48,
+    "contract": {
+      "team": "Jaguar Racing",
+      "length_weeks": 260,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 9,
+      "tire_temp": 10
+    },
+    "skills": {
+      "tire_mgmt": 7,
+      "tire_temp": 8
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Hiroshi Ogawa",
+    "role": "head_of_engine",
+    "team": "Aston Martin",
+    "skill": 14,
+    "age": 49,
+    "contract": {
+      "team": "Aston Martin",
+      "length_weeks": 104,
+      "salary_m": 9.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 15,
+      "efficiency": 14,
+      "reliability": 13,
+      "weight_mgmt": 14,
+      "time": 15
+    },
+    "skills": {
+      "power": 14,
+      "efficiency": 13,
+      "reliability": 12,
+      "weight_mgmt": 13,
+      "time": 14
+    },
+    "nationality": "japanese"
   }
 ]
