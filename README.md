@@ -64,7 +64,7 @@ Per-team starting balances added
 <BR>
 ERS development updates
 <BR>
-new Australia, Bahrain and Canada tracks, and the calendar rebuilt around the real 2026 schedule
+Upcoming Australia, Bahrain and Canada tracks, and the calendar rebuilt around the real 2026 schedule
 <BR>
 refuelling and ERS regulation options that can come in as future rule changes
 <BR>
