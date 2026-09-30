@@ -1,0 +1,5 @@
+# Release archives (GitHub "Source code" zip/tar) should contain only the 2026_f1 mod folder.
+# Exclude everything at the top level of the repo...
+/* export-ignore
+# ...then put the mod folder back. Anything new added at the top level is excluded automatically.
+/2026_f1 -export-ignore
