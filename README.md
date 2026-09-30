@@ -6,12 +6,9 @@
 
 
 <P>
-<b>Mod Summary</b> 
-<br>
-<I>This needs updating as there have been many updates since....</I>
-
+<b>Mod Summary</b>
 </P>
-Updated drivers (main + junior series pool) with full attribute/trait profiles
+198 drivers (F1, F2, F3, reserves, free agents and a junior pool) with full attribute/trait profiles
 <BR>
 driver portraits updated
 <BR>
@@ -19,21 +16,21 @@ car images updated
 <BR>
 sponsor logos added
 <BR>
-18 teams with full performance ratings, facilities, and finances
+27 teams with full performance ratings, facilities, and finances - 11 on the 2026 grid and 16 waiting to join in future seasons
 <BR>
-89 staff members across roles
+177 staff members across roles
 <BR>
 268 sponsors across the full pool (16 industries)
 <BR>
 37 starting sponsor slots filled across 11 established teams (primary/secondary/tertiary)
 <BR>
-12 engine suppliers with full performance/reliability/budget profiles
+15 engine suppliers with full performance/reliability/budget profiles
 <BR>
 4 tyre suppliers
 <BR>
 Fuel: 5 suppliers
 <BR>
-Gearbox: 10 suppliers
+Gearbox: 13 suppliers
 <BR>
 Suspension: 4 suppliers
 <BR>
@@ -41,7 +38,7 @@ Brakes: 4 suppliers
 <BR>
 ECU: 1 supplier
 <BR>
-Default supply contracts wired up for all 18 teams
+Default supply contracts wired up for all 27 teams
 <BR>
 10-tier junior ladder (Formula 2 down to Mini Karting), spanning 71 junior teams total across those tiers
 <BR>
@@ -53,7 +50,7 @@ Team relationships
 <BR>
 team ownership structures (public/private, shareholding splits)
 <BR>
-18 team backstory/history entries
+27 team backstory/history entries
 <BR>
 team buyout/rebrand scenarios
 <BR>
@@ -65,6 +62,12 @@ New collision/incident system
 <BR>
 Per-team starting balances added
 <BR>
- ERS development updates
+ERS development updates
+<BR>
+new Australia, Bahrain and Canada tracks, and the calendar rebuilt around the real 2026 schedule
+<BR>
+refuelling and ERS regulation options that can come in as future rule changes
+<BR>
+regulation odds tweaked to sit closer to real F1
 <p>
 
