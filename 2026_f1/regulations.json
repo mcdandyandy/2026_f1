@@ -409,7 +409,7 @@
           "name": "Spec ERS",
           "ers_enabled": true,
           "ers_mode": "spec",
-          "weight": 0.85,
+          "weight": 0.8,
           "summary": "Standardized battery deployment and harvest systems are legal.",
           "description": "Cars may use a regulated electrical deployment system that harvests under braking and assists acceleration out of slower zones."
         },
@@ -427,6 +427,15 @@
           "weight": 0.15,
           "summary": "Teams may develop and manufacture their own ERS units within legal limits.",
           "description": "ERS remains legal, but battery capacity, deployment efficiency, harvesting, power output, and reliability are open for team development."
+        },
+        {
+          "key": "disabled",
+          "name": "ERS Disabled",
+          "ers_enabled": false,
+          "ers_mode": "banned",
+          "weight": 0.05,
+          "summary": "No battery deployment is allowed in race sessions.",
+          "description": "The governing body bans electrical deployment, leaving cars to rely on combustion power alone."
         }
       ]
     },
