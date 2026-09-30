@@ -734,7 +734,7 @@
           "key": "banned",
           "name": "Refuelling Banned",
           "refueling_allowed": false,
-          "weight": 2,
+          "weight": 9,
           "summary": "Cars start with race fuel. No tank limit or refuelling controls apply."
         },
         {
