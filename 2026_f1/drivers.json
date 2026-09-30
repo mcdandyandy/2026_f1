@@ -600,7 +600,7 @@
     "traction_preference": 45
   },
   {
-    "name": "Arvid Linblad",
+    "name": "Arvid Lindblad",
     "team": "Racing Bulls",
     "cornering": 12,
     "braking": 14,
@@ -5476,6 +5476,134 @@
     "traits": [],
     "personality": "ambitious",
     "nationality": "japanese",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Felipe Nasr",
+    "team": null,
+    "cornering": 16,
+    "braking": 16,
+    "consistency": 15,
+    "smoothness": 15,
+    "control": 15,
+    "history": {
+      "seasons": 2,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 33,
+    "talent": 66,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "brazilian",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Ricky Taylor",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 36,
+    "talent": 68,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "american",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Sebastien Bourdais",
+    "team": null,
+    "cornering": 16,
+    "braking": 16,
+    "consistency": 15,
+    "smoothness": 15,
+    "control": 15,
+    "history": {
+      "seasons": 2,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 47,
+    "talent": 66,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "french",
+    "balance_preference": 50,
+    "traction_preference": 50,
+    "contract": {
+      "team": null,
+      "role": "free_agent",
+      "length_weeks": 52,
+      "salary_m": 0.0,
+      "start_week": 1,
+      "status": "equal",
+      "priority": "equal"
+    }
+  },
+  {
+    "name": "Tom Blomqvist",
+    "team": null,
+    "cornering": 17,
+    "braking": 17,
+    "consistency": 16,
+    "smoothness": 16,
+    "control": 16,
+    "history": {
+      "seasons": 0,
+      "championships": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0
+    },
+    "age": 32,
+    "talent": 70,
+    "traits": [],
+    "personality": "ambitious",
+    "nationality": "british",
     "balance_preference": 50,
     "traction_preference": 50,
     "contract": {
