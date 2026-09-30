@@ -160,6 +160,69 @@
       "recovery": 1,
       "output": 2,
       "reliability": 1
+    },
+    "Genesis": {
+      "capacity": 1,
+      "deployment": 1,
+      "recovery": 1,
+      "output": 1,
+      "reliability": 1
+    },
+    "Geely": {
+      "capacity": 1,
+      "deployment": 2,
+      "recovery": 1,
+      "output": 2,
+      "reliability": 1
+    },
+    "Maserati": {
+      "capacity": 1,
+      "deployment": 1,
+      "recovery": 2,
+      "output": 2,
+      "reliability": 1
+    },
+    "Alfa Romeo": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
+    },
+    "Cupra": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
+    },
+    "Hitech": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
+    },
+    "Dallara": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
+    },
+    "Minardi": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
+    },
+    "Tyrrell": {
+      "capacity": 0,
+      "deployment": 0,
+      "recovery": 0,
+      "output": 0,
+      "reliability": 0
     }
   },
   "development": {

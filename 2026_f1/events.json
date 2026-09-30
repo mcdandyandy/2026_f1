@@ -240,5 +240,50 @@
     "type": "major_investors",
     "chance": 0.05,
     "amount_m": 250.0
+  },
+  {
+    "type": "team_join",
+    "team": "Genesis",
+    "chance": 0.05
+  },
+  {
+    "type": "team_join",
+    "team": "Geely",
+    "chance": 0.06
+  },
+  {
+    "type": "team_join",
+    "team": "Maserati",
+    "chance": 0.05
+  },
+  {
+    "type": "team_join",
+    "team": "Alfa Romeo",
+    "chance": 0.08
+  },
+  {
+    "type": "team_join",
+    "team": "Cupra",
+    "chance": 0.06
+  },
+  {
+    "type": "team_join",
+    "team": "Hitech",
+    "chance": 0.07
+  },
+  {
+    "type": "team_join",
+    "team": "Dallara",
+    "chance": 0.05
+  },
+  {
+    "type": "team_join",
+    "team": "Minardi",
+    "chance": 0.05
+  },
+  {
+    "type": "team_join",
+    "team": "Tyrrell",
+    "chance": 0.04
   }
 ]

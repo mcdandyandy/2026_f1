@@ -197,6 +197,42 @@
           "allocation_per_season": 4,
           "max_customers": 1,
           "nationality": "chinese"
+        },
+        "Genesis": {
+          "pace_rating": 78,
+          "reliability_rating": 82,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.5,
+            "reliability": 0.5
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "south_korean"
+        },
+        "Geely": {
+          "pace_rating": 78,
+          "reliability_rating": 82,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.5,
+            "reliability": 0.5
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "chinese"
+        },
+        "Maserati": {
+          "pace_rating": 78,
+          "reliability_rating": 82,
+          "budget_m": 0,
+          "dev_weights": {
+            "pace": 0.5,
+            "reliability": 0.5
+          },
+          "allocation_per_season": 4,
+          "max_customers": 1,
+          "nationality": "italian"
         }
       }
     },
@@ -899,6 +935,294 @@
       },
       "brakes": {
         "supplier": "AP Racing",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Genesis": {
+      "fuel": {
+        "supplier": "ExxonMobil",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Genesis",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Akebono",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Geely": {
+      "fuel": {
+        "supplier": "ExxonMobil",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Geely",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Carbon Industrie",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Maserati": {
+      "fuel": {
+        "supplier": "Shell",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Maserati",
+        "years": 9999,
+        "type": "partner",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Akebono",
+        "years": 2,
+        "type": "partner",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Alfa Romeo": {
+      "fuel": {
+        "supplier": "ExxonMobil",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Ferrari",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Carbon Industrie",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Cupra": {
+      "fuel": {
+        "supplier": "Shell",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Audi",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Akebono",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Hitech": {
+      "fuel": {
+        "supplier": "Petronas",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Xtrac",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Vertex Suspension",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Carbon Industrie",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Dallara": {
+      "fuel": {
+        "supplier": "TotalEnergies",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Ferrari",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Aurora Ride",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Akebono",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Minardi": {
+      "fuel": {
+        "supplier": "ExxonMobil",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Xtrac",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Skyline Dynamics",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Carbon Industrie",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "ecu": {
+        "supplier": "Motion Applied",
+        "years": 4,
+        "type": "partner",
+        "parts_per_season": 8
+      }
+    },
+    "Tyrrell": {
+      "fuel": {
+        "supplier": "Shell",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "gearbox": {
+        "supplier": "Honda",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 4
+      },
+      "suspension": {
+        "supplier": "Stratus Systems",
+        "years": 2,
+        "type": "customer",
+        "parts_per_season": 8
+      },
+      "brakes": {
+        "supplier": "Akebono",
         "years": 2,
         "type": "customer",
         "parts_per_season": 8

@@ -3096,5 +3096,1205 @@
       "time": 14
     },
     "nationality": "japanese"
+  },
+  {
+    "name": "Seo-jun Jung",
+    "role": "technical_director",
+    "team": "Genesis",
+    "skill": 8,
+    "age": 58,
+    "contract": {
+      "team": "Genesis",
+      "length_weeks": 364,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 11,
+      "efficiency": 8,
+      "weight_mgmt": 11
+    },
+    "skills": {
+      "skill": 8,
+      "efficiency": 8,
+      "weight_mgmt": 10
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Min-jun Yoon",
+    "role": "chief_designer",
+    "team": "Genesis",
+    "skill": 9,
+    "age": 46,
+    "contract": {
+      "team": "Genesis",
+      "length_weeks": 364,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 9,
+      "med_spd": 9,
+      "high_spd": 10,
+      "straights": 10,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 6,
+      "med_spd": 6,
+      "high_spd": 9,
+      "straights": 10,
+      "skill": 9
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Sung-min Choi",
+    "role": "head_of_aero",
+    "team": "Genesis",
+    "skill": 10,
+    "age": 42,
+    "contract": {
+      "team": "Genesis",
+      "length_weeks": 364,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 13,
+      "rw": 12,
+      "uf": 14,
+      "df": 11,
+      "sp": 11
+    },
+    "skills": {
+      "fw": 12,
+      "rw": 9,
+      "uf": 14,
+      "df": 11,
+      "sp": 10
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Hyun-woo Yoon",
+    "role": "chief_mechanic",
+    "team": "Genesis",
+    "skill": 11,
+    "age": 47,
+    "contract": {
+      "team": "Genesis",
+      "length_weeks": 364,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 11,
+      "pitstop": 11
+    },
+    "skills": {
+      "setup": 8,
+      "pitstop": 10
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Sung-min Kang",
+    "role": "head_of_dynamics",
+    "team": "Genesis",
+    "skill": 13,
+    "age": 46,
+    "contract": {
+      "team": "Genesis",
+      "length_weeks": 364,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 14,
+      "tire_temp": 16
+    },
+    "skills": {
+      "tire_mgmt": 14,
+      "tire_temp": 14
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Sung-min Park",
+    "role": "head_of_engine",
+    "team": "Genesis",
+    "skill": 11,
+    "age": 57,
+    "contract": {
+      "team": "Genesis",
+      "length_weeks": 364,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 13,
+      "efficiency": 12,
+      "reliability": 11,
+      "weight_mgmt": 13,
+      "time": 12
+    },
+    "skills": {
+      "power": 11,
+      "efficiency": 12,
+      "reliability": 10,
+      "weight_mgmt": 12,
+      "time": 12
+    },
+    "nationality": "south_korean"
+  },
+  {
+    "name": "Bo Liu",
+    "role": "technical_director",
+    "team": "Geely",
+    "skill": 10,
+    "age": 53,
+    "contract": {
+      "team": "Geely",
+      "length_weeks": 260,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 11,
+      "efficiency": 10,
+      "weight_mgmt": 13
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 8,
+      "weight_mgmt": 10
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Lei Zhou",
+    "role": "chief_designer",
+    "team": "Geely",
+    "skill": 10,
+    "age": 55,
+    "contract": {
+      "team": "Geely",
+      "length_weeks": 260,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 10,
+      "med_spd": 10,
+      "high_spd": 11,
+      "straights": 11,
+      "skill": 12
+    },
+    "skills": {
+      "slow_spd": 9,
+      "med_spd": 9,
+      "high_spd": 8,
+      "straights": 11,
+      "skill": 10
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Chen Zhao",
+    "role": "head_of_aero",
+    "team": "Geely",
+    "skill": 12,
+    "age": 36,
+    "contract": {
+      "team": "Geely",
+      "length_weeks": 260,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 12,
+      "rw": 12,
+      "uf": 15,
+      "df": 13,
+      "sp": 16
+    },
+    "skills": {
+      "fw": 9,
+      "rw": 12,
+      "uf": 13,
+      "df": 10,
+      "sp": 13
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Hao Zhang",
+    "role": "chief_mechanic",
+    "team": "Geely",
+    "skill": 12,
+    "age": 54,
+    "contract": {
+      "team": "Geely",
+      "length_weeks": 260,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 14,
+      "pitstop": 15
+    },
+    "skills": {
+      "setup": 13,
+      "pitstop": 15
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Yifan Ma",
+    "role": "head_of_dynamics",
+    "team": "Geely",
+    "skill": 8,
+    "age": 58,
+    "contract": {
+      "team": "Geely",
+      "length_weeks": 260,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 12,
+      "tire_temp": 9
+    },
+    "skills": {
+      "tire_mgmt": 11,
+      "tire_temp": 7
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Chen Zhang",
+    "role": "head_of_engine",
+    "team": "Geely",
+    "skill": 13,
+    "age": 52,
+    "contract": {
+      "team": "Geely",
+      "length_weeks": 260,
+      "salary_m": 9.0,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 17,
+      "efficiency": 16,
+      "reliability": 14,
+      "weight_mgmt": 17,
+      "time": 14
+    },
+    "skills": {
+      "power": 14,
+      "efficiency": 14,
+      "reliability": 11,
+      "weight_mgmt": 15,
+      "time": 13
+    },
+    "nationality": "chinese"
+  },
+  {
+    "name": "Giorgio Ferrante",
+    "role": "technical_director",
+    "team": "Maserati",
+    "skill": 13,
+    "age": 40,
+    "contract": {
+      "team": "Maserati",
+      "length_weeks": 364,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 14,
+      "efficiency": 15,
+      "weight_mgmt": 16
+    },
+    "skills": {
+      "skill": 13,
+      "efficiency": 15,
+      "weight_mgmt": 16
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Claudio Galli",
+    "role": "chief_designer",
+    "team": "Maserati",
+    "skill": 10,
+    "age": 44,
+    "contract": {
+      "team": "Maserati",
+      "length_weeks": 364,
+      "salary_m": 6.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 11,
+      "med_spd": 13,
+      "high_spd": 12,
+      "straights": 14,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 10,
+      "med_spd": 11,
+      "high_spd": 12,
+      "straights": 14,
+      "skill": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Matteo Galli",
+    "role": "head_of_aero",
+    "team": "Maserati",
+    "skill": 11,
+    "age": 58,
+    "contract": {
+      "team": "Maserati",
+      "length_weeks": 364,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 13,
+      "rw": 12,
+      "uf": 14,
+      "df": 11,
+      "sp": 14
+    },
+    "skills": {
+      "fw": 10,
+      "rw": 11,
+      "uf": 13,
+      "df": 10,
+      "sp": 12
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Enzo Conte",
+    "role": "chief_mechanic",
+    "team": "Maserati",
+    "skill": 8,
+    "age": 56,
+    "contract": {
+      "team": "Maserati",
+      "length_weeks": 364,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 9,
+      "pitstop": 8
+    },
+    "skills": {
+      "setup": 8,
+      "pitstop": 5
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Andrea Galli",
+    "role": "head_of_dynamics",
+    "team": "Maserati",
+    "skill": 9,
+    "age": 51,
+    "contract": {
+      "team": "Maserati",
+      "length_weeks": 364,
+      "salary_m": 2.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 12,
+      "tire_temp": 9
+    },
+    "skills": {
+      "tire_mgmt": 12,
+      "tire_temp": 6
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Claudio Colombo",
+    "role": "head_of_engine",
+    "team": "Maserati",
+    "skill": 10,
+    "age": 56,
+    "contract": {
+      "team": "Maserati",
+      "length_weeks": 364,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "power": 12,
+      "efficiency": 13,
+      "reliability": 12,
+      "weight_mgmt": 12,
+      "time": 12
+    },
+    "skills": {
+      "power": 11,
+      "efficiency": 11,
+      "reliability": 9,
+      "weight_mgmt": 11,
+      "time": 11
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Stefano Conte",
+    "role": "technical_director",
+    "team": "Alfa Romeo",
+    "skill": 10,
+    "age": 52,
+    "contract": {
+      "team": "Alfa Romeo",
+      "length_weeks": 208,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 10,
+      "efficiency": 14,
+      "weight_mgmt": 11
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 12,
+      "weight_mgmt": 8
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Marco Serra",
+    "role": "chief_designer",
+    "team": "Alfa Romeo",
+    "skill": 10,
+    "age": 57,
+    "contract": {
+      "team": "Alfa Romeo",
+      "length_weeks": 208,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 12,
+      "med_spd": 13,
+      "high_spd": 13,
+      "straights": 11,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 11,
+      "med_spd": 10,
+      "high_spd": 13,
+      "straights": 10,
+      "skill": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Matteo Ricci",
+    "role": "head_of_aero",
+    "team": "Alfa Romeo",
+    "skill": 10,
+    "age": 49,
+    "contract": {
+      "team": "Alfa Romeo",
+      "length_weeks": 208,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 10,
+      "rw": 14,
+      "uf": 10,
+      "df": 12,
+      "sp": 11
+    },
+    "skills": {
+      "fw": 7,
+      "rw": 11,
+      "uf": 9,
+      "df": 12,
+      "sp": 9
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Enzo Galli",
+    "role": "chief_mechanic",
+    "team": "Alfa Romeo",
+    "skill": 11,
+    "age": 51,
+    "contract": {
+      "team": "Alfa Romeo",
+      "length_weeks": 208,
+      "salary_m": 5.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 15,
+      "pitstop": 12
+    },
+    "skills": {
+      "setup": 15,
+      "pitstop": 12
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Paolo Conte",
+    "role": "head_of_dynamics",
+    "team": "Alfa Romeo",
+    "skill": 13,
+    "age": 47,
+    "contract": {
+      "team": "Alfa Romeo",
+      "length_weeks": 208,
+      "salary_m": 3.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 13,
+      "tire_temp": 15
+    },
+    "skills": {
+      "tire_mgmt": 12,
+      "tire_temp": 14
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Pablo Navarro",
+    "role": "technical_director",
+    "team": "Cupra",
+    "skill": 12,
+    "age": 57,
+    "contract": {
+      "team": "Cupra",
+      "length_weeks": 312,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 15,
+      "efficiency": 14,
+      "weight_mgmt": 16
+    },
+    "skills": {
+      "skill": 12,
+      "efficiency": 13,
+      "weight_mgmt": 13
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Oriol Navarro",
+    "role": "chief_designer",
+    "team": "Cupra",
+    "skill": 11,
+    "age": 40,
+    "contract": {
+      "team": "Cupra",
+      "length_weeks": 312,
+      "salary_m": 7.0,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 11,
+      "med_spd": 14,
+      "high_spd": 14,
+      "straights": 14,
+      "skill": 12
+    },
+    "skills": {
+      "slow_spd": 9,
+      "med_spd": 11,
+      "high_spd": 13,
+      "straights": 12,
+      "skill": 11
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Ignacio Cabrera",
+    "role": "head_of_aero",
+    "team": "Cupra",
+    "skill": 10,
+    "age": 57,
+    "contract": {
+      "team": "Cupra",
+      "length_weeks": 312,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 11,
+      "rw": 11,
+      "uf": 13,
+      "df": 13,
+      "sp": 11
+    },
+    "skills": {
+      "fw": 9,
+      "rw": 9,
+      "uf": 11,
+      "df": 10,
+      "sp": 9
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Alberto Iglesias",
+    "role": "chief_mechanic",
+    "team": "Cupra",
+    "skill": 8,
+    "age": 58,
+    "contract": {
+      "team": "Cupra",
+      "length_weeks": 312,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 9,
+      "pitstop": 9
+    },
+    "skills": {
+      "setup": 7,
+      "pitstop": 8
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Alberto Vidal",
+    "role": "head_of_dynamics",
+    "team": "Cupra",
+    "skill": 10,
+    "age": 53,
+    "contract": {
+      "team": "Cupra",
+      "length_weeks": 312,
+      "salary_m": 2.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 13,
+      "tire_temp": 13
+    },
+    "skills": {
+      "tire_mgmt": 12,
+      "tire_temp": 13
+    },
+    "nationality": "spanish"
+  },
+  {
+    "name": "Martin Ellery",
+    "role": "technical_director",
+    "team": "Hitech",
+    "skill": 10,
+    "age": 46,
+    "contract": {
+      "team": "Hitech",
+      "length_weeks": 260,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 12,
+      "efficiency": 11,
+      "weight_mgmt": 13
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 10,
+      "weight_mgmt": 13
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Gareth Ellery",
+    "role": "chief_designer",
+    "team": "Hitech",
+    "skill": 9,
+    "age": 50,
+    "contract": {
+      "team": "Hitech",
+      "length_weeks": 260,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 13,
+      "med_spd": 9,
+      "high_spd": 11,
+      "straights": 9,
+      "skill": 13
+    },
+    "skills": {
+      "slow_spd": 12,
+      "med_spd": 8,
+      "high_spd": 9,
+      "straights": 8,
+      "skill": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Simon Holloway",
+    "role": "head_of_aero",
+    "team": "Hitech",
+    "skill": 11,
+    "age": 50,
+    "contract": {
+      "team": "Hitech",
+      "length_weeks": 260,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 13,
+      "rw": 11,
+      "uf": 15,
+      "df": 12,
+      "sp": 12
+    },
+    "skills": {
+      "fw": 12,
+      "rw": 8,
+      "uf": 14,
+      "df": 9,
+      "sp": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Graham Garside",
+    "role": "chief_mechanic",
+    "team": "Hitech",
+    "skill": 12,
+    "age": 46,
+    "contract": {
+      "team": "Hitech",
+      "length_weeks": 260,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 16,
+      "pitstop": 14
+    },
+    "skills": {
+      "setup": 13,
+      "pitstop": 11
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Simon Pemberton",
+    "role": "head_of_dynamics",
+    "team": "Hitech",
+    "skill": 9,
+    "age": 58,
+    "contract": {
+      "team": "Hitech",
+      "length_weeks": 260,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 10,
+      "tire_temp": 10
+    },
+    "skills": {
+      "tire_mgmt": 7,
+      "tire_temp": 8
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Andrea Bruni",
+    "role": "technical_director",
+    "team": "Dallara",
+    "skill": 10,
+    "age": 39,
+    "contract": {
+      "team": "Dallara",
+      "length_weeks": 312,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 14,
+      "efficiency": 13,
+      "weight_mgmt": 12
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 13,
+      "weight_mgmt": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Stefano Serra",
+    "role": "chief_designer",
+    "team": "Dallara",
+    "skill": 7,
+    "age": 39,
+    "contract": {
+      "team": "Dallara",
+      "length_weeks": 312,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 9,
+      "med_spd": 11,
+      "high_spd": 8,
+      "straights": 8,
+      "skill": 7
+    },
+    "skills": {
+      "slow_spd": 7,
+      "med_spd": 8,
+      "high_spd": 5,
+      "straights": 6,
+      "skill": 7
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Paolo Moretti",
+    "role": "head_of_aero",
+    "team": "Dallara",
+    "skill": 10,
+    "age": 43,
+    "contract": {
+      "team": "Dallara",
+      "length_weeks": 312,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 11,
+      "rw": 14,
+      "uf": 12,
+      "df": 11,
+      "sp": 10
+    },
+    "skills": {
+      "fw": 9,
+      "rw": 14,
+      "uf": 11,
+      "df": 8,
+      "sp": 8
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Marco Barbieri",
+    "role": "chief_mechanic",
+    "team": "Dallara",
+    "skill": 11,
+    "age": 43,
+    "contract": {
+      "team": "Dallara",
+      "length_weeks": 312,
+      "salary_m": 5.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 14,
+      "pitstop": 13
+    },
+    "skills": {
+      "setup": 11,
+      "pitstop": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Luca Conte",
+    "role": "head_of_dynamics",
+    "team": "Dallara",
+    "skill": 11,
+    "age": 43,
+    "contract": {
+      "team": "Dallara",
+      "length_weeks": 312,
+      "salary_m": 2.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 11,
+      "tire_temp": 12
+    },
+    "skills": {
+      "tire_mgmt": 11,
+      "tire_temp": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Matteo Serra",
+    "role": "technical_director",
+    "team": "Minardi",
+    "skill": 7,
+    "age": 42,
+    "contract": {
+      "team": "Minardi",
+      "length_weeks": 364,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 9,
+      "efficiency": 10,
+      "weight_mgmt": 9
+    },
+    "skills": {
+      "skill": 7,
+      "efficiency": 8,
+      "weight_mgmt": 7
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Enzo Barbieri",
+    "role": "chief_designer",
+    "team": "Minardi",
+    "skill": 10,
+    "age": 52,
+    "contract": {
+      "team": "Minardi",
+      "length_weeks": 364,
+      "salary_m": 6.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 14,
+      "med_spd": 10,
+      "high_spd": 10,
+      "straights": 13,
+      "skill": 14
+    },
+    "skills": {
+      "slow_spd": 12,
+      "med_spd": 7,
+      "high_spd": 7,
+      "straights": 13,
+      "skill": 10
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Luca Colombo",
+    "role": "head_of_aero",
+    "team": "Minardi",
+    "skill": 6,
+    "age": 50,
+    "contract": {
+      "team": "Minardi",
+      "length_weeks": 364,
+      "salary_m": 2.5,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 6,
+      "rw": 7,
+      "uf": 10,
+      "df": 6,
+      "sp": 9
+    },
+    "skills": {
+      "fw": 4,
+      "rw": 4,
+      "uf": 8,
+      "df": 6,
+      "sp": 6
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Claudio Rinaldi",
+    "role": "chief_mechanic",
+    "team": "Minardi",
+    "skill": 9,
+    "age": 53,
+    "contract": {
+      "team": "Minardi",
+      "length_weeks": 364,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 10,
+      "pitstop": 12
+    },
+    "skills": {
+      "setup": 9,
+      "pitstop": 11
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Giorgio Serra",
+    "role": "head_of_dynamics",
+    "team": "Minardi",
+    "skill": 6,
+    "age": 37,
+    "contract": {
+      "team": "Minardi",
+      "length_weeks": 364,
+      "salary_m": 1.5,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 8,
+      "tire_temp": 8
+    },
+    "skills": {
+      "tire_mgmt": 8,
+      "tire_temp": 8
+    },
+    "nationality": "italian"
+  },
+  {
+    "name": "Simon Fenwick",
+    "role": "technical_director",
+    "team": "Tyrrell",
+    "skill": 10,
+    "age": 46,
+    "contract": {
+      "team": "Tyrrell",
+      "length_weeks": 416,
+      "salary_m": 4.5,
+      "start_week": 1
+    },
+    "talent": {
+      "skill": 10,
+      "efficiency": 13,
+      "weight_mgmt": 10
+    },
+    "skills": {
+      "skill": 10,
+      "efficiency": 10,
+      "weight_mgmt": 8
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Colin Pemberton",
+    "role": "chief_designer",
+    "team": "Tyrrell",
+    "skill": 7,
+    "age": 51,
+    "contract": {
+      "team": "Tyrrell",
+      "length_weeks": 416,
+      "salary_m": 3.5,
+      "start_week": 1
+    },
+    "talent": {
+      "slow_spd": 11,
+      "med_spd": 9,
+      "high_spd": 9,
+      "straights": 9,
+      "skill": 8
+    },
+    "skills": {
+      "slow_spd": 11,
+      "med_spd": 8,
+      "high_spd": 7,
+      "straights": 9,
+      "skill": 7
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Simon Thornton",
+    "role": "head_of_aero",
+    "team": "Tyrrell",
+    "skill": 10,
+    "age": 39,
+    "contract": {
+      "team": "Tyrrell",
+      "length_weeks": 416,
+      "salary_m": 4.0,
+      "start_week": 1
+    },
+    "talent": {
+      "fw": 13,
+      "rw": 11,
+      "uf": 12,
+      "df": 10,
+      "sp": 10
+    },
+    "skills": {
+      "fw": 10,
+      "rw": 11,
+      "uf": 12,
+      "df": 10,
+      "sp": 9
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Neil Whitcombe",
+    "role": "chief_mechanic",
+    "team": "Tyrrell",
+    "skill": 6,
+    "age": 45,
+    "contract": {
+      "team": "Tyrrell",
+      "length_weeks": 416,
+      "salary_m": 2.5,
+      "start_week": 1
+    },
+    "talent": {
+      "setup": 6,
+      "pitstop": 6
+    },
+    "skills": {
+      "setup": 6,
+      "pitstop": 5
+    },
+    "nationality": "british"
+  },
+  {
+    "name": "Owen Garside",
+    "role": "head_of_dynamics",
+    "team": "Tyrrell",
+    "skill": 8,
+    "age": 43,
+    "contract": {
+      "team": "Tyrrell",
+      "length_weeks": 416,
+      "salary_m": 2.0,
+      "start_week": 1
+    },
+    "talent": {
+      "tire_mgmt": 12,
+      "tire_temp": 8
+    },
+    "skills": {
+      "tire_mgmt": 11,
+      "tire_temp": 5
+    },
+    "nationality": "british"
   }
 ]
