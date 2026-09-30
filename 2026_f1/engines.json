@@ -164,6 +164,39 @@
       "fuel_efficiency": 46.0,
       "mass_kg": 148.0,
       "nationality": "british"
+    },
+    "Genesis": {
+      "engine": "Genesis",
+      "factory": true,
+      "power_rating": 48.0,
+      "reliability_rating": 44.0,
+      "cost_m": 20,
+      "annual_budget_m": 105.0,
+      "fuel_efficiency": 48.0,
+      "mass_kg": 150.0,
+      "nationality": "south_korean"
+    },
+    "Geely": {
+      "engine": "Geely",
+      "factory": true,
+      "power_rating": 47.0,
+      "reliability_rating": 45.0,
+      "cost_m": 20,
+      "annual_budget_m": 100.0,
+      "fuel_efficiency": 50.0,
+      "mass_kg": 151.0,
+      "nationality": "chinese"
+    },
+    "Maserati": {
+      "engine": "Maserati",
+      "factory": true,
+      "power_rating": 50.0,
+      "reliability_rating": 46.0,
+      "cost_m": 20,
+      "annual_budget_m": 110.0,
+      "fuel_efficiency": 47.0,
+      "mass_kg": 148.0,
+      "nationality": "italian"
     }
   }
 }

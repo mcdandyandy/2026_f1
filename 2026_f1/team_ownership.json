@@ -159,5 +159,77 @@
     },
     "public_float": 0.0,
     "shares_total": null
+  },
+  "Genesis": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Geely": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Maserati": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Alfa Romeo": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Cupra": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Hitech": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Dallara": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Minardi": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
+  },
+  "Tyrrell": {
+    "state": "private",
+    "shareholders": {
+      "player": 100.0
+    },
+    "public_float": 0.0,
+    "shares_total": null
   }
 }
