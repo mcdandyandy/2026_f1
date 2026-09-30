@@ -1,0 +1,16 @@
+{
+  "power": [
+    {"cost_m": 5},
+    {"cost_m": 7},
+    {"cost_m": 9},
+    {"cost_m": 12},
+    {"cost_m": 15}
+  ],
+  "reliability": [
+    {"cost_m": 5},
+    {"cost_m": 7},
+    {"cost_m": 9},
+    {"cost_m": 12},
+    {"cost_m": 15}
+  ]
+}

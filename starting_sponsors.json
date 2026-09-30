@@ -1,0 +1,253 @@
+{
+  "teams": [
+    {
+      "team": "Red Bull",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Oracle",
+          "seasons": 3,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "ExxonMobil",
+          "seasons": 2
+        },
+        {
+          "slot": "tertiary1",
+          "name": "AT&T",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Ferrari F1",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "HP",
+          "seasons": 2,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Shell",
+          "seasons": 3
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Zyn",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "McLaren",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Mastercard",
+          "seasons": 3,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Velo",
+          "seasons": 2
+        },
+        {
+          "slot": "tertiary1",
+          "name": "OKX",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Mercedes",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Petronas",
+          "seasons": 3,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Microsoft",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary1",
+          "name": "IWC Schaffhausen",
+          "seasons": 2
+        }
+      ]
+    },
+    {
+      "team": "Aston Martin",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Aramco",
+          "seasons": 3,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Cognizant",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Valvoline",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary2",
+          "name": "ServiceNow",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Alpine",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "BWT",
+          "seasons": 2,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "TotalEnergies",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Qatar Airways",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary2",
+          "name": "Castore",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Racing Bulls",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Visa",
+          "seasons": 2,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Bybit",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Siemens",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Audi",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Revolut",
+          "seasons": 2,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Castrol",
+          "seasons": 2
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Bitpanda",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary2",
+          "name": "Gillette",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Haas F1",
+      "sponsors": [
+        {
+          "slot": "secondary",
+          "name": "Henkel",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary1",
+          "name": "MSC Cruises",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary2",
+          "name": "Castore",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Williams Racing",
+      "sponsors": [
+        {
+          "slot": "primary",
+          "name": "Atlassian",
+          "seasons": 3,
+          "title": true
+        },
+        {
+          "slot": "secondary",
+          "name": "Barclays",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Gulf Oil",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary2",
+          "name": "Kraken",
+          "seasons": 1
+        }
+      ]
+    },
+    {
+      "team": "Cadillac",
+      "sponsors": [
+        {
+          "slot": "secondary",
+          "name": "Coinbase",
+          "seasons": 2
+        },
+        {
+          "slot": "tertiary1",
+          "name": "Tommy Hilfiger",
+          "seasons": 1
+        },
+        {
+          "slot": "tertiary2",
+          "name": "Jim Beam",
+          "seasons": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "team": "Alpine",
+    "new_name": "BYD",
+    "new_color_rgb": [
+      0,
+      50,
+      180
+    ],
+    "new_secondary_color_rgb": [
+      100,
+      200,
+      255
+    ],
+    "new_text_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "buyout_type": "rebrand",
+    "first_season": 3,
+    "chance": 0.1,
+    "percent": 30
+  },
+  {
+    "team": "Haas F1",
+    "new_name": "Toyota",
+    "new_color_rgb": [
+      180,
+      0,
+      0
+    ],
+    "new_secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "new_text_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "buyout_type": "rebrand",
+    "first_season": 4,
+    "chance": 0.12,
+    "percent": 51
+  },
+  {
+    "team": "Cadillac",
+    "new_name": "Andretti",
+    "new_color_rgb": [
+      0,
+      0,
+      0
+    ],
+    "new_secondary_color_rgb": [
+      200,
+      160,
+      0
+    ],
+    "new_text_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "buyout_type": "rebrand",
+    "first_season": 4,
+    "chance": 0.08,
+    "percent": 99
+  },
+  {
+    "team": "Williams Racing",
+    "new_name": "Williams Racing",
+    "new_color_rgb": [
+      0,
+      30,
+      150
+    ],
+    "new_secondary_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "new_text_color_rgb": [
+      255,
+      255,
+      255
+    ],
+    "buyout_type": "rebrand",
+    "first_season": 5,
+    "chance": 0.08,
+    "percent": 51
+  },
+  {
+    "id": "engine_takeover",
+    "buyout_type": "factory",
+    "percent": 25,
+    "hq_investment": {
+      "all_delta": 1,
+      "min_levels": {
+        "engine_plant": 4
+      }
+    },
+    "engine_variance_levels": 0
+  }
+]
