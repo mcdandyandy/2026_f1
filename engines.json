@@ -1,0 +1,169 @@
+{
+  "unit_rules": {
+    "base_wear_per_lap": 0.1,
+    "max_pace_penalty_s": 0.0,
+    "max_power_rating_loss_at_zero_condition": 6.25,
+    "power_rating_wear_quantum": 0.25,
+    "fail_prob_per_lap_over_50_wear": 0.005,
+    "build_staff_hours": 50,
+    "build_cost_m": 0.5,
+    "allocation_choices": [
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
+  },
+  "suppliers": {
+    "Titan Dynamics": {
+      "engine": "Titan Power",
+      "factory": false,
+      "power_rating": 50,
+      "reliability_rating": 36,
+      "cost_m": 15,
+      "annual_budget_m": 95,
+      "capacity": 4,
+      "active": false,
+      "join_chance": 0.025,
+      "leave_chance": 0.05,
+      "fuel_efficiency": 50,
+      "mass_kg": 150.0,
+      "nationality": "american"
+    },
+    "Zenith Engineering": {
+      "engine": "Zenith Turbo",
+      "factory": false,
+      "power_rating": 52,
+      "reliability_rating": 60,
+      "cost_m": 19,
+      "annual_budget_m": 25,
+      "capacity": 3,
+      "active": false,
+      "first_active_season": 4,
+      "join_chance": 0.025,
+      "leave_chance": 0.05,
+      "fuel_efficiency": 50,
+      "mass_kg": 150.0,
+      "nationality": "british"
+    },
+    "Red Bull": {
+      "engine": "Ford",
+      "factory": true,
+      "power_rating": 53.0,
+      "reliability_rating": 43.0,
+      "cost_m": 22,
+      "annual_budget_m": 0,
+      "fuel_efficiency": 52.0,
+      "mass_kg": 150.0,
+      "nationality": "american"
+    },
+    "Ferrari": {
+      "engine": "Ferrari F1",
+      "factory": true,
+      "power_rating": 48.5,
+      "reliability_rating": 53.0,
+      "cost_m": 20,
+      "annual_budget_m": 25.0,
+      "fuel_efficiency": 50.0,
+      "mass_kg": 145.0,
+      "nationality": "italian"
+    },
+    "Audi": {
+      "engine": "Audi",
+      "factory": true,
+      "power_rating": 49.0,
+      "reliability_rating": 42.0,
+      "cost_m": 21,
+      "annual_budget_m": 100.0,
+      "fuel_efficiency": 40.0,
+      "mass_kg": 152.0,
+      "nationality": "german"
+    },
+    "Mercedes": {
+      "engine": "Mercedes",
+      "factory": true,
+      "power_rating": 55.0,
+      "reliability_rating": 49.0,
+      "cost_m": 25,
+      "annual_budget_m": 50.0,
+      "fuel_efficiency": 45.0,
+      "mass_kg": 145.0,
+      "nationality": "german"
+    },
+    "Honda": {
+      "engine": "Honda",
+      "factory": false,
+      "power_rating": 36.0,
+      "reliability_rating": 21.0,
+      "cost_m": 20,
+      "annual_budget_m": 85,
+      "capacity": 3,
+      "active": true,
+      "join_chance": 0.0,
+      "leave_chance": 0.01,
+      "fuel_efficiency": 49.0,
+      "mass_kg": 152.0,
+      "nationality": "japanese"
+    },
+    "Porsche": {
+      "engine": "Porsche",
+      "factory": true,
+      "power_rating": 52.0,
+      "reliability_rating": 48.0,
+      "cost_m": 22,
+      "annual_budget_m": 150.0,
+      "fuel_efficiency": 48.0,
+      "mass_kg": 148.0,
+      "nationality": "german"
+    },
+    "Toyota": {
+      "engine": "Toyota",
+      "factory": true,
+      "power_rating": 50.0,
+      "reliability_rating": 52.0,
+      "cost_m": 20,
+      "annual_budget_m": 120.0,
+      "fuel_efficiency": 50.0,
+      "mass_kg": 150.0,
+      "nationality": "japanese"
+    },
+    "BMW": {
+      "engine": "BMW",
+      "factory": true,
+      "power_rating": 51.0,
+      "reliability_rating": 45.0,
+      "cost_m": 21,
+      "annual_budget_m": 130.0,
+      "fuel_efficiency": 47.0,
+      "mass_kg": 149.0,
+      "nationality": "german"
+    },
+    "BYD": {
+      "engine": "BYD",
+      "factory": true,
+      "power_rating": 48.0,
+      "reliability_rating": 44.0,
+      "cost_m": 18,
+      "annual_budget_m": 200.0,
+      "fuel_efficiency": 55.0,
+      "mass_kg": 152.0,
+      "nationality": "chinese"
+    },
+    "Cosworth": {
+      "engine": "Cosworth V6",
+      "factory": false,
+      "power_rating": 44.0,
+      "reliability_rating": 58.0,
+      "cost_m": 14,
+      "annual_budget_m": 0,
+      "capacity": 4,
+      "active": false,
+      "join_chance": 0.06,
+      "leave_chance": 0.03,
+      "fuel_efficiency": 46.0,
+      "mass_kg": 148.0,
+      "nationality": "british"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Apex Academy",
+    "primary_color_rgb": [
+      200,
+      32,
+      32
+    ],
+    "secondary_color_rgb": [
+      245,
+      245,
+      245
+    ],
+    "quality": 10
+  },
+  {
+    "name": "Silverline",
+    "primary_color_rgb": [
+      64,
+      110,
+      180
+    ],
+    "secondary_color_rgb": [
+      230,
+      235,
+      250
+    ],
+    "quality": 8
+  },
+  {
+    "name": "HDL",
+    "primary_color_rgb": [
+      255,
+      140,
+      0
+    ],
+    "secondary_color_rgb": [
+      40,
+      40,
+      40
+    ],
+    "quality": 5
+  },
+  {
+    "name": "Cascade Racing",
+    "primary_color_rgb": [
+      30,
+      150,
+      140
+    ],
+    "secondary_color_rgb": [
+      220,
+      245,
+      245
+    ],
+    "quality": 4
+  },
+  {
+    "name": "Red Bull Academy",
+    "primary_color_rgb": [
+      0,
+      102,
+      204
+    ],
+    "secondary_color_rgb": [
+      247,
+      245,
+      60
+    ],
+    "quality": 10
+  },
+  {
+    "name": "Ignition Racing",
+    "primary_color_rgb": [
+      210,
+      45,
+      90
+    ],
+    "secondary_color_rgb": [
+      250,
+      220,
+      230
+    ],
+    "quality": 7
+  },
+  {
+    "name": "Vertex",
+    "primary_color_rgb": [
+      45,
+      45,
+      45
+    ],
+    "secondary_color_rgb": [
+      240,
+      240,
+      240
+    ],
+    "quality": 4
+  },
+  {
+    "name": "Atlas",
+    "primary_color_rgb": [
+      80,
+      160,
+      60
+    ],
+    "secondary_color_rgb": [
+      230,
+      250,
+      225
+    ],
+    "quality": 7
+  },
+  {
+    "name": "Stratospeed",
+    "primary_color_rgb": [
+      15,
+      95,
+      170
+    ],
+    "secondary_color_rgb": [
+      250,
+      250,
+      250
+    ],
+    "quality": 3
+  },
+  {
+    "name": "Phoenix Futures",
+    "primary_color_rgb": [
+      200,
+      90,
+      30
+    ],
+    "secondary_color_rgb": [
+      245,
+      232,
+      210
+    ],
+    "quality": 1
+  }
+]

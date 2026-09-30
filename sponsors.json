@@ -1,0 +1,3540 @@
+[
+  {
+    "name": "HP",
+    "rating": 10,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 68,
+    "amount_m": 120.0,
+    "amount_range_m": [
+      90.0,
+      150.0
+    ]
+  },
+  {
+    "name": "Oracle",
+    "rating": 9,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Google",
+    "rating": 8,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "rating": 7,
+    "industry": "Technology",
+    "nationality": "australian",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 11,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ]
+  },
+  {
+    "name": "Cisco",
+    "rating": 7,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 11,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ]
+  },
+  {
+    "name": "NVIDIA",
+    "rating": 7,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Microsoft",
+    "rating": 7,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "CrowdStrike",
+    "rating": 6,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Intel",
+    "rating": 6,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Salesforce",
+    "rating": 6,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "IBM",
+    "rating": 5,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "HPE",
+    "rating": 5,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Snapdragon",
+    "rating": 5,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Meta AI",
+    "rating": 5,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "TeamViewer",
+    "rating": 4,
+    "industry": "Technology",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "AMD",
+    "rating": 4,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Cognizant",
+    "rating": 4,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ServiceNow",
+    "rating": 4,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ARM",
+    "rating": 3,
+    "industry": "Technology",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Siemens",
+    "rating": 3,
+    "industry": "Technology",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Gemini",
+    "rating": 3,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Infosys",
+    "rating": 3,
+    "industry": "Technology",
+    "nationality": "indian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "SAP",
+    "rating": 3,
+    "industry": "Technology",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Lenovo",
+    "rating": 2,
+    "industry": "Technology",
+    "nationality": "chinese",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Dell",
+    "rating": 2,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Bitdefender",
+    "rating": 2,
+    "industry": "Technology",
+    "nationality": "romanian",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Genesys",
+    "rating": 2,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "DXC Technology",
+    "rating": 2,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "NetApp",
+    "rating": 2,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Xerox",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "UKG",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ElevenLabs",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Mphasis",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "indian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Infobip",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "croatian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Akkodis",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "G42",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "emirati",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Signify",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "dutch",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Core Scientific",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "IFS",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "swedish",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Brillio",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Keeper",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Zoox",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Airia",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Groq",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Vast",
+    "rating": 1,
+    "industry": "Technology",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Aramco",
+    "rating": 10,
+    "industry": "Energy",
+    "nationality": "saudi",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 68,
+    "amount_m": 120.0,
+    "amount_range_m": [
+      90.0,
+      150.0
+    ]
+  },
+  {
+    "name": "Petronas",
+    "rating": 9,
+    "industry": "Energy",
+    "nationality": "malaysian",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Shell",
+    "rating": 7,
+    "industry": "Energy",
+    "nationality": "dutch",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "ExxonMobil",
+    "rating": 6,
+    "industry": "Energy",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "BP",
+    "rating": 5,
+    "industry": "Energy",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ENI",
+    "rating": 5,
+    "industry": "Energy",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Castrol",
+    "rating": 4,
+    "industry": "Energy",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Mobil 1",
+    "rating": 4,
+    "industry": "Energy",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "TotalEnergies",
+    "rating": 3,
+    "industry": "Energy",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Gulf Oil",
+    "rating": 2,
+    "industry": "Energy",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Motul",
+    "rating": 2,
+    "industry": "Energy",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Liqui-Moly",
+    "rating": 1,
+    "industry": "Energy",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Valvoline",
+    "rating": 1,
+    "industry": "Energy",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Martini",
+    "rating": 9,
+    "industry": "Alcohol",
+    "nationality": "italian",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "LVMH",
+    "rating": 8,
+    "industry": "Alcohol",
+    "nationality": "french",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Heineken",
+    "rating": 7,
+    "industry": "Alcohol",
+    "nationality": "dutch",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Johnnie Walker",
+    "rating": 6,
+    "industry": "Alcohol",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Jack Daniel's",
+    "rating": 5,
+    "industry": "Alcohol",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Corona",
+    "rating": 4,
+    "industry": "Alcohol",
+    "nationality": "mexican",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "G.H.Mumm",
+    "rating": 4,
+    "industry": "Alcohol",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Moet & Chandon",
+    "rating": 3,
+    "industry": "Alcohol",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Peroni",
+    "rating": 3,
+    "industry": "Alcohol",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Estrella Galicia",
+    "rating": 3,
+    "industry": "Alcohol",
+    "nationality": "spanish",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Jim Beam",
+    "rating": 3,
+    "industry": "Alcohol",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Chivas Regal",
+    "rating": 2,
+    "industry": "Alcohol",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Paulaner",
+    "rating": 2,
+    "industry": "Alcohol",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Singha",
+    "rating": 2,
+    "industry": "Alcohol",
+    "nationality": "thai",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Taittinger",
+    "rating": 1,
+    "industry": "Alcohol",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Glenfiddich",
+    "rating": 1,
+    "industry": "Alcohol",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "NEFT Vodka",
+    "rating": 1,
+    "industry": "Alcohol",
+    "nationality": "austrian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Crypto.com",
+    "rating": 9,
+    "industry": "Crypto",
+    "nationality": "singaporean",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Binance",
+    "rating": 8,
+    "industry": "Crypto",
+    "nationality": "caymanian",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Bybit",
+    "rating": 7,
+    "industry": "Crypto",
+    "nationality": "singaporean",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "OKX",
+    "rating": 6,
+    "industry": "Crypto",
+    "nationality": "seychellois",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Coinbase",
+    "rating": 5,
+    "industry": "Crypto",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Kraken",
+    "rating": 4,
+    "industry": "Crypto",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nexo",
+    "rating": 4,
+    "industry": "Crypto",
+    "nationality": "bulgarian",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Bitpanda",
+    "rating": 3,
+    "industry": "Crypto",
+    "nationality": "austrian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Gate",
+    "rating": 3,
+    "industry": "Crypto",
+    "nationality": "caymanian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "BingX",
+    "rating": 3,
+    "industry": "Crypto",
+    "nationality": "singaporean",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Stake",
+    "rating": 2,
+    "industry": "Crypto",
+    "nationality": "australian",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "CoinPayments",
+    "rating": 2,
+    "industry": "Crypto",
+    "nationality": "canadian",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Hedera",
+    "rating": 2,
+    "industry": "Crypto",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Libertex",
+    "rating": 1,
+    "industry": "Crypto",
+    "nationality": "cypriot",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "DOT",
+    "rating": 1,
+    "industry": "Crypto",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Mastercard",
+    "rating": 10,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 68,
+    "amount_m": 120.0,
+    "amount_range_m": [
+      90.0,
+      150.0
+    ]
+  },
+  {
+    "name": "Visa",
+    "rating": 9,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Revolut",
+    "rating": 7,
+    "industry": "Finance",
+    "nationality": "british",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 11,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ]
+  },
+  {
+    "name": "Santander",
+    "rating": 6,
+    "industry": "Finance",
+    "nationality": "spanish",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "UBS",
+    "rating": 6,
+    "industry": "Finance",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "HSBC",
+    "rating": 5,
+    "industry": "Finance",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Deloitte",
+    "rating": 5,
+    "industry": "Finance",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "AON",
+    "rating": 5,
+    "industry": "Finance",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nasdaq",
+    "rating": 5,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Barclays",
+    "rating": 4,
+    "industry": "Finance",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "BNY",
+    "rating": 4,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Cash App",
+    "rating": 4,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "UniCredit",
+    "rating": 3,
+    "industry": "Finance",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "eToro",
+    "rating": 3,
+    "industry": "Finance",
+    "nationality": "israeli",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Vantage",
+    "rating": 3,
+    "industry": "Finance",
+    "nationality": "australian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Airwallex",
+    "rating": 3,
+    "industry": "Finance",
+    "nationality": "australian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Goldman Sachs",
+    "rating": 2,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "XM Trading",
+    "rating": 2,
+    "industry": "Finance",
+    "nationality": "cypriot",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Circle",
+    "rating": 2,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nu",
+    "rating": 2,
+    "industry": "Finance",
+    "nationality": "brazilian",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Workday",
+    "rating": 2,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Pepperstone",
+    "rating": 1,
+    "industry": "Finance",
+    "nationality": "australian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nuveen",
+    "rating": 1,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Stephens",
+    "rating": 1,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Alteryx",
+    "rating": 1,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Smartsheet",
+    "rating": 1,
+    "industry": "Finance",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Dorilton Ventures",
+    "rating": 1,
+    "industry": "Finance",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Vodafone",
+    "rating": 9,
+    "industry": "Telecom",
+    "nationality": "british",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "SoftBank",
+    "rating": 8,
+    "industry": "Telecom",
+    "nationality": "japanese",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "T-Mobile",
+    "rating": 7,
+    "industry": "Telecom",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 11,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ]
+  },
+  {
+    "name": "AT&T",
+    "rating": 7,
+    "industry": "Telecom",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Deutsche Telekom",
+    "rating": 6,
+    "industry": "Telecom",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Telcel",
+    "rating": 5,
+    "industry": "Telecom",
+    "nationality": "mexican",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nokia",
+    "rating": 4,
+    "industry": "Telecom",
+    "nationality": "finnish",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Claro",
+    "rating": 4,
+    "industry": "Telecom",
+    "nationality": "mexican",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Ooredoo",
+    "rating": 3,
+    "industry": "Telecom",
+    "nationality": "qatari",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Telmex",
+    "rating": 2,
+    "industry": "Telecom",
+    "nationality": "mexican",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Proximus",
+    "rating": 1,
+    "industry": "Telecom",
+    "nationality": "belgian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "PepsiCo",
+    "rating": 9,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Nestle",
+    "rating": 8,
+    "industry": "Consumer Goods",
+    "nationality": "swiss",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Gatorade",
+    "rating": 7,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 11,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ]
+  },
+  {
+    "name": "Diageo",
+    "rating": 7,
+    "industry": "Consumer Goods",
+    "nationality": "british",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 11,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ]
+  },
+  {
+    "name": "Monster Energy",
+    "rating": 6,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Unilever",
+    "rating": 6,
+    "industry": "Consumer Goods",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Gillette",
+    "rating": 5,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Lego",
+    "rating": 5,
+    "industry": "Consumer Goods",
+    "nationality": "danish",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Procter & Gamble",
+    "rating": 5,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "S.Pellegrino",
+    "rating": 4,
+    "industry": "Consumer Goods",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Duracell",
+    "rating": 4,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Reckitt",
+    "rating": 4,
+    "industry": "Consumer Goods",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Yeti",
+    "rating": 3,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Wilkinson Sword",
+    "rating": 3,
+    "industry": "Consumer Goods",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Optimum Nutrition",
+    "rating": 3,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Henkel",
+    "rating": 3,
+    "industry": "Consumer Goods",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "TechnoGym",
+    "rating": 2,
+    "industry": "Consumer Goods",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "WHOOP",
+    "rating": 2,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ArmorAll",
+    "rating": 2,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "KitKat",
+    "rating": 2,
+    "industry": "Consumer Goods",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Danone",
+    "rating": 1,
+    "industry": "Consumer Goods",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Vellamo Water",
+    "rating": 1,
+    "industry": "Consumer Goods",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "BWT",
+    "rating": 9,
+    "industry": "Chemicals/Materials",
+    "nationality": "austrian",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "INEOS",
+    "rating": 8,
+    "industry": "Chemicals/Materials",
+    "nationality": "british",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Solvay",
+    "rating": 7,
+    "industry": "Chemicals/Materials",
+    "nationality": "belgian",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "BASF",
+    "rating": 6,
+    "industry": "Chemicals/Materials",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Dow",
+    "rating": 5,
+    "industry": "Chemicals/Materials",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Honeywell",
+    "rating": 4,
+    "industry": "Chemicals/Materials",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Sherwin-Williams",
+    "rating": 4,
+    "industry": "Chemicals/Materials",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "3M",
+    "rating": 3,
+    "industry": "Chemicals/Materials",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Ecolab",
+    "rating": 3,
+    "industry": "Chemicals/Materials",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "DuPont",
+    "rating": 2,
+    "industry": "Chemicals/Materials",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Sabic",
+    "rating": 1,
+    "industry": "Chemicals/Materials",
+    "nationality": "saudi",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Akzo Nobel",
+    "rating": 1,
+    "industry": "Chemicals/Materials",
+    "nationality": "dutch",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Ambipar",
+    "rating": 1,
+    "industry": "Chemicals/Materials",
+    "nationality": "brazilian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Adidas",
+    "rating": 7,
+    "industry": "Clothing",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Puma",
+    "rating": 7,
+    "industry": "Clothing",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Nike",
+    "rating": 6,
+    "industry": "Clothing",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "rating": 5,
+    "industry": "Clothing",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Hugo",
+    "rating": 5,
+    "industry": "Clothing",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Lacoste",
+    "rating": 4,
+    "industry": "Clothing",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Pepe Jeans",
+    "rating": 3,
+    "industry": "Clothing",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Castore",
+    "rating": 3,
+    "industry": "Clothing",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "New Era",
+    "rating": 2,
+    "industry": "Clothing",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Travis Mathew",
+    "rating": 2,
+    "industry": "Clothing",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Reiss",
+    "rating": 2,
+    "industry": "Clothing",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Alpinestars",
+    "rating": 1,
+    "industry": "Clothing",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "APL",
+    "rating": 1,
+    "industry": "Clothing",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Richard Mille",
+    "rating": 9,
+    "industry": "Luxury",
+    "nationality": "french",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Tag Heuer",
+    "rating": 8,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Rolex",
+    "rating": 7,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Louis Vuitton",
+    "rating": 7,
+    "industry": "Luxury",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "IWC Schaffhausen",
+    "rating": 6,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Breitling",
+    "rating": 6,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Tudor",
+    "rating": 5,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "MSC Cruises",
+    "rating": 5,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Ray-Ban",
+    "rating": 4,
+    "industry": "Luxury",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Vistajet",
+    "rating": 4,
+    "industry": "Luxury",
+    "nationality": "maltese",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Girard-Perregaux",
+    "rating": 4,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Hugo Boss",
+    "rating": 3,
+    "industry": "Luxury",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "H. Moser & Cie",
+    "rating": 3,
+    "industry": "Luxury",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Tumi",
+    "rating": 3,
+    "industry": "Luxury",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Maui Jim",
+    "rating": 2,
+    "industry": "Luxury",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Chanel",
+    "rating": 2,
+    "industry": "Luxury",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Elemis",
+    "rating": 1,
+    "industry": "Luxury",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Dior",
+    "rating": 1,
+    "industry": "Luxury",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Zyn",
+    "rating": 7,
+    "industry": "Nicotine Products",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Velo",
+    "rating": 6,
+    "industry": "Nicotine Products",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Vuse",
+    "rating": 5,
+    "industry": "Nicotine Products",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "IQOS",
+    "rating": 4,
+    "industry": "Nicotine Products",
+    "nationality": "japanese",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nordic Spirit",
+    "rating": 3,
+    "industry": "Nicotine Products",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Lyft",
+    "rating": 2,
+    "industry": "Nicotine Products",
+    "nationality": "swedish",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "On!",
+    "rating": 1,
+    "industry": "Nicotine Products",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Emirates",
+    "rating": 9,
+    "industry": "Hospitality",
+    "nationality": "emirati",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 58,
+    "amount_m": 95.0,
+    "amount_range_m": [
+      70.0,
+      120.0
+    ]
+  },
+  {
+    "name": "Qatar Airways",
+    "rating": 8,
+    "industry": "Hospitality",
+    "nationality": "qatari",
+    "active": true,
+    "type": "title",
+    "stake_pct": 0.1,
+    "prestige_min": 59,
+    "amount_m": 67.5,
+    "amount_range_m": [
+      45.0,
+      90.0
+    ]
+  },
+  {
+    "name": "Etihad",
+    "rating": 7,
+    "industry": "Hospitality",
+    "nationality": "emirati",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Hard Rock",
+    "rating": 6,
+    "industry": "Hospitality",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Singapore Airlines",
+    "rating": 5,
+    "industry": "Hospitality",
+    "nationality": "singaporean",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Turkish Airlines",
+    "rating": 4,
+    "industry": "Hospitality",
+    "nationality": "turkish",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "World of Hyatt",
+    "rating": 4,
+    "industry": "Hospitality",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Lufthansa",
+    "rating": 4,
+    "industry": "Hospitality",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "MGM Rewards",
+    "rating": 3,
+    "industry": "Hospitality",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Accor",
+    "rating": 3,
+    "industry": "Hospitality",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Visit Qatar",
+    "rating": 3,
+    "industry": "Hospitality",
+    "nationality": "qatari",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "IHG",
+    "rating": 3,
+    "industry": "Hospitality",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Velocity Black",
+    "rating": 2,
+    "industry": "Hospitality",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Atlas Air",
+    "rating": 2,
+    "industry": "Hospitality",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Marriott Bonvoy",
+    "rating": 2,
+    "industry": "Hospitality",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Hahnair",
+    "rating": 1,
+    "industry": "Hospitality",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Viagogo",
+    "rating": 1,
+    "industry": "Hospitality",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Hilton",
+    "rating": 2,
+    "industry": "Hospitality",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "EA Sports",
+    "rating": 7,
+    "industry": "Gaming",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "PlayStation",
+    "rating": 7,
+    "industry": "Gaming",
+    "nationality": "japanese",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Xbox",
+    "rating": 6,
+    "industry": "Gaming",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Logitech",
+    "rating": 6,
+    "industry": "Gaming",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Alienware",
+    "rating": 5,
+    "industry": "Gaming",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Razer",
+    "rating": 5,
+    "industry": "Gaming",
+    "nationality": "singaporean",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ASUS ROG",
+    "rating": 4,
+    "industry": "Gaming",
+    "nationality": "taiwanese",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "MSI",
+    "rating": 4,
+    "industry": "Gaming",
+    "nationality": "taiwanese",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Betway",
+    "rating": 5,
+    "industry": "Gaming",
+    "nationality": "maltese",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Corsair",
+    "rating": 3,
+    "industry": "Gaming",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "SteelSeries",
+    "rating": 3,
+    "industry": "Gaming",
+    "nationality": "danish",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "PUBG Mobile",
+    "rating": 4,
+    "industry": "Gaming",
+    "nationality": "south korean",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Jackpot City",
+    "rating": 3,
+    "industry": "Gaming",
+    "nationality": "maltese",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Fanatec",
+    "rating": 2,
+    "industry": "Gaming",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Play'n GO",
+    "rating": 2,
+    "industry": "Gaming",
+    "nationality": "swedish",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Thrustmaster",
+    "rating": 1,
+    "industry": "Gaming",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Zoomex",
+    "rating": 1,
+    "industry": "Gaming",
+    "nationality": "singaporean",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Netflix",
+    "rating": 7,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Amazon Prime Video",
+    "rating": 7,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Sky",
+    "rating": 6,
+    "industry": "Media",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "ESPN",
+    "rating": 6,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Apple TV",
+    "rating": 5,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "HBO",
+    "rating": 5,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "TikTok",
+    "rating": 5,
+    "industry": "Media",
+    "nationality": "chinese",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Spotify",
+    "rating": 4,
+    "industry": "Media",
+    "nationality": "swedish",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Canal+",
+    "rating": 4,
+    "industry": "Media",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Discovery",
+    "rating": 3,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Fox Sports",
+    "rating": 3,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "CNBC",
+    "rating": 3,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "F1 TV",
+    "rating": 2,
+    "industry": "Media",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "YouTube",
+    "rating": 2,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "SiriusXM",
+    "rating": 1,
+    "industry": "Media",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "NME",
+    "rating": 1,
+    "industry": "Media",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "DAZN",
+    "rating": 1,
+    "industry": "Media",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "DP World",
+    "rating": 7,
+    "industry": "Logistics",
+    "nationality": "emirati",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "DHL",
+    "rating": 6,
+    "industry": "Logistics",
+    "nationality": "german",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "CEVA Logistics",
+    "rating": 5,
+    "industry": "Logistics",
+    "nationality": "french",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "FedEx",
+    "rating": 4,
+    "industry": "Logistics",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Aramex",
+    "rating": 3,
+    "industry": "Logistics",
+    "nationality": "emirati",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "TNT",
+    "rating": 2,
+    "industry": "Logistics",
+    "nationality": "dutch",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Kuehne+Nagel",
+    "rating": 1,
+    "industry": "Logistics",
+    "nationality": "swiss",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Komatsu",
+    "rating": 7,
+    "industry": "Industrial",
+    "nationality": "japanese",
+    "active": true,
+    "amount_m": 67.8,
+    "amount_range_m": [
+      59.2,
+      76.4
+    ],
+    "prestige_min": 11
+  },
+  {
+    "name": "Hexagon",
+    "rating": 6,
+    "industry": "Industrial",
+    "nationality": "swedish",
+    "active": true,
+    "amount_m": 65.0,
+    "amount_range_m": [
+      60.0,
+      70.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "JCB",
+    "rating": 5,
+    "industry": "Industrial",
+    "nationality": "british",
+    "active": true,
+    "amount_m": 60.0,
+    "amount_range_m": [
+      55.0,
+      65.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Maaden",
+    "rating": 4,
+    "industry": "Industrial",
+    "nationality": "saudi",
+    "active": true,
+    "amount_m": 55.0,
+    "amount_range_m": [
+      50.0,
+      60.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "IVECO",
+    "rating": 3,
+    "industry": "Industrial",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 50.0,
+    "amount_range_m": [
+      45.0,
+      55.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Tenneco",
+    "rating": 2,
+    "industry": "Industrial",
+    "nationality": "american",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Nouryon",
+    "rating": 2,
+    "industry": "Industrial",
+    "nationality": "dutch",
+    "active": true,
+    "amount_m": 45.0,
+    "amount_range_m": [
+      40.0,
+      50.0
+    ],
+    "prestige_min": 0
+  },
+  {
+    "name": "Camozzi",
+    "rating": 1,
+    "industry": "Industrial",
+    "nationality": "italian",
+    "active": true,
+    "amount_m": 37.5,
+    "amount_range_m": [
+      35.0,
+      40.0
+    ],
+    "prestige_min": 0
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "suppliers": {
+    "Pirelli": {
+      "active": true,
+      "join_chance": 0.0,
+      "leave_chance": 0.005,
+      "pace": {
+        "soft": 62,
+        "medium": 58,
+        "hard": 52,
+        "intermediate": 50,
+        "wet": 48
+      },
+      "durability": {
+        "soft": 38,
+        "medium": 44,
+        "hard": 52,
+        "intermediate": 55,
+        "wet": 58
+      },
+      "prices": {
+        "works": 0,
+        "partner": 0,
+        "customer": 10
+      },
+      "trend": {
+        "pace": -0.01,
+        "durability": 0.01
+      },
+      "variance": {
+        "pace": 0.03,
+        "durability": 0.02
+      },
+      "nationality": "italian"
+    },
+    "Michelin": {
+      "active": false,
+      "min_join_season": 4,
+      "join_chance": 0.08,
+      "leave_chance": 0.03,
+      "pace": {
+        "soft": 72,
+        "medium": 68,
+        "hard": 60,
+        "intermediate": 55,
+        "wet": 50
+      },
+      "durability": {
+        "soft": 30,
+        "medium": 36,
+        "hard": 44,
+        "intermediate": 48,
+        "wet": 50
+      },
+      "prices": {
+        "works": 0,
+        "partner": 0,
+        "customer": 15.0
+      },
+      "trend": {
+        "pace": -0.005,
+        "durability": 0.005
+      },
+      "variance": {
+        "pace": 0.04,
+        "durability": 0.03
+      },
+      "nationality": "french"
+    },
+    "Bridgestone": {
+      "active": false,
+      "min_join_season": 2,
+      "join_chance": 0.05,
+      "leave_chance": 0.02,
+      "pace": {
+        "soft": 58,
+        "medium": 56,
+        "hard": 54,
+        "intermediate": 52,
+        "wet": 55
+      },
+      "durability": {
+        "soft": 52,
+        "medium": 58,
+        "hard": 65,
+        "intermediate": 68,
+        "wet": 70
+      },
+      "prices": {
+        "works": 0,
+        "partner": 0,
+        "customer": 12.0
+      },
+      "trend": {
+        "pace": 0.002,
+        "durability": -0.004
+      },
+      "variance": {
+        "pace": 0.02,
+        "durability": 0.02
+      },
+      "nationality": "japanese"
+    },
+    "Dunlop": {
+      "active": false,
+      "min_join_season": 1,
+      "join_chance": 0.03,
+      "leave_chance": 0.02,
+      "pace": {
+        "soft": 48,
+        "medium": 46,
+        "hard": 44,
+        "intermediate": 42,
+        "wet": 40
+      },
+      "durability": {
+        "soft": 65,
+        "medium": 68,
+        "hard": 72,
+        "intermediate": 70,
+        "wet": 68
+      },
+      "prices": {
+        "works": 0,
+        "partner": 0,
+        "customer": 7.0
+      },
+      "trend": {
+        "pace": 0.01,
+        "durability": -0.01
+      },
+      "variance": {
+        "pace": 0.03,
+        "durability": 0.02
+      },
+      "nationality": "british"
+    }
+  }
+}

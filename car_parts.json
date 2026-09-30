@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "order": [
+    "front_wing",
+    "rear_wing",
+    "underfloor",
+    "diffuser",
+    "sidepods",
+    "chassis"
+  ],
+  "parts": {
+    "front_wing": {
+      "label": "Front Wing",
+      "abbr": "FW",
+      "wear_per_lap": 0.2,
+      "max_cornering_kmh_loss": 0.25,
+      "max_mechanical_dnf_increase": 0.05,
+      "understanding_start": 0.5,
+      "understanding_laps_to_full": 250,
+      "staff_hours": 20,
+      "build_cost_m": 0.15,
+      "starting_stock": 4
+    },
+    "rear_wing": {
+      "label": "Rear Wing",
+      "abbr": "RW",
+      "wear_per_lap": 0.2,
+      "max_cornering_kmh_loss": 0.25,
+      "max_mechanical_dnf_increase": 0.05,
+      "understanding_start": 0.5,
+      "understanding_laps_to_full": 250,
+      "staff_hours": 20,
+      "build_cost_m": 0.15,
+      "starting_stock": 4
+    },
+    "underfloor": {
+      "label": "Underfloor",
+      "abbr": "UF",
+      "wear_per_lap": 0.125,
+      "max_cornering_kmh_loss": 0.25,
+      "max_mechanical_dnf_increase": 0.1,
+      "understanding_start": 0.5,
+      "understanding_laps_to_full": 500,
+      "staff_hours": 30,
+      "build_cost_m": 0.2,
+      "starting_stock": 4
+    },
+    "diffuser": {
+      "label": "Diffuser",
+      "abbr": "DF",
+      "wear_per_lap": 0.125,
+      "max_cornering_kmh_loss": 0.25,
+      "max_mechanical_dnf_increase": 0.1,
+      "understanding_start": 0.5,
+      "understanding_laps_to_full": 500,
+      "staff_hours": 30,
+      "build_cost_m": 0.2,
+      "starting_stock": 4
+    },
+    "sidepods": {
+      "label": "Sidepods",
+      "abbr": "SP",
+      "wear_per_lap": 0.125,
+      "max_cornering_kmh_loss": 0.25,
+      "max_mechanical_dnf_increase": 0.1,
+      "understanding_start": 0.5,
+      "understanding_laps_to_full": 500,
+      "staff_hours": 30,
+      "build_cost_m": 0.2,
+      "starting_stock": 4
+    },
+    "chassis": {
+      "label": "Chassis",
+      "abbr": "C",
+      "wear_per_lap": 0.1,
+      "max_cornering_kmh_loss": 2,
+      "max_mechanical_dnf_increase": 0.2,
+      "understanding_start": 0.5,
+      "understanding_laps_to_full": 750,
+      "staff_hours": 75,
+      "build_cost_m": 0.5,
+      "starting_stock": 2
+    }
+  }
+}
